@@ -1,0 +1,131 @@
+{
+  "scope": "Observed historical descriptive analysis; no causal or AI impact estimates",
+  "seed": 20260911,
+  "bootstrap_replicates": 1000,
+  "primary_cases": 17263,
+  "status_cases": 17132,
+  "assignment_cases": 16379,
+  "joint_cases": 16370,
+  "recorded_resolution": {
+    "eligible_cases": 16788,
+    "mean_days": 21.38608297614065,
+    "median_days": 6.0863222395835646,
+    "p90_days": 54.0776473564812,
+    "p95_days": 91.95585921412057
+  },
+  "missing_resolution": 475,
+  "closed_with_missing_resolution": 104,
+  "source_sql_sha256": "2b9a502306c8e48ba64ad921711000ef7728bb327304186177a9adba134cada4",
+  "pipeline_sha256": "b4e4e2008891a1ff299adfae0dacccbee15d35a748fee69f87d0bee32df20c44",
+  "observed_status_calendar_days": 361899.98121550924,
+  "observed_waiting_calendar_days": 151868.69995880796,
+  "waiting_share_excluding_closed_done_cancelled": 0.4346477402822806,
+  "repeated_positive_duration_wait_cases": 1284,
+  "stratified_associations": {
+    "repeat_waiting": {
+      "strata": 66,
+      "overlap_cases": 3402,
+      "positive_median_difference_strata": 63,
+      "overlap_weighted_log_difference": 1.49303777236142,
+      "note": "Descriptive within year/recorded priority/project association; no causal interpretation",
+      "case_bootstrap_median_difference_95_interval_days": [
+        24.808558420139367,
+        32.23182720500583
+      ],
+      "project_cluster_sensitivity": {
+        "projects": 291,
+        "replicates": 500,
+        "percentile_95_interval_days": [
+          22.046290770254686,
+          35.620296406105155
+        ],
+        "note": "Exploratory project-cluster resampling; not causal and no protection from shared dependencies across projects"
+      }
+    },
+    "validation_return": {
+      "strata": 32,
+      "overlap_cases": 1899,
+      "positive_median_difference_strata": 31,
+      "overlap_weighted_log_difference": 1.5992627459565054,
+      "note": "Descriptive within year/recorded priority/project association; no causal interpretation",
+      "case_bootstrap_median_difference_95_interval_days": [
+        36.942797741898715,
+        49.843194158854246
+      ],
+      "project_cluster_sensitivity": {
+        "projects": 291,
+        "replicates": 500,
+        "percentile_95_interval_days": [
+          33.92556473900481,
+          52.45032368981458
+        ],
+        "note": "Exploratory project-cluster resampling; not causal and no protection from shared dependencies across projects"
+      }
+    },
+    "reopened": {
+      "strata": 17,
+      "overlap_cases": 1388,
+      "positive_median_difference_strata": 15,
+      "overlap_weighted_log_difference": 0.6682091897060275,
+      "note": "Descriptive within year/recorded priority/project association; no causal interpretation",
+      "case_bootstrap_median_difference_95_interval_days": [
+        6.845076838251755,
+        14.942509262008766
+      ],
+      "project_cluster_sensitivity": {
+        "projects": 291,
+        "replicates": 500,
+        "percentile_95_interval_days": [
+          6.022322955294961,
+          16.01058333333333
+        ],
+        "note": "Exploratory project-cluster resampling; not causal and no protection from shared dependencies across projects"
+      }
+    },
+    "multiple_handoffs": {
+      "strata": 153,
+      "overlap_cases": 6709,
+      "positive_median_difference_strata": 105,
+      "overlap_weighted_log_difference": 0.3322905549966347,
+      "note": "Descriptive within year/recorded priority/project association; no causal interpretation",
+      "case_bootstrap_median_difference_95_interval_days": [
+        1.428784692999666,
+        3.2825434322922526
+      ],
+      "project_cluster_sensitivity": {
+        "projects": 290,
+        "replicates": 500,
+        "percentile_95_interval_days": [
+          1.068930972222963,
+          4.904091556857754
+        ],
+        "note": "Exploratory project-cluster resampling; not causal and no protection from shared dependencies across projects"
+      }
+    }
+  },
+  "long_and_repeat_waiting": {
+    "intersection": 915,
+    "union": 4880
+  },
+  "fixed_30day_selected_sensitivity": {
+    "cases": 16817,
+    "waiting_share": 0.4750133613123775,
+    "note": "Selected follow-up check; does not establish complete capture or remove outcome selection"
+  },
+  "before_first_resolved_sensitivity": {
+    "cases": 12163,
+    "waiting_share": 0.5633634134505259,
+    "note": "Selected subset with a recorded Resolved state; direct-to-Closed cases excluded; not time to verified restoration"
+  },
+  "project_concentration": {
+    "projects": 292,
+    "largest_waiting_share": 0.05518059984000093,
+    "top10_waiting_share": 0.2895791470575319
+  },
+  "assignment_only": {
+    "any_named_handoff": 10496,
+    "multiple_named_handoffs": 3210,
+    "named_handoff_count": 14869
+  },
+  "verification": "Unique case grain and independent SQL interval totals passed"
+}

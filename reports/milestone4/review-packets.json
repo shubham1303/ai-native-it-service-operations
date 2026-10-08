@@ -1,0 +1,2030 @@
+[
+  {
+    "issueid": "1008598",
+    "episode_id": "1008598@1664699336.000000",
+    "stratum": "long_repeat",
+    "project": "C13ghbx0",
+    "priority": "Medium",
+    "days": 14.895300925925927,
+    "start_utc": "2022-10-02 08:28:56+00:00",
+    "end_utc": "2022-10-17 05:58:10+00:00",
+    "predecessor": "in_progress",
+    "successor": "resolved",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1095230",
+        "created_utc": "2022-10-02 06:33:11+00:00",
+        "role": "assignee",
+        "source_rows": "23193,23194",
+        "text": "greetings can we connect to verify this issue?",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1095238",
+        "created_utc": "2022-10-02 06:43:30+00:00",
+        "role": "reporter",
+        "source_rows": "23195",
+        "text": "yes, please send the ph_technical teams invite, i'll be available.",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1095304",
+        "created_utc": "2022-10-02 08:28:47+00:00",
+        "role": "assignee",
+        "source_rows": "23196,23197,23198",
+        "text": "greetings as per today's session, we conclude to issue with ph_technical uat schema, where when we changed to ph_technical production schema, the application has fitch account customers successfully. you  ph_user  verify with the bank dba to look over this issue and compare the uat with the production schema.",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1096613",
+        "created_utc": "2022-10-09 05:07:02+00:00",
+        "role": "reporter",
+        "source_rows": "23199,23200,23201,23202,23203,23204",
+        "text": "greetings please find below message from ph_technical team: greetings not being able to pull the data from the datasource can have different reasons: the data is not available in the source the query used is not pointing on the correct data the datasource used is not the correct one i advise you to approach the developer to troubleshoot, as the ph_technical is up and running with no change in uat.",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1096875",
+        "created_utc": "2022-10-10 07:36:21+00:00",
+        "role": "reporter",
+        "source_rows": "23215,23216,23217",
+        "text": "greetings ph_technical team will be available also tomorrow at ph_technical to have a quick meeting regarding the uat db. please add ph_user to the ph_technical teams invite.",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1098031",
+        "created_utc": "2022-10-16 06:49:15+00:00",
+        "role": "reporter",
+        "source_rows": "23222,23223,23224,23225,23226,23227",
+        "text": "greetings please find below response from ph_technical team. ph_technical then this is an application issue. from ph_technical side, the ph_technical is available, and the user is accessible with the credentials previously shared, and with the necessary rights to create a session. ph_technical",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1098062",
+        "created_utc": "2022-10-16 07:57:26+00:00",
+        "role": "assignee",
+        "source_rows": "23236,23237,23238",
+        "text": "greetings we don't have a query, but we are retrieving from the below sample table ph_path : tables: ph_technical columns: ph_technical",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 10
+  },
+  {
+    "issueid": "1008678",
+    "episode_id": "1008678@1665464434.000000",
+    "stratum": "long_repeat",
+    "project": "C01ggz-3",
+    "priority": "High",
+    "days": 28.050208333333334,
+    "start_utc": "2022-10-11 05:00:34+00:00",
+    "end_utc": "2022-11-08 06:12:52+00:00",
+    "predecessor": "validation",
+    "successor": "validation",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1097063",
+        "created_utc": "2022-10-10 11:36:51+00:00",
+        "role": "others",
+        "source_rows": "23895,23896,23897",
+        "text": "greetings kindly note that this is the second reminder to provide an update. regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1097203",
+        "created_utc": "2022-10-11 05:00:20+00:00",
+        "role": "assignee",
+        "source_rows": "23898,23899,23900,23901,23902,23903,23904,23905,23906",
+        "text": "greetings as still we did not receive the jar file from production for confirmation, however, regarding the flow for the ph_items to reach to ta page. kindly check below scenarios: in the ph_technical service there are 2 flows for the ph_item to go to the ph_technical page which are the following: ph_item accepted with ph_item amount ph_technical x amount (inward routing amount) ph_technical routing to tech approval ph_item rejected with ph_item amount ph_technical z amount (inward ph_technical rejected routing amount) ph_technical routing to tech approval hence, we don't have a specific business for the reason account closed to appear at ph_technical page. kindly let us know if you have any further queries on this. regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1098553",
+        "created_utc": "2022-10-18 04:22:52+00:00",
+        "role": "others",
+        "source_rows": "23907,23908,23909",
+        "text": "greetings kindly could you please post another reminder to the client to manage this ticket. regards,  ph_user  ph_user ph_user",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1100218",
+        "created_utc": "2022-10-26 03:24:23+00:00",
+        "role": "others",
+        "source_rows": "23910,23911,23912,23913",
+        "text": "greetings kindly note that is a second reminder to provide updates. regards,  ph_user   ph_user  ph_user ph_user",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1101708",
+        "created_utc": "2022-11-02 04:34:21+00:00",
+        "role": "others",
+        "source_rows": "23918,23919,23920,23921",
+        "text": "greetings kindly let us know if you need more clarification or we can close this ticket. regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1102531",
+        "created_utc": "2022-11-07 04:45:07+00:00",
+        "role": "others",
+        "source_rows": "23926,23927,23928,23929",
+        "text": "greetings kindly if there is any update regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "after",
+        "comment_id": "1102953",
+        "created_utc": "2022-11-08 06:14:11+00:00",
+        "role": "others",
+        "source_rows": "23930,23931,23932",
+        "text": "necessary jar from production has been collected and forwarded to dev team to recheck from the code. regards,  ph_user ",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 6
+  },
+  {
+    "issueid": "1005715",
+    "episode_id": "1005715@1649237539.000000",
+    "stratum": "long_repeat",
+    "project": "C13ggb__0",
+    "priority": "Medium",
+    "days": 11.8921875,
+    "start_utc": "2022-04-06 09:32:19+00:00",
+    "end_utc": "2022-04-18 06:57:04+00:00",
+    "predecessor": "validation",
+    "successor": "resolved",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1063624",
+        "created_utc": "2022-04-06 08:38:47+00:00",
+        "role": "assignee",
+        "source_rows": "8036,8037,8038,8039,8040",
+        "text": "greetings please copy the attached \u201c ph_technical \u201d file to uat server, so i can deploy it. this file has a fix for the exception monitor page. regards,  ph_user .",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1063855",
+        "created_utc": "2022-04-07 07:42:13+00:00",
+        "role": "assignee",
+        "source_rows": "8041,8042,8043,8044",
+        "text": "greetings we are waiting your confirmation to test the provided fix over the uat server, please advise. regards,  ph_user .",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1063924",
+        "created_utc": "2022-04-07 09:44:30+00:00",
+        "role": "assignee",
+        "source_rows": "8045,8046,8047,8048,8049",
+        "text": "greetings the fix has deployed and tested successfully, so the user now can update the pay bank details and save them from the exception monitor page. i added another ph_item so the business users can test on, where i am suggesting to do also some ph_items from ph_technical machine to simulate the case using a bank branch which is not exist such as bank code 9 with branch code 90. regards,  ph_user .",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1064427",
+        "created_utc": "2022-04-11 10:30:42+00:00",
+        "role": "assignee",
+        "source_rows": "8050,8051,8052,8053",
+        "text": "greetings please update us if you are able to test the monitor page after the provided fix. regards,  ph_user .",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1065379",
+        "created_utc": "2022-04-17 07:59:44+00:00",
+        "role": "assignee",
+        "source_rows": "8058,8059,8060,8061",
+        "text": "greetings kindly we don't have any feedback from your side for the provided fix, please update us if you still need our support otherwise we will close it and consider resolved. regards,  ph_user .",
+        "truncated": false
+      },
+      {
+        "period": "after",
+        "comment_id": "1065592",
+        "created_utc": "2022-04-18 07:02:35+00:00",
+        "role": "reporter",
+        "source_rows": "8062,8063,8064,8065",
+        "text": "greetings uat is already done and production deployment approval is in progress, i update you as soon as we get approval for production deployment. regards,  ph_user ",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 5
+  },
+  {
+    "issueid": "1010058",
+    "episode_id": "1010058@1669904154.000000",
+    "stratum": "long_repeat",
+    "project": "C07hr6cz0",
+    "priority": "Medium",
+    "days": 65.04585648148148,
+    "start_utc": "2022-12-01 14:15:54+00:00",
+    "end_utc": "2023-02-04 15:21:56+00:00",
+    "predecessor": "validation",
+    "successor": "resolved",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1107758",
+        "created_utc": "2022-11-30 05:31:17+00:00",
+        "role": "reporter",
+        "source_rows": "28179,28180",
+        "text": "greetings kindly let us know the status of the below case.",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1107815",
+        "created_utc": "2022-11-30 07:41:17+00:00",
+        "role": "assignee",
+        "source_rows": "28181,28182,28183",
+        "text": "greetings kindly note we are still investigating the issue and will update you. best regards, ph_name team.",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1108190",
+        "created_utc": "2022-12-01 14:15:38+00:00",
+        "role": "assignee",
+        "source_rows": "28184,28185,28186",
+        "text": "greetings kindly we need to connect to the uat site to apply for the required roles for reporting, will call you on sunday to arrange it. best regards, ph_name team.",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1108250",
+        "created_utc": "2022-12-04 05:14:57+00:00",
+        "role": "reporter",
+        "source_rows": "28187,28188",
+        "text": "greetings kindly let us know your availability today to test the user roles on uat",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1108777",
+        "created_utc": "2022-12-05 09:17:20+00:00",
+        "role": "reporter",
+        "source_rows": "28217,28218,28219",
+        "text": "greetings i am facing some issue while sharing the screen. we will check the issue and will update you.",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1110389",
+        "created_utc": "2022-12-12 11:52:40+00:00",
+        "role": "assignee",
+        "source_rows": "28247,28248,28249",
+        "text": "greetings thanks for arranging the session today, as agreed during the call the dns records ph_technical ph_technical it seems not added, waiting for your update after the dns is added on the uat site. best regards, ph_name team.",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1121152",
+        "created_utc": "2023-02-04 15:21:44+00:00",
+        "role": "assignee",
+        "source_rows": "28280,28281,28282",
+        "text": "greetings kindly note that since no feedback from your side, we will consider this ticket is resolved and closed, please open a new ticket if more assistance is required from our side. best regards, ph_name team.",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 37
+  },
+  {
+    "issueid": "1004368",
+    "episode_id": "1004368@1647509472.000000",
+    "stratum": "long_repeat",
+    "project": "C12gg0.a",
+    "priority": "High",
+    "days": 65.9302199074074,
+    "start_utc": "2022-03-17 09:31:12+00:00",
+    "end_utc": "2022-05-22 07:50:43+00:00",
+    "predecessor": "validation",
+    "successor": "validation",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1060321",
+        "created_utc": "2022-03-17 09:28:38+00:00",
+        "role": "assignee",
+        "source_rows": "681,682,683",
+        "text": "greetings we will get back to you soon. regards",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1060323",
+        "created_utc": "2022-03-17 09:31:02+00:00",
+        "role": "assignee",
+        "source_rows": "684,685,686,687",
+        "text": "greetings we tried to simulate the case internally but the issue not appeared. could you please let us know once the issue appeared in order to connect with  ph_user  and investigate it on the site. regards",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1060351",
+        "created_utc": "2022-03-17 10:46:33+00:00",
+        "role": "reporter",
+        "source_rows": "688",
+        "text": "i will refer to you when the case exist.",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1063595",
+        "created_utc": "2022-04-06 08:03:16+00:00",
+        "role": "assignee",
+        "source_rows": "693,694,695",
+        "text": "greetings as a new ticket opened for this case for ph_item ph_technical , please to upload all logs exist on the machine on desktop with name 05042022. regards",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1065627",
+        "created_utc": "2022-04-18 07:30:03+00:00",
+        "role": "assignee",
+        "source_rows": "706,707,708",
+        "text": "greetings waiting your kind feedback. regards",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1070520",
+        "created_utc": "2022-05-22 07:38:20+00:00",
+        "role": "assignee",
+        "source_rows": "724,725",
+        "text": "thank you ph_user . will check logs and get back to you.",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 17
+  },
+  {
+    "issueid": "1007739",
+    "episode_id": "1007739@1664888034.000000",
+    "stratum": "long_repeat",
+    "project": "C02hk0x93",
+    "priority": "Medium",
+    "days": 20.079641203703705,
+    "start_utc": "2022-10-04 12:53:54+00:00",
+    "end_utc": "2022-10-24 14:48:35+00:00",
+    "predecessor": "in_progress",
+    "successor": "in_progress",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1095855",
+        "created_utc": "2022-10-04 07:53:04+00:00",
+        "role": "reporter",
+        "source_rows": "20781,20782",
+        "text": "meeting invitation sent, please accept. ph_link",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1095949",
+        "created_utc": "2022-10-04 11:19:19+00:00",
+        "role": "reporter",
+        "source_rows": "20783,20784",
+        "text": "greetings all logs are uploaded, please check.",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1096016",
+        "created_utc": "2022-10-04 12:53:46+00:00",
+        "role": "assignee",
+        "source_rows": "20785,20786,20787,20788",
+        "text": "greetings as requested, please upload ph_technical logs directory, not the tomcat access logs. also we need today's files and the ones of the date when the case appeared the first time. regards",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1096543",
+        "created_utc": "2022-10-06 12:57:51+00:00",
+        "role": "reporter",
+        "source_rows": "20789,20790",
+        "text": "greetings logs are collected, but i am unable to uploaded because it is big files, i will arrange a meeting on next monday to check the logs over the zoom call",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1097380",
+        "created_utc": "2022-10-11 11:45:22+00:00",
+        "role": "others",
+        "source_rows": "20794,20795,20796",
+        "text": "greetings kindly if there is any update please provide it on this ticket. regards,  ph_user   ph_name ph_user ph_user",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1097778",
+        "created_utc": "2022-10-13 08:46:41+00:00",
+        "role": "reporter",
+        "source_rows": "20801,20802,20803",
+        "text": "dear  ph_user   ph_user  all the teal will be available in the meeting today at 1:30 ph_name time, can you please arrange to attend ph_link",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1099917",
+        "created_utc": "2022-10-24 14:48:20+00:00",
+        "role": "assignee",
+        "source_rows": "20807,20808,20809,20810",
+        "text": "dears, me and the  ph_user  are trying to find the best way to fix the problem internally as it is hard to stay connected with the bank while looking for a solution. we will keep you updated. regards",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 7
+  },
+  {
+    "issueid": "1009661",
+    "episode_id": "1009661@1667736673.000000",
+    "stratum": "long_repeat",
+    "project": "C12hhx18a",
+    "priority": "Highest",
+    "days": 7.8749768518518515,
+    "start_utc": "2022-11-06 12:11:13+00:00",
+    "end_utc": "2022-11-14 09:11:11+00:00",
+    "predecessor": "in_progress",
+    "successor": "resolved",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1102394",
+        "created_utc": "2022-11-06 10:18:28+00:00",
+        "role": "others",
+        "source_rows": "27123,27124,27125,27126",
+        "text": "greetings kindly note that we will check this issue and update you soonest. regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1102401",
+        "created_utc": "2022-11-06 10:56:06+00:00",
+        "role": "assignee",
+        "source_rows": "27127,27128,27129,27130",
+        "text": "greetings kindly note that we will be checking this issue and we will be updating you soon. regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1102436",
+        "created_utc": "2022-11-06 12:11:05+00:00",
+        "role": "assignee",
+        "source_rows": "27131,27132,27133,27134,27135,27136",
+        "text": "greetings kindly note that we are using the below api's: ph_technical kindly confirm to replacement of the purchase api, and provide the new api to be replaced with. regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1102475",
+        "created_utc": "2022-11-06 12:51:05+00:00",
+        "role": "reporter",
+        "source_rows": "27137",
+        "text": "we need to change it to call ph_technical similar like ph_technical as the attached request.",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1102483",
+        "created_utc": "2022-11-06 13:07:59+00:00",
+        "role": "assignee",
+        "source_rows": "27141,27142,27143,27144",
+        "text": "greetings kindly provide us with the ph_technical full ph_technical to be added similar like ph_technical, regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1102620",
+        "created_utc": "2022-11-07 06:46:47+00:00",
+        "role": "assignee",
+        "source_rows": "27148,27149,27150,27151",
+        "text": "greetings noted, i will check with ph_name team and update you. regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1104188",
+        "created_utc": "2022-11-14 09:06:25+00:00",
+        "role": "assignee",
+        "source_rows": "27157,27158,27159,27160",
+        "text": "greetings kindly provide your update. regards,  ph_user ",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 9
+  },
+  {
+    "issueid": "1007611",
+    "episode_id": "1007611@1658303160.000000",
+    "stratum": "long_repeat",
+    "project": "C06ggn039",
+    "priority": "Medium",
+    "days": 22.264027777777777,
+    "start_utc": "2022-07-20 07:46:00+00:00",
+    "end_utc": "2022-08-11 14:06:12+00:00",
+    "predecessor": null,
+    "successor": "in_progress",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1081122",
+        "created_utc": "2022-07-20 07:43:48+00:00",
+        "role": "others",
+        "source_rows": "19827,19828,19829,19830,19831,19832,19833,19834,19835,19836,19837,19838",
+        "text": "problem: applying the wallet investigation and simulation: apply the wallet to the  ph_user  archive development agile related issue : solution: we apply it locally, ensure it's working successfully, and then reflect it on the bank site. 1- did we resolve the problem and its symptoms? yes. 2- did we understand and resolve the root cause of the problem? yes. 3- will this problem appear at this customer or other customer site? no.",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1081123",
+        "created_utc": "2022-07-20 07:43:53+00:00",
+        "role": "others",
+        "source_rows": "19839",
+        "text": "to provide our best support the following policy for tickets waiting customer feedback, and tickets under monitoring will be applied - ph_name team will remind the customer every two working days, after the second reminder if no response, the ph_name team will escalate the ticket and inform the customer that the ticket will be closed by end of second week if no response received.",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1081124",
+        "created_utc": "2022-07-20 07:45:40+00:00",
+        "role": "assignee",
+        "source_rows": "19840,19841,19842,19843",
+        "text": "greetings please advise us of a suitable time to connect with you, to create and use a wallet on the archive server. best regards,  ph_user   ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1081196",
+        "created_utc": "2022-07-20 11:32:23+00:00",
+        "role": "assignee",
+        "source_rows": "19844,19845,19846,19847",
+        "text": "greetings a kind reminder to provide us with a suitable time to connect with you. regards,  ph_user   ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1083314",
+        "created_utc": "2022-08-01 13:54:03+00:00",
+        "role": "others",
+        "source_rows": "19851,19852,19853,19854",
+        "text": "greetings could you please post another reminder to the client to manage this ticket as well. regards,  ph_user   ph_user  ph_user ph_user",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1085282",
+        "created_utc": "2022-08-10 11:13:24+00:00",
+        "role": "assignee",
+        "source_rows": "19859,19860,19861,19862",
+        "text": "dears, could you please join the webex session below to apply the oracle wallet: ph_link best regards,  ph_user   ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1085557",
+        "created_utc": "2022-08-11 14:02:14+00:00",
+        "role": "assignee",
+        "source_rows": "19872,19873,19874",
+        "text": "dears, per our last connection, the wallet was applied on the archive server for the sender and archive tomcat, but we did not proceed with all the steps because we needed to verify the  ph_user  production schema password before finishing the applying wallet. best regards,  ph_user   ph_user ",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 8
+  },
+  {
+    "issueid": "1004446",
+    "episode_id": "1004446@1641823715.000000",
+    "stratum": "long_single",
+    "project": "C02hk0x93",
+    "priority": "Medium",
+    "days": 41.93238425925926,
+    "start_utc": "2022-01-10 14:08:35+00:00",
+    "end_utc": "2022-02-21 12:31:13+00:00",
+    "predecessor": "in_progress",
+    "successor": "resolved",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1047157",
+        "created_utc": "2022-01-10 12:45:18+00:00",
+        "role": "others",
+        "source_rows": "1664,1665,1666,1667,1668",
+        "text": "greetings as per call with ph_user , kindly be informed that this ticket has been assigned to you. regards,  ph_user   ph_user  ph_user",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1047160",
+        "created_utc": "2022-01-10 13:01:56+00:00",
+        "role": "assignee",
+        "source_rows": "1669,1670,1671,1672",
+        "text": "greetings we will check and get back to you, regards  ph_user   ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1047170",
+        "created_utc": "2022-01-10 13:44:37+00:00",
+        "role": "assignee",
+        "source_rows": "1673,1674,1675,1676",
+        "text": "greetings please suggest a time to connect to check the issue. regards  ph_user   ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1047273",
+        "created_utc": "2022-01-11 05:42:06+00:00",
+        "role": "reporter",
+        "source_rows": "1677,1678",
+        "text": "greetings 10:00 am ph_name time will be fine, i will send a meeting invitation",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1050570",
+        "created_utc": "2022-01-26 08:02:58+00:00",
+        "role": "assignee",
+        "source_rows": "1690",
+        "text": "the issue still is under the  ph_user .",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1052778",
+        "created_utc": "2022-02-06 13:09:47+00:00",
+        "role": "reporter",
+        "source_rows": "1702,1703",
+        "text": "greetings please refer to the attached",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1055964",
+        "created_utc": "2022-02-21 11:24:38+00:00",
+        "role": "reporter",
+        "source_rows": "1723,1724",
+        "text": "hi, business roles disabled, you can close the ticket, thanks",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 15
+  },
+  {
+    "issueid": "1005454",
+    "episode_id": "1005454@1648015908.000000",
+    "stratum": "long_single",
+    "project": "C07hr6cz0",
+    "priority": "Medium",
+    "days": 77.93989583333334,
+    "start_utc": "2022-03-23 06:11:48+00:00",
+    "end_utc": "2022-06-09 04:45:15+00:00",
+    "predecessor": null,
+    "successor": "in_progress",
+    "comments": [
+      {
+        "period": "during",
+        "comment_id": "1061152",
+        "created_utc": "2022-03-23 06:12:45+00:00",
+        "role": "others",
+        "source_rows": "6633,6634,6635,6636",
+        "text": "greetings kindly send reminder to the bank every 2 days; if no response after 4 reminders, please close it. regards,  ph_user   ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1061533",
+        "created_utc": "2022-03-27 06:27:21+00:00",
+        "role": "others",
+        "source_rows": "6637,6638,6639,6640",
+        "text": "greetings please advice about your preferred date to do this activity. best regards, ph_name,",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1063129",
+        "created_utc": "2022-04-04 06:44:20+00:00",
+        "role": "others",
+        "source_rows": "6645,6646,6647,6648",
+        "text": "greetings please advice about your preferred date to do this activity. best regards, ph_name,",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1065126",
+        "created_utc": "2022-04-14 07:52:38+00:00",
+        "role": "others",
+        "source_rows": "6653,6654,6655",
+        "text": "greetings as per our discussion,this activity has been rescheduled to the next sunday ph_technical ph_path at 1 pm. best regards,",
+        "truncated": false
+      },
+      {
+        "period": "after",
+        "comment_id": "1073872",
+        "created_utc": "2022-06-09 07:06:14+00:00",
+        "role": "others",
+        "source_rows": "6656,6657,6658",
+        "text": "greetings kindly find the ph_technical status report attached. best regards,",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 6
+  },
+  {
+    "issueid": "1004519",
+    "episode_id": "1004519@1642593516.000000",
+    "stratum": "long_single",
+    "project": "C12hgx18a",
+    "priority": "High",
+    "days": 118.97200231481482,
+    "start_utc": "2022-01-19 11:58:36+00:00",
+    "end_utc": "2022-05-18 11:18:17+00:00",
+    "predecessor": "in_progress",
+    "successor": "closed",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1048817",
+        "created_utc": "2022-01-18 06:04:57+00:00",
+        "role": "others",
+        "source_rows": "1901,1902,1903,1904,1905",
+        "text": "greetings kindly if there are any updates regarding this issue please provide them. regards,  ph_user   ph_user  ph_user",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1049176",
+        "created_utc": "2022-01-19 11:58:24+00:00",
+        "role": "assignee",
+        "source_rows": "1906,1907,1908,1909",
+        "text": "greetings as per our phone call please check what is modified over this service and return to us. regards  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1049644",
+        "created_utc": "2022-01-23 08:47:31+00:00",
+        "role": "assignee",
+        "source_rows": "1910,1911,1912,1913,1914",
+        "text": "greetings kindly note that we need to update the agent again with the same \u201clatitude ph_technical longitude\u201d values in order to catch the request and response to check them if there is anything wrong. please coordinate with me before you update the agent. regards  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1058944",
+        "created_utc": "2022-03-09 12:17:40+00:00",
+        "role": "others",
+        "source_rows": "1936,1937,1938,1939,1940",
+        "text": "greetings kindly note that this is the second reminder to provide update to manage this ticket. regards,  ph_user  ph_user",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1063302",
+        "created_utc": "2022-04-04 17:32:20+00:00",
+        "role": "others",
+        "source_rows": "1961,1962,1963,1964,1965",
+        "text": "greetings kindly if there is any update please provide it on this ticket. regards,  ph_user  ph_user",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1070154",
+        "created_utc": "2022-05-18 11:17:57+00:00",
+        "role": "assignee",
+        "source_rows": "1986,1987,1988,1989",
+        "text": "greetings please note that this issue is old, and there is no update from your side we will close this ticket and you can re-open a ticket at any time. regards,  ph_user ",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 19
+  },
+  {
+    "issueid": "1007580",
+    "episode_id": "1007580@1658752949.000000",
+    "stratum": "long_single",
+    "project": "C13ggd10",
+    "priority": "Medium",
+    "days": 12.82917824074074,
+    "start_utc": "2022-07-25 12:42:29+00:00",
+    "end_utc": "2022-08-07 08:36:30+00:00",
+    "predecessor": "validation",
+    "successor": "resolved",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1082042",
+        "created_utc": "2022-07-25 12:42:14+00:00",
+        "role": "assignee",
+        "source_rows": "19815,19816,19817,19818,19819,19820,19821",
+        "text": "greetings as guided, kindly refer to the below steps and confirm if it solved your issue. in the ph_technical edit for each service the below to make the stop on holiday false: ph_code please make sure that ph_technical and ph_technical are set outside the time that you will be checking. best regards,  ph_user   ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "after",
+        "comment_id": "1084454",
+        "created_utc": "2022-08-07 08:36:35+00:00",
+        "role": "assignee",
+        "source_rows": "19822,19823,19824,19825",
+        "text": "greetings in reference to our phone conversation, and since the issue is resolved, please consider this ticket as closed. best regards,  ph_user   ph_user ",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 0
+  },
+  {
+    "issueid": "1009250",
+    "episode_id": "1009250@1666009376.000000",
+    "stratum": "long_single",
+    "project": "C01ggd_0",
+    "priority": "Medium",
+    "days": 10.843229166666667,
+    "start_utc": "2022-10-17 12:22:56+00:00",
+    "end_utc": "2022-10-28 08:37:11+00:00",
+    "predecessor": "in_progress",
+    "successor": "closed",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1098253",
+        "created_utc": "2022-10-17 04:59:35+00:00",
+        "role": "others",
+        "source_rows": "25396,25397,25398,25399,25400,25401,25402",
+        "text": ". problem: . investigation and simulation: . development agile related issue : . solution: 1- did we resolve the problem and its symptoms? 2- did we understand and resolve the root cause of the problem? 3- will this problem appear at this customer or other customer site?",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1098254",
+        "created_utc": "2022-10-17 04:59:39+00:00",
+        "role": "others",
+        "source_rows": "25403",
+        "text": "to provide our best support the following policy for tickets waiting customer feedback, and tickets under monitoring will be applied - ph_name team will remind the customer every two working days, after the second reminder if no response, the ph_name team will escalate the ticket and inform the customer that the ticket will be closed by end of second week if no response received.",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1098504",
+        "created_utc": "2022-10-17 12:22:32+00:00",
+        "role": "assignee",
+        "source_rows": "25404,25405,25406,25407",
+        "text": "run the below sql statement in sequence. ph_sql ph_sql ph_sql",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1099113",
+        "created_utc": "2022-10-20 04:57:19+00:00",
+        "role": "assignee",
+        "source_rows": "25408,25409,25410,25411,25412,25413",
+        "text": "greetings kindly updates weather the workaround has been implemented. we are proceeding towards closing this tickets. do let me know if you have any concerns. regards,  ph_user   ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1099900",
+        "created_utc": "2022-10-24 13:32:24+00:00",
+        "role": "others",
+        "source_rows": "25414,25415,25416",
+        "text": "greetings kindly could you please post another reminder to the client to manage this ticket as well. regards,  ph_user   ph_user  ph_user ph_user",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 2
+  },
+  {
+    "issueid": "1006856",
+    "episode_id": "1006856@1654503181.000000",
+    "stratum": "long_single",
+    "project": "C08ggz3_0",
+    "priority": "Medium",
+    "days": 37.09127314814815,
+    "start_utc": "2022-06-06 08:13:01+00:00",
+    "end_utc": "2022-07-13 10:24:27+00:00",
+    "predecessor": "in_progress",
+    "successor": "resolved",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1073087",
+        "created_utc": "2022-06-05 14:09:43+00:00",
+        "role": "others",
+        "source_rows": "14636,14637,14638,14639",
+        "text": "greetings kindly be informed that this ticket has been assigned to you. regards,  ph_user   ph_user  ph_user ph_user",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1073089",
+        "created_utc": "2022-06-05 14:16:54+00:00",
+        "role": "assignee",
+        "source_rows": "14640,14641,14642,14643,14644,14645",
+        "text": "dears, please note that we have checked the logs and the integration and no issue appeared on the logs, also please note that the site internally is working with no issue reported. we have checked the production site. the screen shot show the test site, please let us know is the problem still exist , as we did a restart for the tomcats upon ph_technical request, and everything is working fine after the 1 min restart regards, ph_name team",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1073226",
+        "created_utc": "2022-06-06 08:12:40+00:00",
+        "role": "assignee",
+        "source_rows": "14646,14647,14648,14649,14650,14651,14652",
+        "text": "greetings please note that today we have checked again the issue of customer info internally and the below error retrieved in the logs for the customer info message ph_logs according to that please check the ph_technical services from your end to solve the faced issue. kindly let us know if you still need any more assistance from our end. regards, ph_name team",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1073229",
+        "created_utc": "2022-06-06 08:19:05+00:00",
+        "role": "reporter",
+        "source_rows": "14653,14654,14655,14656,14657",
+        "text": "greetings as a part of migration from the cloud to on premise. we are testing the  ph_user  integration in the on-premise environment and have faced this issue as shown in the screenshot and the root cause was unknown from our side. kindly advise. regards.",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1074315",
+        "created_utc": "2022-06-12 13:10:10+00:00",
+        "role": "reporter",
+        "source_rows": "14678,14679,14680",
+        "text": "greetings the urls have been changed in the new test environment as following: ph_link ph_link kindly advise if we can have a session to confirm the connectivity or any further investigation aside that needs to be done. regards,",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1075779",
+        "created_utc": "2022-06-20 07:50:22+00:00",
+        "role": "assignee",
+        "source_rows": "14699,14700,14701,14702,14703",
+        "text": "greetings kindly note that telnet from integration server ( ph_ip_address ) ( test site ) to the new provided url is not working and the connection closed, what you have report below is related to session which is different of the issue that you are facing. also , please confirm to us, if you have contact ph_technical in order to avail a connection to your new prepared ph_technical or not. regards, ph_name team",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1079797",
+        "created_utc": "2022-07-13 10:24:13+00:00",
+        "role": "assignee",
+        "source_rows": "14722,14723,14724,14725,14726,14727",
+        "text": "dears, please note that according to the conduct meeting last week , we have follow up with you and your network team along with the middle ware team, no we were able to connect to your end successfully with no issue. yet you have faced some issue related to the customer info message which you should work to resolve the faced issue. according to that please note that we will consider this issue as resolved. regards, ph_name team",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 16
+  },
+  {
+    "issueid": "1004298",
+    "episode_id": "1004298@1641122283.000000",
+    "stratum": "long_single",
+    "project": "C11gg0w13",
+    "priority": "High",
+    "days": 141.76539351851852,
+    "start_utc": "2022-01-02 11:18:03+00:00",
+    "end_utc": "2022-05-24 05:40:13+00:00",
+    "predecessor": null,
+    "successor": "closed",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1045407",
+        "created_utc": "2022-01-02 11:13:02+00:00",
+        "role": "others",
+        "source_rows": "5,6,7,8,9,10,11",
+        "text": ". problem: . investigation and simulation: . development agile related issue : . solution: 1- did we resolve the problem and its symptoms? 2- did we understand and resolve the root cause of the problem? 3- will this problem appear at this customer or other customer site?",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1045408",
+        "created_utc": "2022-01-02 11:13:06+00:00",
+        "role": "others",
+        "source_rows": "12",
+        "text": "to provide our best support the following policy for tickets waiting customer feedback, and tickets under monitoring will be applied - ph_name team will remind the customer every two working days, after the second reminder if no response, the ph_name team will escalate the ticket and inform the customer that the ticket will be closed by end of second week if no response received.",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1045412",
+        "created_utc": "2022-01-02 11:17:42+00:00",
+        "role": "assignee",
+        "source_rows": "13,14",
+        "text": "greetings report is not clear and contains points not related to the application so please remove the internal issues and segregate each application in separate sheet .",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1046266",
+        "created_utc": "2022-01-05 09:49:27+00:00",
+        "role": "others",
+        "source_rows": "15,16",
+        "text": "greetings attached are the list of vulnerabilities for each system.",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1052693",
+        "created_utc": "2022-02-06 09:23:01+00:00",
+        "role": "assignee",
+        "source_rows": "66,67",
+        "text": "greetings please share all ph_technical folders from production to prepare it for you also please share ph_technical from tomcat and this can be done only after create new certificate to update all configuration once . ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1061691",
+        "created_utc": "2022-03-27 11:24:56+00:00",
+        "role": "assignee",
+        "source_rows": "134,135",
+        "text": "greetings open ph_technical ph_technical is not used in our prod systems",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1070939",
+        "created_utc": "2022-05-24 05:40:03+00:00",
+        "role": "assignee",
+        "source_rows": "224,225",
+        "text": "greetings as no response received will consider this issue as resolved and it will be closed and if you face any other issue you can open new ticket .",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 46
+  },
+  {
+    "issueid": "1010303",
+    "episode_id": "1010303@1671518095.000000",
+    "stratum": "long_single",
+    "project": "C07hr0w",
+    "priority": "Medium",
+    "days": 23.291238425925926,
+    "start_utc": "2022-12-20 06:34:55+00:00",
+    "end_utc": "2023-01-12 13:34:18+00:00",
+    "predecessor": null,
+    "successor": "closed",
+    "comments": [
+      {
+        "period": "during",
+        "comment_id": "1111953",
+        "created_utc": "2022-12-20 06:37:25+00:00",
+        "role": "others",
+        "source_rows": "28776,28777,28778,28779,28780",
+        "text": "greetings please note that we've completed the ph_technical activity on the app server. please ask your dba to run the early provided script on the ph_name ph_technical and provide us with the output files from the app server and db. best regards, ph_name",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1112621",
+        "created_utc": "2022-12-25 10:01:10+00:00",
+        "role": "others",
+        "source_rows": "28781,28782",
+        "text": "greetings this is a kind reminder. regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1113494",
+        "created_utc": "2022-12-29 08:46:23+00:00",
+        "role": "others",
+        "source_rows": "28783,28784",
+        "text": "greetings this is a kind reminder. regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1114980",
+        "created_utc": "2023-01-05 14:33:01+00:00",
+        "role": "others",
+        "source_rows": "28785,28786,28787,28788",
+        "text": "greetings please note that we will close this issue by end of next week in case no response from your side. best regards ph_name team",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 4
+  },
+  {
+    "issueid": "1007567",
+    "episode_id": "1007567@1661065120.000000",
+    "stratum": "short_repeat",
+    "project": "C12gg0.a",
+    "priority": "Highest",
+    "days": 4.6296296296296294e-05,
+    "start_utc": "2022-08-21 06:58:40+00:00",
+    "end_utc": "2022-08-21 06:58:44+00:00",
+    "predecessor": "validation",
+    "successor": "resolved",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1086954",
+        "created_utc": "2022-08-21 06:11:57+00:00",
+        "role": "assignee",
+        "source_rows": "19653,19654,19655,19656,19657,19658",
+        "text": "greetings please join the below session in order to deploy the attached file \u201c ph_file \u201d: ph_link regards,  ph_user  ph_user",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1087009",
+        "created_utc": "2022-08-21 06:58:30+00:00",
+        "role": "assignee",
+        "source_rows": "19659,19660,19661,19662,19663",
+        "text": "greetings please note that the fix has been deployed, please proceed with the test cycle and provide us with your feedback. regards,  ph_user  ph_user",
+        "truncated": false
+      },
+      {
+        "period": "after",
+        "comment_id": "1087457",
+        "created_utc": "2022-08-23 05:32:14+00:00",
+        "role": "assignee",
+        "source_rows": "19664,19665,19666,19667,19668",
+        "text": "greetings we are waiting for your kind feedback. regards,  ph_user  ph_user",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 0
+  },
+  {
+    "issueid": "1008671",
+    "episode_id": "1008671@1664785578.000000",
+    "stratum": "short_repeat",
+    "project": "C06hgfz_x",
+    "priority": "High",
+    "days": 2.6727199074074073,
+    "start_utc": "2022-10-03 08:26:18+00:00",
+    "end_utc": "2022-10-06 00:35:01+00:00",
+    "predecessor": "in_progress",
+    "successor": "validation",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1095610",
+        "created_utc": "2022-10-03 08:26:04+00:00",
+        "role": "others",
+        "source_rows": "23724,23725,23726",
+        "text": "greetings could please mention why you can not go with the provided solution? we will study all the possibilities with the developers and get back to you. regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1095938",
+        "created_utc": "2022-10-04 10:50:00+00:00",
+        "role": "others",
+        "source_rows": "23727,23728",
+        "text": "dears, we need solution for this issue and we will not accept any workaround ,as we take confirmation from your side before we go with oracle ph_technical, that ph_technical is compatible with oracle ph_technical, please consider this as top priority because we plan to go live very soon .",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1096371",
+        "created_utc": "2022-10-06 00:34:27+00:00",
+        "role": "assignee",
+        "source_rows": "23729,23730,23731,23732",
+        "text": "greetings kindly note, the connection close issue is identified and we will deploy a new release that has the fix on your uat environment once finished. regards,  ph_user ",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 2
+  },
+  {
+    "issueid": "1007010",
+    "episode_id": "1007010@1655731532.000000",
+    "stratum": "short_repeat",
+    "project": "C12hgx18a",
+    "priority": "Medium",
+    "days": 5.935752314814815,
+    "start_utc": "2022-06-20 13:25:32+00:00",
+    "end_utc": "2022-06-26 11:53:01+00:00",
+    "predecessor": "resolved_under_monitoring",
+    "successor": "resolved_under_monitoring",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1075725",
+        "created_utc": "2022-06-20 05:58:15+00:00",
+        "role": "assignee",
+        "source_rows": "15078,15079,15080,15081",
+        "text": "greetings kindly note that after applying the changes on the production, we did not faced any blocking or abnormal behavior, please your update. regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1075926",
+        "created_utc": "2022-06-20 13:25:18+00:00",
+        "role": "assignee",
+        "source_rows": "15082,15083,15084,15085",
+        "text": "greetings please is there are any updates? regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1076285",
+        "created_utc": "2022-06-22 07:47:54+00:00",
+        "role": "reporter",
+        "source_rows": "15086,15087,15088,15089,15090,15091,15092",
+        "text": "greetings blocking not related to tcp behaviour it's related to many sessions use same records as ph_technical from ph_name to ph_technical. seem there was issue on ph_name to generate update query please check below query from ph_technical ph_technical we discussed this issue internally and impossible to related to network, please check with  ph_user  to check more. thanks",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1076618",
+        "created_utc": "2022-06-23 09:03:48+00:00",
+        "role": "assignee",
+        "source_rows": "15093,15094,15095,15096,15097,15098",
+        "text": "greetings please use the sql tuning advisor on the below sql statement and update us. also, we have passed this sql to the developers and they will update us soonest. note: sql tuning script attached. regards.  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1076655",
+        "created_utc": "2022-06-23 10:19:46+00:00",
+        "role": "assignee",
+        "source_rows": "15102,15103,15104,15105",
+        "text": "greetings please change the sql id in the script for any sql id in your valid ph_technical report! regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1076941",
+        "created_utc": "2022-06-26 11:52:45+00:00",
+        "role": "assignee",
+        "source_rows": "15110,15111,15112,15113,15114,15115,15116,15117",
+        "text": "greetings please note that the block is mixed between network and server side issues. the sessions as you ph_technical was under normal, and we know that after ph_name restart the system back normal, there was an issue with the threads in the server, and the ph_name was unable to start any new thread. also, as a precaution procedure we switched ph_name to work in tcp ph_path mode instead of multicast for the ph_name launcher. as for the blocking from the update query you mentioned below, as for now its normal but we have passed this sql query to the developers to check it and we will update you if we have any updates regards the same. for now, there is nothing to do from our side except monitoring the system, as we dont know the root cause of the issue yet! regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "after",
+        "comment_id": "1076963",
+        "created_utc": "2022-06-26 13:21:12+00:00",
+        "role": "reporter",
+        "source_rows": "15118",
+        "text": "let us wait developer feedback since we have no root cause.",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 6
+  },
+  {
+    "issueid": "1006065",
+    "episode_id": "1006065@1667304626.000000",
+    "stratum": "short_repeat",
+    "project": "C10grx1nv",
+    "priority": "Medium",
+    "days": 0.7485648148148148,
+    "start_utc": "2022-11-01 12:10:26+00:00",
+    "end_utc": "2022-11-02 06:08:22+00:00",
+    "predecessor": "validation",
+    "successor": "resolved",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1101577",
+        "created_utc": "2022-11-01 10:38:06+00:00",
+        "role": "others",
+        "source_rows": "10660,10661,10662,10663",
+        "text": "greetings kindly update on the final release. thank you  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1101594",
+        "created_utc": "2022-11-01 11:21:38+00:00",
+        "role": "others",
+        "source_rows": "10664,10665,10666,10667,10668",
+        "text": "fix deployment ph_technical ph_technical ph_technical ph_technical",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1101631",
+        "created_utc": "2022-11-01 12:09:24+00:00",
+        "role": "others",
+        "source_rows": "10669,10670,10671,10672,10673,10674,10675,10676,10677,10678,10679,10680,10681,10682,10683,10684,10685,10686,10687,10688,10689,10690,10691,10692,10693,10694,10695,10696,10697,10698,10699,10700",
+        "text": "greetings please find the final fixes for ph_name ph_name email issue: find two attachments attached here in this ticket: 1. ph_technical that consists of ph_technical , ph_technical and ph_technical 2. ph_technical that consist of ph_technical , ph_technical and ph_technical ph_technical 1. add the class file ph_technical inside the location ph_technical ph_path ph_technical of ph_technical ph_path ph_technical ph_technical 2. add the class file ph_technical in the location ph_technical ph_path ph_technical of ph_technical ph_path ph_technical ph_technical 3. add the following content in the file ph_technical in the location: web-inf ph_path .xml ph_code 4. add the following content in the file app-camel-settings.properties in the location: web-inf ph_path .properties: ph_technical 5. replace ph_code with ph_code in the following location: web-inf ph_path .xml 6. execute the following query: sql: ph_sql 7. make sure ph_technical file is in the location: ph_technical ph_path 8. in database, in table ph_technical , make sure ph_technical and also confirm other necessary parameters. ph_technical 1. add the class file ph_technical inside the location ph_technical ph_path ph_technical of ph_name ph_path ph_technical 2. add the class file ph_technical in the location ph_technical ph_path ph_technical of ph_name ph_path ph_technical ph_technical 3. add the following content inside the location: web-inf ph_path .xml: ph_code 4.add the following content to the location:web-inf ph_path .properties: ph_technical 5.replace ph_code with ph_code inside web-inf ph_path .xml 6. run the fo",
+        "truncated": true
+      },
+      {
+        "period": "after",
+        "comment_id": "1101964",
+        "created_utc": "2022-11-02 17:20:34+00:00",
+        "role": "reporter",
+        "source_rows": "10701,10702,10703,10704,10705",
+        "text": "greetings we have implemented the changes in production. lets monitor this tommorow. thanks,  ph_user ",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 0
+  },
+  {
+    "issueid": "1008607",
+    "episode_id": "1008607@1664193113.000000",
+    "stratum": "short_repeat",
+    "project": "C12hhx18a",
+    "priority": "High",
+    "days": 5.991886574074074,
+    "start_utc": "2022-09-26 11:51:53+00:00",
+    "end_utc": "2022-10-02 11:40:12+00:00",
+    "predecessor": "validation",
+    "successor": "validation",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1094185",
+        "created_utc": "2022-09-26 11:44:50+00:00",
+        "role": "assignee",
+        "source_rows": "23317,23318,23319,23320,23321,23322",
+        "text": "greetings please note that we have deployed the fix that ph_user mentioned below over uat, please proceed with testing and update us. greetings fyi. regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1094869",
+        "created_utc": "2022-09-29 05:52:48+00:00",
+        "role": "others",
+        "source_rows": "23323,23324,23325,23326,23327,23328,23329,23330,23331,23332,23333,23334,23335,23336,23337",
+        "text": "greetings here are the test data, please proceed with testing. ph_technical \u0645\u0631\u0641\u0642 \u0623\u062f\u0646\u0627\u0647 \u0623\u0645\u062b\u0644\u0629 \u0644\u0623\u0631\u0642\u0627\u0645 \u0647\u0648\u064a\u0627\u062a \u0645\u0633\u062a\u0641\u064a\u062f\u064a\u0646: \u0639\u0644\u064a\u0647\u0645 \u0641\u0648\u0627\u062a\u064a\u0631 ph_technical ph_technical ph_technical ph_technical ph_technical ph_technical \u0639\u0644\u064a\u0647\u0645 \u0641\u0648\u0627\u062a\u064a\u0631 ph_technical ph_technical ph_technical ph_technical ph_technical",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1095272",
+        "created_utc": "2022-10-02 07:29:15+00:00",
+        "role": "reporter",
+        "source_rows": "23338,23339,23340,23341,23342,23343",
+        "text": "ph_user kindly we received an error ph_technical request : ph_code response : ph_code inquiry reference number ph_technical",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1095291",
+        "created_utc": "2022-10-02 07:57:52+00:00",
+        "role": "others",
+        "source_rows": "23347,23348,23349",
+        "text": "dears ph_user and ph_user , we will wait for the biller response. we  ph_user  need to do a development fix and deploy again.",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1095394",
+        "created_utc": "2022-10-02 11:40:04+00:00",
+        "role": "assignee",
+        "source_rows": "23354,23355,23356,23357",
+        "text": "greetings please note that as per  ph_user  feedback we have passed all the notes to the developers and we will wait until they fix the issue and deploy it to uat. regards,  ph_user ",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 6
+  },
+  {
+    "issueid": "1009327",
+    "episode_id": "1009327@1669872317.000000",
+    "stratum": "short_repeat",
+    "project": "C10ggx1nv",
+    "priority": "Medium",
+    "days": 3.2178703703703704,
+    "start_utc": "2022-12-01 05:25:17+00:00",
+    "end_utc": "2022-12-04 10:39:01+00:00",
+    "predecessor": "in_progress",
+    "successor": "resolved",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1107367",
+        "created_utc": "2022-11-29 05:38:28+00:00",
+        "role": "reporter",
+        "source_rows": "25548,25549,25550,25551",
+        "text": "greetings we understand the severity for ph_technical, but we need to allow some words ph_technical since this is the name of customer and he is not able to use the system. so please help to check this. thanks,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1107904",
+        "created_utc": "2022-11-30 11:16:57+00:00",
+        "role": "others",
+        "source_rows": "25552,25553,25554,25555,25556,25557,25558,25559",
+        "text": "greetings as discussed over the phone, the issue of not able to upload ph_item from image capture page for specific customer name as \u201c ph_name , is related to ph_technical . this issue looks similar to the previous issue of not able to save note in inward, but these two has completely different scenario. if still you want a fix for this then we have to rechange the ph_technical file and redeploy the ph_technical file to all the banks. please reconfirm once from your side within ph_name team and let us know. regards,  ph_user   ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "after",
+        "comment_id": "1108648",
+        "created_utc": "2022-12-05 03:56:30+00:00",
+        "role": "reporter",
+        "source_rows": "25560,25561,25562,25563",
+        "text": "greetings please include this fix in same version of ph_technical, ph_ip_address .please confirm. thanks,  ph_user ",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 0
+  },
+  {
+    "issueid": "1004444",
+    "episode_id": "1004444@1642059298.000000",
+    "stratum": "short_repeat",
+    "project": "C01ggz-3",
+    "priority": "Medium",
+    "days": 0.1591087962962963,
+    "start_utc": "2022-01-13 07:34:58+00:00",
+    "end_utc": "2022-01-13 11:24:05+00:00",
+    "predecessor": "in_progress",
+    "successor": "in_progress",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1047814",
+        "created_utc": "2022-01-12 12:15:19+00:00",
+        "role": "others",
+        "source_rows": "1495,1496,1497,1498,1499",
+        "text": "greetings as per our discussion over the phone, we will check this issue tomorrow best regards,  ph_user  ph_user",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1047952",
+        "created_utc": "2022-01-13 07:20:32+00:00",
+        "role": "reporter",
+        "source_rows": "1500,1501,1502",
+        "text": "greetings please find the attached dump file as requested regards",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1047956",
+        "created_utc": "2022-01-13 07:34:15+00:00",
+        "role": "others",
+        "source_rows": "1503,1504,1505,1506,1507,1508",
+        "text": "greetings kindly join the below session ph_link best regards,  ph_user  ph_user",
+        "truncated": false
+      },
+      {
+        "period": "after",
+        "comment_id": "1048059",
+        "created_utc": "2022-01-13 11:27:16+00:00",
+        "role": "others",
+        "source_rows": "1509,1510,1511,1512,1513",
+        "text": "greetings as we agreed we will continue on this case next week since we can not access the test system today regarding the connection issue best regards,  ph_user  ph_user",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 0
+  },
+  {
+    "issueid": "1005845",
+    "episode_id": "1005845@1648641490.000000",
+    "stratum": "short_repeat",
+    "project": "C12ggzcz0u",
+    "priority": "Low",
+    "days": 0.7356828703703704,
+    "start_utc": "2022-03-30 11:58:10+00:00",
+    "end_utc": "2022-03-31 05:37:33+00:00",
+    "predecessor": "in_progress",
+    "successor": "in_progress",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1062477",
+        "created_utc": "2022-03-30 11:47:00+00:00",
+        "role": "assignee",
+        "source_rows": "8865,8866,8867,8868",
+        "text": "greetings kindly be informed that your ticket has been assigned. regards, ph_name team",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1062478",
+        "created_utc": "2022-03-30 11:50:18+00:00",
+        "role": "others",
+        "source_rows": "8869,8870,8871,8872,8873",
+        "text": "greetings as per discussion with ph_user , kindly be informed that this ticket has been assigned to you. regards,  ph_user   ph_user  ph_user ph_user",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1062480",
+        "created_utc": "2022-03-30 11:57:49+00:00",
+        "role": "others",
+        "source_rows": "8874,8875,8876,8877,8878,8879,8880,8881",
+        "text": "greetings kindly advise if this case is always repeated or just for one ph_item or do you want to let the ben. name appears on the deposit slip as the attached file does not show the case it seems the images are corrupted please attach the images of this case directly on the ticket best regards,  ph_user  ph_user",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1062498",
+        "created_utc": "2022-03-30 12:32:25+00:00",
+        "role": "reporter",
+        "source_rows": "8882,8883,8884,8885",
+        "text": "greetings please note its appear only for this user for all accounts and only today , before its going fine without any problem attached the needed as example regards",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1062566",
+        "created_utc": "2022-03-31 05:37:12+00:00",
+        "role": "others",
+        "source_rows": "8886,8887,8888,8889,8890,8891",
+        "text": "greetings thank you we will check it internally and get back to you asap best regards,  ph_user  ph_user",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 2
+  },
+  {
+    "issueid": "1004857",
+    "episode_id": "1004857@1643788687.000000",
+    "stratum": "short_single",
+    "project": "C12gg0.a",
+    "priority": "Medium",
+    "days": 0.10459490740740741,
+    "start_utc": "2022-02-02 07:58:07+00:00",
+    "end_utc": "2022-02-02 10:28:44+00:00",
+    "predecessor": "in_progress",
+    "successor": "in_progress",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1052032",
+        "created_utc": "2022-02-02 07:50:11+00:00",
+        "role": "assignee",
+        "source_rows": "3097,3098,3099,3100",
+        "text": "greetings kindly be informed that your ticket has been assigned. regards, ph_name team",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1052034",
+        "created_utc": "2022-02-02 07:52:30+00:00",
+        "role": "others",
+        "source_rows": "3101,3102,3103,3104,3105",
+        "text": "greetings as per call with ph_user , kindly be informed that this ticket has been assigned to you. regards,  ph_user   ph_user  ph_user",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1052039",
+        "created_utc": "2022-02-02 07:57:59+00:00",
+        "role": "others",
+        "source_rows": "3106,3107,3108,3109,3110",
+        "text": "greetings kindly join the below session ph_link regards, ph_user",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1052107",
+        "created_utc": "2022-02-02 10:23:41+00:00",
+        "role": "others",
+        "source_rows": "3111,3112,3113,3114,3115,3116",
+        "text": "greetings kindly note that after we have checked the issue it seems that there are too many ph_items on the same date (20-10-2021) and on the same status and as we agreed today after the end of the session we will increase the threads and add two more scheduled time to make the service start best regards,  ph_user  ph_user",
+        "truncated": false
+      },
+      {
+        "period": "after",
+        "comment_id": "1052201",
+        "created_utc": "2022-02-02 15:00:04+00:00",
+        "role": "others",
+        "source_rows": "3117,3118,3119,3120,3121,3122",
+        "text": "greetings kindly note that we have modified the service to be run at 8 and ph_technical ph_technical we will put the issue under monitoring tell the next week regards,  ph_user  ph_user",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 1
+  },
+  {
+    "issueid": "1006717",
+    "episode_id": "1006717@1653816153.000000",
+    "stratum": "short_single",
+    "project": "C11gg02z9",
+    "priority": "High",
+    "days": 0.03111111111111111,
+    "start_utc": "2022-05-29 09:22:33+00:00",
+    "end_utc": "2022-05-29 10:07:21+00:00",
+    "predecessor": null,
+    "successor": "closed",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1071589",
+        "created_utc": "2022-05-29 08:59:20+00:00",
+        "role": "others",
+        "source_rows": "13231,13232,13233,13234,13235,13236,13237",
+        "text": ". problem: . investigation and simulation: . development agile related issue : . solution: 1- did we resolve the problem and its symptoms? 2- did we understand and resolve the root cause of the problem? 3- will this problem appear at this customer or other customer site?",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1071590",
+        "created_utc": "2022-05-29 08:59:24+00:00",
+        "role": "others",
+        "source_rows": "13238",
+        "text": "to provide our best support the following policy for tickets waiting customer feedback, and tickets under monitoring will be applied - ph_name team will remind the customer every two working days, after the second reminder if no response, the ph_name team will escalate the ticket and inform the customer that the ticket will be closed by end of second week if no response received.",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1071598",
+        "created_utc": "2022-05-29 09:22:07+00:00",
+        "role": "assignee",
+        "source_rows": "13239,13240",
+        "text": "greetings as discussed you have to communicate with ph_name team about the session as the error is no session available",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1071622",
+        "created_utc": "2022-05-29 10:07:02+00:00",
+        "role": "assignee",
+        "source_rows": "13241,13242",
+        "text": "greetings session open by ph_name so we will consider this issue as resolved and it will be closed",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 1
+  },
+  {
+    "issueid": "1007957",
+    "episode_id": "1007957@1659954243.000000",
+    "stratum": "short_single",
+    "project": "C07ggu9n",
+    "priority": "Medium",
+    "days": 2.7787152777777777,
+    "start_utc": "2022-08-08 10:24:03+00:00",
+    "end_utc": "2022-08-11 05:05:24+00:00",
+    "predecessor": null,
+    "successor": "closed",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1084719",
+        "created_utc": "2022-08-08 10:06:04+00:00",
+        "role": "others",
+        "source_rows": "21576,21577,21578,21579,21580,21581,21582",
+        "text": ". problem: . investigation and simulation: . development agile related issue : . solution: 1- did we resolve the problem and its symptoms? 2- did we understand and resolve the root cause of the problem? 3- will this problem appear at this customer or other customer site?",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1084720",
+        "created_utc": "2022-08-08 10:06:12+00:00",
+        "role": "others",
+        "source_rows": "21583",
+        "text": "to provide our best support the following policy for tickets waiting customer feedback, and tickets under monitoring will be applied - ph_name team will remind the customer every two working days, after the second reminder if no response, the ph_name team will escalate the ticket and inform the customer that the ticket will be closed by end of second week if no response received.",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1084725",
+        "created_utc": "2022-08-08 10:23:47+00:00",
+        "role": "assignee",
+        "source_rows": "21584,21585,21586,21587",
+        "text": "greetings please note that your ticket has been assigned and provide us a screenshot from the pay customer information tab to check the response returned from the bank core banking system. best regards ph_name team",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1085035",
+        "created_utc": "2022-08-09 13:26:27+00:00",
+        "role": "assignee",
+        "source_rows": "21588,21589,21590,21591",
+        "text": "greetings please note that we are waiting for the bank's feedback in order to check this issue. best regards ph_name team",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1085276",
+        "created_utc": "2022-08-10 10:42:29+00:00",
+        "role": "assignee",
+        "source_rows": "21592,21593,21594,21595,21596,21597,21598",
+        "text": "greetings during our remote connection, we double-check the request and response for the po account information message and we found the response returned from bank integration with ph_code and according to approved srs if the customer information response returned with ph_technical the user will not allow approving the ph_items only the reject button will be enabled. according to this normal behavior on ph_name and please allow us to close this ticket if no more assistance is required from our side. best regards ph_name team",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1085342",
+        "created_utc": "2022-08-10 20:28:05+00:00",
+        "role": "reporter",
+        "source_rows": "21599,21600,21601",
+        "text": "dear  ph_user ph_technical thanks for support as usual please close this ticket",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 3
+  },
+  {
+    "issueid": "1005127",
+    "episode_id": "1005127@1644994454.000000",
+    "stratum": "short_single",
+    "project": "C11gkz_0",
+    "priority": "Highest",
+    "days": 1.0430555555555556,
+    "start_utc": "2022-02-16 06:54:14+00:00",
+    "end_utc": "2022-02-17 07:56:14+00:00",
+    "predecessor": null,
+    "successor": "resolved",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1054793",
+        "created_utc": "2022-02-15 12:08:32+00:00",
+        "role": "others",
+        "source_rows": "4864,4865,4866,4867,4868,4869,4870",
+        "text": ". problem: . investigation and simulation: . development agile related issue : . solution: 1- did we resolve the problem and its symptoms? 2- did we understand and resolve the root cause of the problem? 3- will this problem appear at this customer or other customer site?",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1054794",
+        "created_utc": "2022-02-15 12:08:36+00:00",
+        "role": "others",
+        "source_rows": "4871",
+        "text": "to provide our best support the following policy for tickets waiting customer feedback, and tickets under monitoring will be applied - ph_name team will remind the customer every two working days, after the second reminder if no response, the ph_name team will escalate the ticket and inform the customer that the ticket will be closed by end of second week if no response received.",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1054796",
+        "created_utc": "2022-02-15 12:17:06+00:00",
+        "role": "assignee",
+        "source_rows": "4872,4873,4874",
+        "text": "greetings please try to clear the browser cache and try to login. regards,",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1055109",
+        "created_utc": "2022-02-16 13:24:35+00:00",
+        "role": "reporter",
+        "source_rows": "4875,4876",
+        "text": "please close the ticket after clearing the browse it works",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 1
+  },
+  {
+    "issueid": "1007323",
+    "episode_id": "1007323@1656662050.000000",
+    "stratum": "short_single",
+    "project": "C01gg0xa",
+    "priority": "High",
+    "days": 4.114143518518518,
+    "start_utc": "2022-07-01 07:54:10+00:00",
+    "end_utc": "2022-07-05 10:38:32+00:00",
+    "predecessor": "in_progress",
+    "successor": "resolved",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1077969",
+        "created_utc": "2022-06-30 08:54:32+00:00",
+        "role": "others",
+        "source_rows": "17663,17664,17665,17666,17667",
+        "text": "greetings please ensure that user setup is done correctly and assigned to the correct  ph_user . let us know if we need to connect and check it. regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1077988",
+        "created_utc": "2022-06-30 09:35:00+00:00",
+        "role": "assignee",
+        "source_rows": "17668,17669",
+        "text": "greetings please connect at ph_link so that we can assist you. best regards  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1078033",
+        "created_utc": "2022-06-30 11:19:12+00:00",
+        "role": "assignee",
+        "source_rows": "17670,17671",
+        "text": "greetings as per our recent conversation over webex, please kindly check if the new user is assigned to the appropriate  ph_user  and let us know once you confirm it. best regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1078748",
+        "created_utc": "2022-07-05 03:22:24+00:00",
+        "role": "others",
+        "source_rows": "17672,17673,17674,17675,17676",
+        "text": "greetings kindly could you please post another reminder to the client to manage this ticket as well. regards,  ph_user  ph_user",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1078753",
+        "created_utc": "2022-07-05 04:02:21+00:00",
+        "role": "assignee",
+        "source_rows": "17677,17678,17679,17680",
+        "text": "greetings please kindly let us know if the issue still remains or not. if the issue remains, please provide us a remote support session to business side so that we can check the issue directly from the application. looking forward to hearing from you. best regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1078905",
+        "created_utc": "2022-07-05 10:38:15+00:00",
+        "role": "assignee",
+        "source_rows": "17681,17682,17683,17684",
+        "text": "greetings we received a confirmation from you via whatsapp that the problem has been resolved. hence, we are closing this ticket from our side. if you face any issue, please feel free to write us. best regards  ph_user ",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 3
+  },
+  {
+    "issueid": "1009230",
+    "episode_id": "1009230@1665903090.000000",
+    "stratum": "short_single",
+    "project": "C06gg10",
+    "priority": "Medium",
+    "days": 1.971400462962963,
+    "start_utc": "2022-10-16 06:51:30+00:00",
+    "end_utc": "2022-10-18 06:10:19+00:00",
+    "predecessor": "in_progress",
+    "successor": "resolved",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1098016",
+        "created_utc": "2022-10-16 06:33:28+00:00",
+        "role": "others",
+        "source_rows": "25373,25374,25375,25376",
+        "text": "greetings kindly be informed that your ticket has been assigned. regards, ph_name team.",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1098017",
+        "created_utc": "2022-10-16 06:33:34+00:00",
+        "role": "assignee",
+        "source_rows": "25377",
+        "text": ".",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1098025",
+        "created_utc": "2022-10-16 06:41:21+00:00",
+        "role": "assignee",
+        "source_rows": "25378,25379,25380,25381",
+        "text": "greetings please join the below zoom session. ph_link thanks,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1098039",
+        "created_utc": "2022-10-16 07:14:07+00:00",
+        "role": "assignee",
+        "source_rows": "25382,25383,25384",
+        "text": "greetings please to arrange for a connection time, since we were waiting you for ph_technical with no response. thanks,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1098495",
+        "created_utc": "2022-10-17 12:00:28+00:00",
+        "role": "others",
+        "source_rows": "25385,25386,25387",
+        "text": "greetings waiting your kind feedback. regards",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1098599",
+        "created_utc": "2022-10-18 06:10:00+00:00",
+        "role": "assignee",
+        "source_rows": "25388,25389,25390,25391,25392",
+        "text": "greetings please note that the users have been reset and below are the password: ph_technical  ph_user ph_technical thanks,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "after",
+        "comment_id": "1098634",
+        "created_utc": "2022-10-18 07:03:06+00:00",
+        "role": "others",
+        "source_rows": "25393",
+        "text": "ph_user , please to fill dod (problem , investigation and solution ) then proceed closing the ticket.",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 3
+  },
+  {
+    "issueid": "1005913",
+    "episode_id": "1005913@1649062325.000000",
+    "stratum": "short_single",
+    "project": "C13grz0b",
+    "priority": "Highest",
+    "days": 2.1091435185185183,
+    "start_utc": "2022-04-04 08:52:05+00:00",
+    "end_utc": "2022-04-06 11:29:15+00:00",
+    "predecessor": null,
+    "successor": "resolved",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1063196",
+        "created_utc": "2022-04-04 08:34:19+00:00",
+        "role": "others",
+        "source_rows": "8971",
+        "text": "to provide our best support the following policy for tickets waiting customer feedback, and tickets under monitoring will be applied - ph_name team will remind the customer every two working days, after the second reminder if no response, the ph_name team will escalate the ticket and inform the customer that the ticket will be closed by end of second week if no response received.",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1063201",
+        "created_utc": "2022-04-04 08:45:21+00:00",
+        "role": "assignee",
+        "source_rows": "8972,8973,8974,8975,8976,8977",
+        "text": "greetings kindly note that your ticket is assigned. are you able to telnet above ip and port from ph_name prod. server (ph_technical)? regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "before",
+        "comment_id": "1063202",
+        "created_utc": "2022-04-04 08:46:44+00:00",
+        "role": "assignee",
+        "source_rows": "8978,8979",
+        "text": "also, have you tried to access below url as well? ph_link",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1063204",
+        "created_utc": "2022-04-04 08:55:35+00:00",
+        "role": "assignee",
+        "source_rows": "8980,8981,8982,8983",
+        "text": "greetings please check both ph_name, all should be accessible. regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1063348",
+        "created_utc": "2022-04-05 07:05:22+00:00",
+        "role": "assignee",
+        "source_rows": "8984,8985,8986,8987,8988",
+        "text": "greetings please advise if any further assistance required. otherwise, we will consider this ticket as resolved and will proceed in closing it. regards,  ph_user ",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 2
+  },
+  {
+    "issueid": "1010562",
+    "episode_id": "1010562@1671351843.000000",
+    "stratum": "short_single",
+    "project": "C12hhx18a",
+    "priority": "Blocker",
+    "days": 0.14777777777777779,
+    "start_utc": "2022-12-18 08:24:03+00:00",
+    "end_utc": "2022-12-18 11:56:51+00:00",
+    "predecessor": "in_progress",
+    "successor": "in_progress",
+    "comments": [
+      {
+        "period": "before",
+        "comment_id": "1111442",
+        "created_utc": "2022-12-18 08:23:41+00:00",
+        "role": "assignee",
+        "source_rows": "29983,29984,29985,29986",
+        "text": "greetings kindly note that we have deployed a new fix for this issue on uat, please check and update us. regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1111478",
+        "created_utc": "2022-12-18 09:26:59+00:00",
+        "role": "reporter",
+        "source_rows": "29987,29988",
+        "text": "it is working fine now, please move to production thank you",
+        "truncated": false
+      },
+      {
+        "period": "during",
+        "comment_id": "1111502",
+        "created_utc": "2022-12-18 10:03:55+00:00",
+        "role": "assignee",
+        "source_rows": "29989,29990,29991,29992",
+        "text": "greetings kindly note that we have deployed the fix over production, please check and advice. regards,  ph_user ",
+        "truncated": false
+      },
+      {
+        "period": "after",
+        "comment_id": "1111582",
+        "created_utc": "2022-12-18 13:04:26+00:00",
+        "role": "reporter",
+        "source_rows": "29993",
+        "text": "all is fine now, thank you",
+        "truncated": false
+      }
+    ],
+    "total_comments_in_episode": 2
+  }
+]

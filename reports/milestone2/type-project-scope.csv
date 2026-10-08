@@ -1,0 +1,25 @@
+issue_type,is_external_project,issues
+Assistance,0,109
+Bug,0,53
+Deployment,0,56
+Deployment,1,294
+Epic,0,396
+Epic,1,7
+HD Service,0,8
+HD Service,1,1678
+Project,0,485
+Project,1,357
+Retrospective,0,240
+Retrospective,1,1
+Service,0,56
+Service,1,5244
+Sprint Summary,0,208
+Story,0,4413
+Story,1,125
+Sub-task,0,544
+Subtask,1,4746
+Task,0,1540
+Ticket,0,2472
+Ticket,1,42803
+Vacation,0,852
+Vacation,1,4

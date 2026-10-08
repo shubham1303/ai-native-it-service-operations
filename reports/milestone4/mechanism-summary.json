@@ -1,0 +1,64 @@
+{
+  "episode_rows": 12061,
+  "positive_episodes": 11934,
+  "zero_duration_episodes": 127,
+  "waiting_cases": 10071,
+  "positive_waiting_cases": 9963,
+  "long_episodes": 4783,
+  "long_episode_cases": 4387,
+  "episode_days_quantiles": {
+    "0.25": 0.9229356076402796,
+    "0.5": 4.919867424767602,
+    "0.75": 13.751546406249894,
+    "0.9": 31.94843634259261,
+    "0.95": 49.38404108796297
+  },
+  "repeat_boundary_sensitivity": {
+    "0": 1284,
+    "60": 1185,
+    "3600": 1040
+  },
+  "between_waits": {
+    "repeat_episodes": 1990,
+    "cases": 1299,
+    "with_validation_return": 294,
+    "cases_with_gap_validation": 251,
+    "assignment_known_episodes": 1941,
+    "with_named_handoff": 88,
+    "cases_with_gap_handoff": 86,
+    "with_both": 28,
+    "known_with_neither": 1591
+  },
+  "during_wait": {
+    "known_assignment_episodes": 11700,
+    "episodes_with_named_handoff": 793
+  },
+  "validation_state_duration_seconds": {
+    "0.0": 1.3890001773834229,
+    "0.1": 323.83100008964584,
+    "0.25": 96585.34599995613,
+    "0.5": 527539.3459999561,
+    "0.75": 1343452.5864999294
+  },
+  "validation_preceding_state_under_60s": 72,
+  "validation_returns": {
+    "events": 827,
+    "cases": 672,
+    "immediate_next_waiting": 516,
+    "waiting_within_7d_events": 534,
+    "waiting_within_7d_cases": 452
+  },
+  "validation_text_coverage": {
+    "cases": 9,
+    "events": 12
+  },
+  "review_sample": {
+    "long_repeat": 8,
+    "long_single": 8,
+    "short_repeat": 8,
+    "short_single": 8
+  },
+  "sql_sha256": "14c57b756124fc0d4149a39a81ceeb7b1b4c9a0036e35f682328bac3c6d6a4e3",
+  "pipeline_sha256": "f1a2b87f7305ab072447ae457ff7e03e805b33f23fad5217913e0163935af052",
+  "checks": "episode durations and validation-return totals reconcile to case aggregates"
+}

@@ -1,0 +1,10 @@
+{
+  "reviewer": "Codex model-assisted qualitative review; no independent human validation",
+  "scope": "32 purposive Waiting episodes plus all 12 observed validation-return events in 9 text-covered cases; cases overlap",
+  "packet_sha256": {
+    "review-packets.json": "5a23de7d745db915ac772f659f3924f31feb1add1b47fcd47ac139cad06ce606",
+    "expanded-review-packets.json": "55d07af36647b236399e62b984d062fc2c04c48f46cf39909ee40b9a2cd58f65",
+    "validation-review-packets.json": "95fa5f5d0bfaecae769883231a541a30aa375c48b4db8977f35d0659729e09e3"
+  },
+  "warning": "Labels are illustrative mechanisms, not population rates or verified avoidability; re-review if packets change."
+}

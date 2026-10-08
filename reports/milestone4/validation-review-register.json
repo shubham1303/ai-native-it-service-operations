@@ -1,0 +1,244 @@
+[
+  {
+    "issueid": "1004667",
+    "return_ts": 1643018862,
+    "interpretation": "New change request / workflow handling",
+    "evidence": [
+      {
+        "id": "211718366",
+        "period": "before",
+        "source_rows": "2248,2249,2250"
+      },
+      {
+        "id": "1049988",
+        "period": "at_or_after",
+        "source_rows": "2259,2260,2261,2262"
+      },
+      {
+        "id": "1050007",
+        "period": "at_or_after",
+        "source_rows": "2270,2271,2272,2273"
+      }
+    ],
+    "limits_and_counterevidence": "Logo change, assignment and deployment scheduling; no demonstrated failed validation.",
+    "verified_avoidable": false
+  },
+  {
+    "issueid": "1006065",
+    "return_ts": 1668339225,
+    "interpretation": "Fix delivery / possible rework",
+    "evidence": [
+      {
+        "id": "1103785",
+        "period": "before",
+        "source_rows": "10733,10734,10735,10736"
+      },
+      {
+        "id": "1104159",
+        "period": "at_or_after",
+        "source_rows": "10737,10738,10739,10740,10741,10742,10743,10744,10745,10746"
+      }
+    ],
+    "limits_and_counterevidence": "Permanent password-reset fix and rollback instructions; not enough context to attribute a specific prior failed test.",
+    "verified_avoidable": false
+  },
+  {
+    "issueid": "1006849",
+    "return_ts": 1670408826,
+    "interpretation": "Successful testing to production deployment",
+    "evidence": [
+      {
+        "id": "1109299",
+        "period": "before",
+        "source_rows": "14553,14554,14555"
+      },
+      {
+        "id": "1109303",
+        "period": "before",
+        "source_rows": "14561,14562,14563"
+      },
+      {
+        "id": "1109412",
+        "period": "at_or_after",
+        "source_rows": "14564,14565,14566,14567"
+      },
+      {
+        "id": "1109645",
+        "period": "at_or_after",
+        "source_rows": "14587,14588,14589,14590,14591,14592,14593"
+      }
+    ],
+    "limits_and_counterevidence": "Test success and explicit approval precede deployment. Direct counterexample to equating every return with failed validation.",
+    "verified_avoidable": false
+  },
+  {
+    "issueid": "1007244",
+    "return_ts": 1657084031,
+    "interpretation": "Continuing defect investigation",
+    "evidence": [
+      {
+        "id": "1078756",
+        "period": "before",
+        "source_rows": "16548,16549,16550,16551,16552"
+      },
+      {
+        "id": "1079038",
+        "period": "at_or_after",
+        "source_rows": "16553,16554,16555,16556,16557"
+      },
+      {
+        "id": "1079472",
+        "period": "at_or_after",
+        "source_rows": "16564,16565,16566,16567,16568,16569"
+      }
+    ],
+    "limits_and_counterevidence": "Unresolved data mismatch, tracing and log-level changes; does not identify a preventable earlier test failure.",
+    "verified_avoidable": false
+  },
+  {
+    "issueid": "1007244",
+    "return_ts": 1659848940,
+    "interpretation": "Fix delivery with subsequent reported issue",
+    "evidence": [
+      {
+        "id": "1084372",
+        "period": "before",
+        "source_rows": "16629,16630,16631,16632,16633,16634,16635,16636"
+      },
+      {
+        "id": "1084832",
+        "period": "at_or_after",
+        "source_rows": "16637,16638,16639,16640"
+      }
+    ],
+    "limits_and_counterevidence": "Fix instructions precede return; later missing fields reported. Later failure is outcome context, not established cause of the earlier return.",
+    "verified_avoidable": false
+  },
+  {
+    "issueid": "1007291",
+    "return_ts": 1667307168,
+    "interpretation": "Development investigation; sparse context",
+    "evidence": [
+      {
+        "id": "1101441",
+        "period": "before",
+        "source_rows": "17421,17422,17423,17424,17425"
+      }
+    ],
+    "limits_and_counterevidence": "Only development update near return; failure reason unknown.",
+    "verified_avoidable": false
+  },
+  {
+    "issueid": "1007291",
+    "return_ts": 1669797416,
+    "interpretation": "Continuing defect investigation and fix delivery",
+    "evidence": [
+      {
+        "id": "1107333",
+        "period": "before",
+        "source_rows": "17456,17457"
+      },
+      {
+        "id": "1107384",
+        "period": "before",
+        "source_rows": "17458,17459,17460,17461,17462"
+      },
+      {
+        "id": "1107847",
+        "period": "before",
+        "source_rows": "17463,17464,17465,17466,17467,17468"
+      }
+    ],
+    "limits_and_counterevidence": "Recurring issue and risky manual workaround reported; trigger supplied. Specific avoidable process failure and independent harm not established.",
+    "verified_avoidable": false
+  },
+  {
+    "issueid": "1007420",
+    "return_ts": 1665978156,
+    "interpretation": "Unknown",
+    "evidence": [],
+    "limits_and_counterevidence": "No comments in the specified window; retain unknown.",
+    "verified_avoidable": false
+  },
+  {
+    "issueid": "1007420",
+    "return_ts": 1666251831,
+    "interpretation": "Fix delivery; testing requested",
+    "evidence": [
+      {
+        "id": "1098872",
+        "period": "before",
+        "source_rows": "18393"
+      },
+      {
+        "id": "1099176",
+        "period": "at_or_after",
+        "source_rows": "18394,18395,18396,18397,18398,18399,18400,18401,18402,18403"
+      }
+    ],
+    "limits_and_counterevidence": "Work and UAT fix instructions; failed prior acceptance test not observed in window.",
+    "verified_avoidable": false
+  },
+  {
+    "issueid": "1009151",
+    "return_ts": 1665901100,
+    "interpretation": "Deployment scheduling",
+    "evidence": [
+      {
+        "id": "1098000",
+        "period": "before",
+        "source_rows": "25121,25122,25123,25124,25125,25126"
+      },
+      {
+        "id": "1098579",
+        "period": "at_or_after",
+        "source_rows": "25127,25128,25129"
+      },
+      {
+        "id": "1098589",
+        "period": "at_or_after",
+        "source_rows": "25130,25131,25132,25133"
+      }
+    ],
+    "limits_and_counterevidence": "Download, test deployment and remote-session coordination; no proven validation failure.",
+    "verified_avoidable": false
+  },
+  {
+    "issueid": "1009327",
+    "return_ts": 1672596139,
+    "interpretation": "Fix delivery; testing requested",
+    "evidence": [
+      {
+        "id": "1113854",
+        "period": "at_or_after",
+        "source_rows": "25608,25609,25610,25611,25612,25613,25614"
+      }
+    ],
+    "limits_and_counterevidence": "Only post-return fix and test instructions; return cause unknown.",
+    "verified_avoidable": false
+  },
+  {
+    "issueid": "1010327",
+    "return_ts": 1670495395,
+    "interpretation": "Known defect; mitigation followed by new release",
+    "evidence": [
+      {
+        "id": "1109152",
+        "period": "before",
+        "source_rows": "29136,29137"
+      },
+      {
+        "id": "1109176",
+        "period": "before",
+        "source_rows": "29143,29144"
+      },
+      {
+        "id": "1109734",
+        "period": "at_or_after",
+        "source_rows": "29145,29146,29147,29148,29149,29150,29151"
+      }
+    ],
+    "limits_and_counterevidence": "Reporter says symptom mitigated before return while root cause remains under development; testing before rollout is legitimate.",
+    "verified_avoidable": false
+  }
+]

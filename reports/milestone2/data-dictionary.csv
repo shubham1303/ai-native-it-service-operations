@@ -1,0 +1,160 @@
+table,column,meaning,prediction_use
+issues,id,Source identifier or event/comment attribute; see source FEATURES.md,event-time data; identifiers not predictive features
+issues,started,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+issues,ended,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+issues,issue_num,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+issues,issue_proj,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+issues,issue_reporter,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+issues,issue_assignee,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+issues,issue_contr_count,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+issues,issue_type,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+issues,issue_priority,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+issues,issue_created,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+issues,issue_resolution_date,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+issues,issue_resolution,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+issues,issue_status,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+issues,issue_comments_count,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+issues,last_change_date,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+issues,wf_in_review,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_in_review,Publisher interval/visit count for in_review,retrospective only; not intake feature
+issues,wf_deployment,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_deployment,Publisher interval/visit count for deployment,retrospective only; not intake feature
+issues,wf_resolved,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_resolved,Publisher interval/visit count for resolved,retrospective only; not intake feature
+issues,wf_open,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_open,Publisher interval/visit count for open,retrospective only; not intake feature
+issues,wf_monitoring,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_monitoring,Publisher interval/visit count for monitoring,retrospective only; not intake feature
+issues,wf_done,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_done,Publisher interval/visit count for done,retrospective only; not intake feature
+issues,wf_pending_customer_approval,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_pending_customer_approval,Publisher interval/visit count for pending_customer_approval,retrospective only; not intake feature
+issues,wf_rejected,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_rejected,Publisher interval/visit count for rejected,retrospective only; not intake feature
+issues,wf_testing_monitoring,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_testing_monitoring,Publisher interval/visit count for testing_monitoring,retrospective only; not intake feature
+issues,wf_in_progress,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_in_progress,Publisher interval/visit count for in_progress,retrospective only; not intake feature
+issues,wf_reopened,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_reopened,Publisher interval/visit count for reopened,retrospective only; not intake feature
+issues,wf_to_do,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_to_do,Publisher interval/visit count for to_do,retrospective only; not intake feature
+issues,wf_validation,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_validation,Publisher interval/visit count for validation,retrospective only; not intake feature
+issues,wf_resolved_under_monitoring,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_resolved_under_monitoring,Publisher interval/visit count for resolved_under_monitoring,retrospective only; not intake feature
+issues,wf_closed,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_closed,Publisher interval/visit count for closed,retrospective only; not intake feature
+issues,wf_waiting,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_waiting,Publisher interval/visit count for waiting,retrospective only; not intake feature
+issues,wf_cancelled,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_cancelled,Publisher interval/visit count for cancelled,retrospective only; not intake feature
+issues,wf_under_review,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_under_review,Publisher interval/visit count for under_review,retrospective only; not intake feature
+issues,wf_approved,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_approved,Publisher interval/visit count for approved,retrospective only; not intake feature
+issues,wf_pending_deployment,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,wfe_pending_deployment,Publisher interval/visit count for pending_deployment,retrospective only; not intake feature
+issues,wf_total_time,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+issues,processing_steps,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+issues,source_row,Source lineage,audit only
+issues,source_file,Source lineage,audit only
+issues,id_raw,Source lineage,audit only
+issues,issue_created_ts,UTC epoch seconds parsed from issue_created,event-time filter; no rounding
+issues,issue_resolution_date_ts,UTC epoch seconds parsed from issue_resolution_date,event-time filter; no rounding
+issues,last_change_date_ts,UTC epoch seconds parsed from last_change_date,event-time filter; no rounding
+issues,started_ts,UTC epoch seconds parsed from started,event-time filter; no rounding
+issues,ended_ts,UTC epoch seconds parsed from ended,event-time filter; no rounding
+issues,is_external_project,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+history,id,Source identifier or event/comment attribute; see source FEATURES.md,event-time data; identifiers not predictive features
+history,issueid,Source identifier or event/comment attribute; see source FEATURES.md,event-time data; identifiers not predictive features
+history,field,Source identifier or event/comment attribute; see source FEATURES.md,event-time data; identifiers not predictive features
+history,value,Source identifier or event/comment attribute; see source FEATURES.md,event-time data; identifiers not predictive features
+history,created,Source identifier or event/comment attribute; see source FEATURES.md,event-time data; identifiers not predictive features
+history,change_group_id,Source identifier or event/comment attribute; see source FEATURES.md,event-time data; identifiers not predictive features
+history,source_row,Source lineage,audit only
+history,source_file,Source lineage,audit only
+history,id_raw,Source lineage,audit only
+history,issueid_raw,Source lineage,audit only
+history,change_group_id_raw,Source lineage,audit only
+history,created_ts,UTC epoch seconds parsed from created,event-time filter; no rounding
+snapshots,idx,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+snapshots,id,Source identifier or event/comment attribute; see source FEATURES.md,event-time data; identifiers not predictive features
+snapshots,started,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+snapshots,ended,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+snapshots,issue_num,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+snapshots,issue_proj,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+snapshots,issue_reporter,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+snapshots,issue_assignee,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+snapshots,issue_contr_count,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+snapshots,issue_type,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+snapshots,issue_priority,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+snapshots,issue_created,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+snapshots,issue_resolution_date,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+snapshots,issue_resolution,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+snapshots,issue_status,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+snapshots,issue_comments_count,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+snapshots,last_change_date,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+snapshots,wf_in_review,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_in_review,Publisher interval/visit count for in_review,retrospective only; not intake feature
+snapshots,wf_deployment,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_deployment,Publisher interval/visit count for deployment,retrospective only; not intake feature
+snapshots,wf_resolved,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_resolved,Publisher interval/visit count for resolved,retrospective only; not intake feature
+snapshots,wf_open,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_open,Publisher interval/visit count for open,retrospective only; not intake feature
+snapshots,wf_monitoring,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_monitoring,Publisher interval/visit count for monitoring,retrospective only; not intake feature
+snapshots,wf_done,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_done,Publisher interval/visit count for done,retrospective only; not intake feature
+snapshots,wf_pending_customer_approval,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_pending_customer_approval,Publisher interval/visit count for pending_customer_approval,retrospective only; not intake feature
+snapshots,wf_rejected,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_rejected,Publisher interval/visit count for rejected,retrospective only; not intake feature
+snapshots,wf_testing_monitoring,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_testing_monitoring,Publisher interval/visit count for testing_monitoring,retrospective only; not intake feature
+snapshots,wf_in_progress,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_in_progress,Publisher interval/visit count for in_progress,retrospective only; not intake feature
+snapshots,wf_reopened,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_reopened,Publisher interval/visit count for reopened,retrospective only; not intake feature
+snapshots,wf_to_do,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_to_do,Publisher interval/visit count for to_do,retrospective only; not intake feature
+snapshots,wf_validation,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_validation,Publisher interval/visit count for validation,retrospective only; not intake feature
+snapshots,wf_resolved_under_monitoring,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_resolved_under_monitoring,Publisher interval/visit count for resolved_under_monitoring,retrospective only; not intake feature
+snapshots,wf_closed,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_closed,Publisher interval/visit count for closed,retrospective only; not intake feature
+snapshots,wf_waiting,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_waiting,Publisher interval/visit count for waiting,retrospective only; not intake feature
+snapshots,wf_cancelled,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_cancelled,Publisher interval/visit count for cancelled,retrospective only; not intake feature
+snapshots,wf_under_review,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_under_review,Publisher interval/visit count for under_review,retrospective only; not intake feature
+snapshots,wf_approved,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_approved,Publisher interval/visit count for approved,retrospective only; not intake feature
+snapshots,wf_pending_deployment,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,wfe_pending_deployment,Publisher interval/visit count for pending_deployment,retrospective only; not intake feature
+snapshots,turn,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+snapshots,wf_total_time,Publisher seconds in state or total,retrospective; use independently reconstructed measures instead
+snapshots,processing_steps,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+snapshots,source_row,Source lineage,audit only
+snapshots,source_file,Source lineage,audit only
+snapshots,id_raw,Source lineage,audit only
+snapshots,started_ts,UTC epoch seconds parsed from started,event-time filter; no rounding
+snapshots,ended_ts,UTC epoch seconds parsed from ended,event-time filter; no rounding
+snapshots,turn_number,Source attribute or derived staging field; see source FEATURES.md,retrospective until intake availability proven
+utterances,issueid,Source identifier or event/comment attribute; see source FEATURES.md,event-time data; identifiers not predictive features
+utterances,id,Source identifier or event/comment attribute; see source FEATURES.md,event-time data; identifiers not predictive features
+utterances,comment_seq,Source identifier or event/comment attribute; see source FEATURES.md,event-time data; identifiers not predictive features
+utterances,utr_seq,Source identifier or event/comment attribute; see source FEATURES.md,event-time data; identifiers not predictive features
+utterances,author,Source identifier or event/comment attribute; see source FEATURES.md,event-time data; identifiers not predictive features
+utterances,created,Source identifier or event/comment attribute; see source FEATURES.md,event-time data; identifiers not predictive features
+utterances,is_private,Source identifier or event/comment attribute; see source FEATURES.md,event-time data; identifiers not predictive features
+utterances,actionbody,Masked sampled utterance,only after its comment timestamp; untrusted content
+utterances,author_role,Source identifier or event/comment attribute; see source FEATURES.md,event-time data; identifiers not predictive features
+utterances,source_row,Source lineage,audit only
+utterances,source_file,Source lineage,audit only
+utterances,issueid_raw,Source lineage,audit only
+utterances,id_raw,Source lineage,audit only
+utterances,created_ts,UTC epoch seconds parsed from created,event-time filter; no rounding

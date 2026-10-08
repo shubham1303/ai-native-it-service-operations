@@ -1,0 +1,470 @@
+[
+  {
+    "issueid": "1007739",
+    "episode_id": "1007739@1664888034.000000",
+    "comments": [
+      {
+        "issueid": "1007739",
+        "id": "1095626",
+        "created_ts": 1664788936.0,
+        "author_role": "reporter",
+        "text": "greetings do we have any update on this issue please?",
+        "source_rows": "20768,20769"
+      },
+      {
+        "issueid": "1007739",
+        "id": "1095800",
+        "created_ts": 1664862380.0,
+        "author_role": "reporter",
+        "text": "greetings we have a project release and we want to sort it out as soon as possible, can we connect today to check the issue.",
+        "source_rows": "20770,20771"
+      },
+      {
+        "issueid": "1007739",
+        "id": "1095838",
+        "created_ts": 1664867660.0,
+        "author_role": "assignee",
+        "text": "greetings i'll update you the soonest today as the development were investigating this. thank you for your patience. regards",
+        "source_rows": "20772,20773,20774,20775"
+      },
+      {
+        "issueid": "1007739",
+        "id": "1095847",
+        "created_ts": 1664869121.0,
+        "author_role": "assignee",
+        "text": "greetings can we connect right now please ph_technical",
+        "source_rows": "20776,20777"
+      },
+      {
+        "issueid": "1007739",
+        "id": "1095851",
+        "created_ts": 1664869573.0,
+        "author_role": "reporter",
+        "text": "greetings we can connect at 12:30 pm ph_name time, if you are ok, let me know so i can send meeting invitation for all.",
+        "source_rows": "20778,20779"
+      },
+      {
+        "issueid": "1007739",
+        "id": "1095854",
+        "created_ts": 1664869826.0,
+        "author_role": "assignee",
+        "text": "confirm.",
+        "source_rows": "20780"
+      },
+      {
+        "issueid": "1007739",
+        "id": "1095855",
+        "created_ts": 1664869984.0,
+        "author_role": "reporter",
+        "text": "meeting invitation sent, please accept. ph_link",
+        "source_rows": "20781,20782"
+      },
+      {
+        "issueid": "1007739",
+        "id": "1095949",
+        "created_ts": 1664882359.0,
+        "author_role": "reporter",
+        "text": "greetings all logs are uploaded, please check.",
+        "source_rows": "20783,20784"
+      },
+      {
+        "issueid": "1007739",
+        "id": "1096016",
+        "created_ts": 1664888026.0,
+        "author_role": "assignee",
+        "text": "greetings as requested, please upload ph_technical logs directory, not the tomcat access logs. also we need today's files and the ones of the date when the case appeared the first time. regards",
+        "source_rows": "20785,20786,20787,20788"
+      },
+      {
+        "issueid": "1007739",
+        "id": "1096543",
+        "created_ts": 1665061071.0,
+        "author_role": "reporter",
+        "text": "greetings logs are collected, but i am unable to uploaded because it is big files, i will arrange a meeting on next monday to check the logs over the zoom call",
+        "source_rows": "20789,20790"
+      },
+      {
+        "issueid": "1007739",
+        "id": "1096545",
+        "created_ts": 1665061498.0,
+        "author_role": "assignee",
+        "text": "greetings it's alright, but we don't require the whole logs, just the two dates that we mentioned. regards",
+        "source_rows": "20791,20792,20793"
+      },
+      {
+        "issueid": "1007739",
+        "id": "1097380",
+        "created_ts": 1665488722.0,
+        "author_role": "others",
+        "text": "greetings kindly if there is any update please provide it on this ticket. regards,  ph_user   ph_name ph_user ph_user",
+        "source_rows": "20794,20795,20796"
+      },
+      {
+        "issueid": "1007739",
+        "id": "1097399",
+        "created_ts": 1665492367.0,
+        "author_role": "assignee",
+        "text": "greetings as per our last meeting, we agreed to reconnect after getting the infrastructure team on call to fix the issue that we face when we tried to extract the needed logs. kindly following up. regards",
+        "source_rows": "20797,20798,20799,20800"
+      },
+      {
+        "issueid": "1007739",
+        "id": "1097778",
+        "created_ts": 1665650801.0,
+        "author_role": "reporter",
+        "text": "dear  ph_user   ph_user  all the teal will be available in the meeting today at 1:30 ph_name time, can you please arrange to attend ph_link",
+        "source_rows": "20801,20802,20803"
+      },
+      {
+        "issueid": "1007739",
+        "id": "1099804",
+        "created_ts": 1666612860.0,
+        "author_role": "others",
+        "text": "greetings kindly if there is any update please provide it on this ticket. regards,  ph_user",
+        "source_rows": "20804,20805,20806"
+      },
+      {
+        "issueid": "1007739",
+        "id": "1099917",
+        "created_ts": 1666622900.0,
+        "author_role": "assignee",
+        "text": "dears, me and the  ph_user  are trying to find the best way to fix the problem internally as it is hard to stay connected with the bank while looking for a solution. we will keep you updated. regards",
+        "source_rows": "20807,20808,20809,20810"
+      }
+    ]
+  },
+  {
+    "issueid": "1010058",
+    "episode_id": "1010058@1669904154.000000",
+    "comments": [
+      {
+        "issueid": "1010058",
+        "id": "1107757",
+        "created_ts": 1669786277.0,
+        "author_role": "reporter",
+        "text": "greetings kindly let us know the status of the below case.",
+        "source_rows": "28177,28178"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1107758",
+        "created_ts": 1669786277.0,
+        "author_role": "reporter",
+        "text": "greetings kindly let us know the status of the below case.",
+        "source_rows": "28179,28180"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1107815",
+        "created_ts": 1669794077.0,
+        "author_role": "assignee",
+        "text": "greetings kindly note we are still investigating the issue and will update you. best regards, ph_name team.",
+        "source_rows": "28181,28182,28183"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1108190",
+        "created_ts": 1669904138.0,
+        "author_role": "assignee",
+        "text": "greetings kindly we need to connect to the uat site to apply for the required roles for reporting, will call you on sunday to arrange it. best regards, ph_name team.",
+        "source_rows": "28184,28185,28186"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1108250",
+        "created_ts": 1670130897.0,
+        "author_role": "reporter",
+        "text": "greetings kindly let us know your availability today to test the user roles on uat",
+        "source_rows": "28187,28188"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1108261",
+        "created_ts": 1670132681.0,
+        "author_role": "assignee",
+        "text": "greetings kindly arrange a remote session on uat between ph_technical till 12.30pm. best regards, ph_name team.",
+        "source_rows": "28189,28190,28191"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1108299",
+        "created_ts": 1670136622.0,
+        "author_role": "reporter",
+        "text": "greetings we will have call ph_technical 11:30 am and also let us know what all the support you need from us to test the roles. only application or server team also you need,",
+        "source_rows": "28192,28193,28194"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1108302",
+        "created_ts": 1670136882.0,
+        "author_role": "assignee",
+        "text": "greetings we will require both application ph_technical and server access on uat. best regards, ph_name team.",
+        "source_rows": "28195,28196,28197"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1108401",
+        "created_ts": 1670144532.0,
+        "author_role": "reporter",
+        "text": "greetings can i arrange the call tomorrow morning @ 11 am because our server team will be available tomorrow @ 11",
+        "source_rows": "28198,28199"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1108402",
+        "created_ts": 1670144536.0,
+        "author_role": "reporter",
+        "text": "greetings can i arrange the call tomorrow morning @ 11 am because our server team will be available tomorrow @ 11",
+        "source_rows": "28200,28201"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1108405",
+        "created_ts": 1670144730.0,
+        "author_role": "assignee",
+        "text": "greetings sure we can, i will be available at this time. best regards, ph_name team.",
+        "source_rows": "28202,28203,28204"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1108725",
+        "created_ts": 1670227069.0,
+        "author_role": "assignee",
+        "text": "greetings kindly share with us the remote support session url. best regards, ph_name team.",
+        "source_rows": "28205,28206,28207"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1108752",
+        "created_ts": 1670229249.0,
+        "author_role": "reporter",
+        "text": "greetings kindly join the session now",
+        "source_rows": "28210,28211"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1108753",
+        "created_ts": 1670229249.0,
+        "author_role": "reporter",
+        "text": "greetings kindly join the session now",
+        "source_rows": "28208,28209"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1108760",
+        "created_ts": 1670229899.0,
+        "author_role": "assignee",
+        "text": "greetings kindly i need 30 min and i will be able to join. best regards, ph_name team.",
+        "source_rows": "28212,28213,28214"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1108768",
+        "created_ts": 1670231073.0,
+        "author_role": "reporter",
+        "text": "daer  ph_user , okay.kindly let me know before your join or else we can have call tomorrow.",
+        "source_rows": "28215,28216"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1108777",
+        "created_ts": 1670231840.0,
+        "author_role": "reporter",
+        "text": "greetings i am facing some issue while sharing the screen. we will check the issue and will update you.",
+        "source_rows": "28217,28218,28219"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1108778",
+        "created_ts": 1670231844.0,
+        "author_role": "reporter",
+        "text": "greetings i am facing some issue while sharing the screen. we will check the issue and will update you.",
+        "source_rows": "28220,28221,28222"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1108886",
+        "created_ts": 1670242360.0,
+        "author_role": "assignee",
+        "text": "greetings please advise us what is the rescheduled time to reconnect. best regards, ph_name team.",
+        "source_rows": "28223,28224,28225"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1109308",
+        "created_ts": 1670395782.0,
+        "author_role": "reporter",
+        "text": "greetings kindly let us know your availability today.",
+        "source_rows": "28226,28227"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1109556",
+        "created_ts": 1670476440.0,
+        "author_role": "reporter",
+        "text": "greetings kindly let us know your availability today to complete the below.",
+        "source_rows": "28228,28229"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1109589",
+        "created_ts": 1670481648.0,
+        "author_role": "assignee",
+        "text": "greetings kindly share the remote connection. best regards, ph_name team.",
+        "source_rows": "28230,28231,28232"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1109925",
+        "created_ts": 1670743503.0,
+        "author_role": "assignee",
+        "text": "greetings kindly arrange a remote support session in order to add the pending roles for reporting module. best regards, ph_name team.",
+        "source_rows": "28233,28234,28235"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1110031",
+        "created_ts": 1670753267.0,
+        "author_role": "reporter",
+        "text": "can i share the session @ 1:30 pm",
+        "source_rows": "28236"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1110038",
+        "created_ts": 1670754322.0,
+        "author_role": "assignee",
+        "text": "greetings confirmed. best regards, ph_name team.",
+        "source_rows": "28237,28238,28239"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1110040",
+        "created_ts": 1670755158.0,
+        "author_role": "reporter",
+        "text": "greetings i have sent the link",
+        "source_rows": "28240,28241"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1110241",
+        "created_ts": 1670829374.0,
+        "author_role": "reporter",
+        "text": "greetings kindly confirm your availability today @ 2:30 or 3 pm to have call with server team.",
+        "source_rows": "28242,28243"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1110259",
+        "created_ts": 1670831222.0,
+        "author_role": "assignee",
+        "text": "greetings confirmed 2:30, also meanwhile please check with the team if the following dns is already added on uat : ph_technical best regards, ph_name team.",
+        "source_rows": "28244,28245,28246"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1110389",
+        "created_ts": 1670845960.0,
+        "author_role": "assignee",
+        "text": "greetings thanks for arranging the session today, as agreed during the call the dns records ph_technical ph_technical it seems not added, waiting for your update after the dns is added on the uat site. best regards, ph_name team.",
+        "source_rows": "28247,28248,28249"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1111282",
+        "created_ts": 1671110838.0,
+        "author_role": "assignee",
+        "text": "greetings kindly let us know if there is any new update. best regards, ph_name team.",
+        "source_rows": "28250,28251,28252"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1111632",
+        "created_ts": 1671427812.0,
+        "author_role": "reporter",
+        "text": "greetings kindly confirm your availability today @ 2:30 pm to arraneg the call with our infra team.",
+        "source_rows": "28253,28254"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1111633",
+        "created_ts": 1671427815.0,
+        "author_role": "reporter",
+        "text": "greetings kindly confirm your availability today @ 2:30 pm to arrange the call with our infra team.",
+        "source_rows": "28255,28256"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1111678",
+        "created_ts": 1671433758.0,
+        "author_role": "assignee",
+        "text": "greetings confirmed. best regards, ph_name team.",
+        "source_rows": "28257,28258,28259"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1112130",
+        "created_ts": 1671541689.0,
+        "author_role": "assignee",
+        "text": "greetings kindly note during our remote session today, we are able to reach the following dns ph_technical, we request you to access uat ph_name and navigate to the report module and take a screenshot and attach here the result on the ticket, waiting your feedback. best regards, ph_name team.",
+        "source_rows": "28260,28261,28262"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1112403",
+        "created_ts": 1671690892.0,
+        "author_role": "assignee",
+        "text": "greetings kindly note that during the last remote session now the user is able to access the required report, please ask the business team to verify it and generate ph_technical report in order to move it to production. best regards, ph_name team.",
+        "source_rows": "28263,28264,28265"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1114184",
+        "created_ts": 1672727453.0,
+        "author_role": "reporter",
+        "text": "greetings kindly note that we are waiting for business testing update and will let you know.",
+        "source_rows": "28266,28267"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1114947",
+        "created_ts": 1672925723.0,
+        "author_role": "assignee",
+        "text": "greetings kindly let us know if there is any update from business testing. best regards, ph_name team.",
+        "source_rows": "28268,28269,28270"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1115665",
+        "created_ts": 1673274587.0,
+        "author_role": "assignee",
+        "text": "greetings kind reminder. best regards, ph_name team.",
+        "source_rows": "28271,28272,28273"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1116113",
+        "created_ts": 1673427169.0,
+        "author_role": "assignee",
+        "text": "greetings kind reminder. best regards, ph_name team.",
+        "source_rows": "28274,28275,28276"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1116506",
+        "created_ts": 1673531731.0,
+        "author_role": "assignee",
+        "text": "greetings kind reminder. best regards, ph_name team.",
+        "source_rows": "28277,28278,28279"
+      },
+      {
+        "issueid": "1010058",
+        "id": "1121152",
+        "created_ts": 1675524104.0,
+        "author_role": "assignee",
+        "text": "greetings kindly note that since no feedback from your side, we will consider this ticket is resolved and closed, please open a new ticket if more assistance is required from our side. best regards, ph_name team.",
+        "source_rows": "28280,28281,28282"
+      }
+    ]
+  }
+]

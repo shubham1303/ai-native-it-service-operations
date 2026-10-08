@@ -1,0 +1,470 @@
+{
+  "files": {
+    "holidays_by_country.csv": {
+      "rows": 4479,
+      "columns": 2,
+      "exact_duplicate_rows": 0
+    },
+    "issues.csv": {
+      "rows": 66691,
+      "columns": 58,
+      "exact_duplicate_rows": 0
+    },
+    "issues_change_history.csv": {
+      "rows": 257508,
+      "columns": 6,
+      "exact_duplicate_rows": 0
+    },
+    "issues_snapshot.csv": {
+      "rows": 90963,
+      "columns": 60,
+      "exact_duplicate_rows": 0
+    },
+    "sample_utterances.csv": {
+      "rows": 30104,
+      "columns": 9,
+      "exact_duplicate_rows": 0
+    }
+  },
+  "checksums": {
+    "EXAMPLE.md": "71de05944e1f1a3240d22716b292eb0586e00423b15bdf1a7513c6f66d945696",
+    "FEATURES.md": "e9443bffac53623293274f8fc1860aec0cadde58056c9b31476d67005a60d495",
+    "holidays_by_country.csv": "f97e9df840ea5ec74f9ffeadf3956e06f315197212d0d41469c6db92b5be68b2",
+    "issues_change_history.csv": "93f6d99893bac6eb755c075dc4a3c3f655cab7c6b4e2d54a3dca0b26e4b6a3c6",
+    "issues.csv": "eab3b8857bc19bd917e0767fb9c30b7714d5468b25c5a1c1cd71a760e9602f02",
+    "issues_snapshot.csv": "89975cd7e0868408ea7b0a701758d54a439255d7814fd3aa14b198f9ea543948",
+    "issues_snapshot_sample.xlsx": "f9b4d947e231ad518d97774bc74d99f44324e472a83198ee0656c6880edb5e92",
+    "sample_utterances.csv": "6486067634164a8d9fc361887b9b700965e704c9b03c87ef4e19275cccf30196"
+  },
+  "timestamps": {
+    "issues.started": {
+      "blank": 0,
+      "invalid_nonblank": 0,
+      "minimum": "2007-04-15 08:12:11+00:00",
+      "maximum": "2023-03-14 14:00:32+00:00"
+    },
+    "issues.ended": {
+      "blank": 0,
+      "invalid_nonblank": 0,
+      "minimum": "2013-01-07 09:45:42+00:00",
+      "maximum": "2023-03-14 14:19:32+00:00"
+    },
+    "issues.issue_created": {
+      "blank": 0,
+      "invalid_nonblank": 0,
+      "minimum": "2007-04-15 08:12:11+00:00",
+      "maximum": "2023-03-14 14:00:32+00:00"
+    },
+    "issues.issue_resolution_date": {
+      "blank": 853,
+      "invalid_nonblank": 0,
+      "minimum": "2013-01-07 09:45:42+00:00",
+      "maximum": "2023-03-14 14:19:28+00:00"
+    },
+    "issues.last_change_date": {
+      "blank": 1,
+      "invalid_nonblank": 0,
+      "minimum": "2016-04-02 11:59:22+00:00",
+      "maximum": "2023-03-14 14:19:32+00:00"
+    },
+    "issues_change_history.created": {
+      "blank": 0,
+      "invalid_nonblank": 0,
+      "minimum": "2015-08-12 11:14:28+00:00",
+      "maximum": "2023-03-14 14:19:32+00:00"
+    },
+    "issues_snapshot.started": {
+      "blank": 0,
+      "invalid_nonblank": 0,
+      "minimum": "2007-04-15 08:12:11+00:00",
+      "maximum": "2023-03-14 14:00:32+00:00"
+    },
+    "issues_snapshot.ended": {
+      "blank": 0,
+      "invalid_nonblank": 0,
+      "minimum": "2013-01-07 09:45:42+00:00",
+      "maximum": "2023-03-14 14:19:32+00:00"
+    },
+    "issues_snapshot.issue_created": {
+      "blank": 0,
+      "invalid_nonblank": 0,
+      "minimum": "2007-04-15 08:12:11+00:00",
+      "maximum": "2023-03-14 14:00:32+00:00"
+    },
+    "issues_snapshot.issue_resolution_date": {
+      "blank": 1445,
+      "invalid_nonblank": 0,
+      "minimum": "2013-01-07 09:45:42+00:00",
+      "maximum": "2023-03-14 14:19:28+00:00"
+    },
+    "issues_snapshot.last_change_date": {
+      "blank": 1,
+      "invalid_nonblank": 0,
+      "minimum": "2016-04-02 11:59:22+00:00",
+      "maximum": "2023-03-14 14:19:32+00:00"
+    },
+    "sample_utterances.created": {
+      "blank": 0,
+      "invalid_nonblank": 0,
+      "minimum": "2022-01-02 11:12:51+00:00",
+      "maximum": "2023-03-07 13:40:45+00:00"
+    }
+  },
+  "categories": {
+    "issue_type": {
+      "Ticket": 45275,
+      "Service": 5300,
+      "Subtask": 4746,
+      "Story": 4538,
+      "HD Service": 1686,
+      "Task": 1540,
+      "Vacation": 856,
+      "Project": 842,
+      "Sub-task": 544,
+      "Epic": 403,
+      "Deployment": 350,
+      "Retrospective": 241,
+      "Sprint Summary": 208,
+      "Assistance": 109,
+      "Bug": 53
+    },
+    "issue_priority": {
+      "unknown": 33965,
+      "Medium": 24788,
+      "High": 4554,
+      "Highest": 2084,
+      "Blocker": 656,
+      "Low": 560,
+      "Lowest": 84
+    },
+    "issue_status": {
+      "closed": 56344,
+      "done": 9714,
+      "waiting": 218,
+      "open": 97,
+      "in_progress": 94,
+      "validation": 86,
+      "resolved": 59,
+      "pending_deployment": 47,
+      "resolved_under_monitoring": 18,
+      "under_review": 5,
+      "to_do": 3,
+      "approved": 2,
+      "in_review": 2,
+      "cancelled": 1,
+      "reopened": 1
+    },
+    "issue_resolution": {
+      "Done": 62034,
+      "Won't Do": 2991,
+      "": 853,
+      "Duplicate": 661,
+      "Cannot Reproduce": 152
+    },
+    "history_fields": {
+      "status": 194802,
+      "assignee": 62706
+    },
+    "history_status_values": {
+      "closed": 58165,
+      "in_progress": 51247,
+      "resolved": 31866,
+      "waiting": 25440,
+      "done": 11342,
+      "validation": 3948,
+      "reopened": 2325,
+      "resolved_under_monitoring": 2151,
+      "under_review": 1842,
+      "approved": 1800,
+      "pending_deployment": 1713,
+      "to_do": 988,
+      "monitoring": 570,
+      "testing_monitoring": 339,
+      "pending_customer_approval": 301,
+      "open": 237,
+      "cancelled": 172,
+      "deployment": 157,
+      "rejected": 115,
+      "in_review": 84
+    },
+    "author_roles": {
+      "assignee": 12820,
+      "others": 11584,
+      "reporter": 5700
+    }
+  },
+  "relational_checks": {
+    "history_orphans": [
+      {
+        "orphan_rows": 0,
+        "orphan_issues": 0
+      }
+    ],
+    "snapshot_orphans": [
+      {
+        "orphan_rows": 0
+      }
+    ],
+    "text_orphans": [
+      {
+        "orphan_rows": 0
+      }
+    ],
+    "issues_without_history": [
+      {
+        "issues": 41
+      }
+    ],
+    "history_coverage": [
+      {
+        "issues": 66650
+      }
+    ],
+    "snapshot_coverage": [
+      {
+        "issues": 66691
+      }
+    ],
+    "text_coverage": [
+      {
+        "issues": 360
+      }
+    ]
+  },
+  "issues_duplicate_keys": 0,
+  "history_duplicate_keys": 0,
+  "duration_quality": {
+    "negative_resolution_durations": 0,
+    "zero_resolution_durations": 0,
+    "missing_resolution": 853,
+    "resolution_over_365_days": 22414
+  },
+  "issue_created_by_year": {
+    "2007": 457,
+    "2008": 1103,
+    "2009": 2157,
+    "2010": 3133,
+    "2011": 2966,
+    "2012": 3071,
+    "2013": 2442,
+    "2014": 2845,
+    "2015": 5543,
+    "2016": 7053,
+    "2017": 5524,
+    "2018": 5712,
+    "2019": 5084,
+    "2020": 5470,
+    "2021": 5834,
+    "2022": 6542,
+    "2023": 1755
+  },
+  "status_rows_at_tied_timestamps": 164,
+  "status_cases_with_ties": 57,
+  "transition_scope": {
+    "cases": 66536,
+    "excluded_cases": 57,
+    "rows": 194282
+  },
+  "text": {
+    "unique_issues": 360,
+    "distinct_comments": 7286,
+    "blank_utterances": 23,
+    "placeholder_utterances": 11497
+  },
+  "numeric_quality": {
+    "wf_in_review": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wfe_in_review": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_deployment": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wfe_deployment": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_resolved": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wfe_resolved": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_open": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wfe_open": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_monitoring": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wfe_monitoring": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_done": {
+      "negative": 47,
+      "invalid_nonblank": 0
+    },
+    "wfe_done": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_pending_customer_approval": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wfe_pending_customer_approval": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_rejected": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wfe_rejected": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_testing_monitoring": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wfe_testing_monitoring": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_in_progress": {
+      "negative": 2,
+      "invalid_nonblank": 0
+    },
+    "wfe_in_progress": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_reopened": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wfe_reopened": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_to_do": {
+      "negative": 5,
+      "invalid_nonblank": 0
+    },
+    "wfe_to_do": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_validation": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wfe_validation": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_resolved_under_monitoring": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wfe_resolved_under_monitoring": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_closed": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wfe_closed": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_waiting": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wfe_waiting": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_cancelled": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wfe_cancelled": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_under_review": {
+      "negative": 1,
+      "invalid_nonblank": 0
+    },
+    "wfe_under_review": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_approved": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wfe_approved": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_pending_deployment": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wfe_pending_deployment": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "wf_total_time": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    },
+    "processing_steps": {
+      "negative": 0,
+      "invalid_nonblank": 0
+    }
+  },
+  "appraisal_workbook": {
+    "Sheet1": {
+      "rows": 747,
+      "columns": [
+        "id",
+        "no",
+        "project",
+        "reporter",
+        "type",
+        "priority",
+        "contributors",
+        "turn_no",
+        "assignee",
+        "started",
+        "ended",
+        "spent hours",
+        "steps",
+        "comments count",
+        "valid",
+        "Q1",
+        "Q2",
+        "Q3",
+        "Notes"
+      ]
+    }
+  }
+}

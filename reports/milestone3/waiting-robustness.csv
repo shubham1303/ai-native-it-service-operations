@@ -1,0 +1,6 @@
+scope,cases,waiting_share,repeat_waiting_cases
+primary,17132,0.4196427406509621,1299
+without_top_waiting_project,16979,0.41331573359777735,1285
+without_top10_waiting_projects,13442,0.4130894891443334,959
+created_2019_to_2022,15744,0.41846545586083106,1230
+observed_duration_at_most_365_days,17067,0.4396134988966379,1277

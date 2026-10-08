@@ -1,0 +1,5 @@
+metric,included,cases,missing_resolution,median_recorded_resolution_days
+status_eligible,0,131,51,7.720605237270119
+status_eligible,1,17132,424,6.085332401619741
+assignment_eligible,0,884,92,9.741001157407407
+assignment_eligible,1,16379,383,6.015694444444445

@@ -1,0 +1,9 @@
+{
+  "history_orphans": "SELECT COUNT(*) AS orphan_rows, COUNT(DISTINCT h.issueid) AS orphan_issues FROM issues_change_history h LEFT JOIN issues i ON h.issueid=i.id WHERE i.id IS NULL",
+  "snapshot_orphans": "SELECT COUNT(*) AS orphan_rows FROM issues_snapshot s LEFT JOIN issues i ON s.id=i.id WHERE i.id IS NULL",
+  "text_orphans": "SELECT COUNT(*) AS orphan_rows FROM sample_utterances t LEFT JOIN issues i ON t.issueid=i.id WHERE i.id IS NULL",
+  "issues_without_history": "SELECT COUNT(*) AS issues FROM issues i WHERE NOT EXISTS (SELECT 1 FROM issues_change_history h WHERE h.issueid=i.id)",
+  "history_coverage": "SELECT COUNT(DISTINCT issueid) AS issues FROM issues_change_history",
+  "snapshot_coverage": "SELECT COUNT(DISTINCT id) AS issues FROM issues_snapshot",
+  "text_coverage": "SELECT COUNT(DISTINCT issueid) AS issues FROM sample_utterances"
+}

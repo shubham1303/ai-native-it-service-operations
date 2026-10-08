@@ -1,0 +1,1991 @@
+issueid,episode_id,path,gap_days
+32615,32615@1552545296.244000,waiting > in_progress > waiting,0.6010350231467574
+32071,32071@1549567605.981000,waiting > in_progress > waiting,4.595232372684059
+33417,33417@1554459125.742000,waiting > in_progress > waiting,0.000164733796759888
+32803,32803@1554053735.661000,waiting > in_progress > validation > in_progress > waiting,20.218755590278242
+32803,32803@1556002030.256000,waiting > in_progress > resolved > pending_deployment > in_progress > waiting,14.078230787038251
+31819,31819@1547375313.034000,waiting > in_progress > waiting,3.8844533912037256
+32519,32519@1550576167.169000,waiting > in_progress > waiting,2.938657171196408e-05
+31899,31899@1548168003.270000,waiting > in_progress > waiting,0.24581789351723812
+31821,31821@1550747234.166000,waiting > in_progress > waiting,6.94178146990637
+31821,31821@1551018005.762000,waiting > in_progress > waiting,0.2985436226869071
+32030,32030@1548332895.896000,waiting > in_progress > waiting,3.75694422810166e-05
+32743,32743@1551164185.132000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,1.715007777776983
+32898,32898@1551886813.683000,waiting > in_progress > waiting,0.9477594675923939
+32468,32468@1549523255.518000,waiting > in_progress > waiting,0.0001506249992935746
+32491,32491@1549782621.709000,waiting > in_progress > waiting,2.620588344909527
+32064,32064@1548227957.184000,waiting > in_progress > waiting,2.002314836890609e-05
+33796,33796@1557051788.548000,waiting > in_progress > waiting,0.08758864583516562
+32740,32740@1550762473.318000,waiting > in_progress > waiting,0.0003990856502895002
+32740,32740@1550762517.269000,waiting > in_progress > validation > in_progress > waiting,0.0004799421297179328
+32352,32352@1550657540.829000,waiting > in_progress > waiting,0.1016887615731469
+35892,35892@1570452624.547000,waiting > in_progress > waiting,0.023129212961152747
+35892,35892@1570453124.350000,waiting > in_progress > waiting,0.003789374999426029
+35892,35892@1572157655.230000,waiting > resolved > pending_deployment > in_progress > waiting,10.649127118054915
+32067,32067@1548136274.845000,waiting > in_progress > waiting,2.3194443848397995e-05
+32643,32643@1550475954.164000,waiting > in_progress > waiting,2.2430555136115462e-05
+32046,32046@1547652008.268000,waiting > in_progress > waiting,0.0004225925908044533
+36315,36315@1573125967.443000,waiting > in_progress > waiting,0.0019054745386044185
+32294,32294@1548843035.766000,waiting > in_progress > waiting,4.6481481856769984e-05
+31946,31946@1547617016.275000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,1.8989680671305569
+31945,31945@1547450493.491000,waiting > in_progress > waiting,0.9979823958321854
+31993,31993@1547973059.780000,waiting > in_progress > waiting,5.631372997683507
+31993,31993@1548792593.685000,waiting > in_progress > waiting,0.5181122916660927
+31993,31993@1550731065.261000,waiting > in_progress > waiting,0.14473425925881775
+31993,31993@1550991723.757000,waiting > in_progress > waiting,1.2135942708342164
+31886,31886@1549206078.219000,waiting > in_progress > waiting,3.2563786111109785
+32456,32456@1551688921.683000,waiting > in_progress > validation > in_progress > waiting,22.079033240742152
+32456,32456@1552846952.089000,waiting > in_progress > validation > in_progress > waiting,0.000737488427095943
+32190,32190@1548657304.313000,waiting > in_progress > waiting,0.00455574074001224
+32190,32190@1548827334.551000,waiting > in_progress > waiting,1.808517766205801
+32278,32278@1549290293.306000,waiting > in_progress > waiting,0.5543951851846995
+32278,32278@1550737525.894000,waiting > in_progress > waiting,15.55885028935141
+32133,32133@1548158089.453000,waiting > in_progress > waiting,0.049444953705425614
+32070,32070@1551263084.715000,waiting > in_progress > waiting,1.7981451620354696
+32460,32460@1549524897.592000,waiting > in_progress > waiting,0.017339710648413057
+32353,32353@1551957905.567000,waiting > in_progress > waiting,2.2555479513881385
+32353,32353@1551970776.748000,waiting > in_progress > waiting,0.1489390856469119
+32438,32438@1549865505.148000,waiting > in_progress > waiting,2.2672761342591707
+32485,32485@1557912481.341000,waiting > in_progress > waiting,2.0925926941412465e-05
+32485,32485@1558575689.373000,waiting > in_progress > waiting,0.00021847222138334204
+32707,32707@1550653018.104000,waiting > in_progress > waiting,0.7262502546304905
+31938,31938@1547634392.659000,waiting > in_progress > waiting,0.8039091782409836
+32143,32143@1550395380.355000,waiting > in_progress > waiting,4.270777581019534
+32328,32328@1549191656.828000,waiting > in_progress > waiting,0.10344179398207753
+32565,32565@1550397525.753000,waiting > in_progress > waiting,1.7118056615193685e-05
+32565,32565@1551182924.385000,waiting > in_progress > validation > in_progress > waiting,9.090244942130866
+41683,41683@1601988711.746000,waiting > in_progress > waiting,0.00011990740895271302
+31835,31835@1549531860.098000,waiting > in_progress > waiting,0.007207002314152541
+44061,44061@1614580132.794000,waiting > in_progress > validation > in_progress > waiting,14.656556527777402
+36312,36312@1573136170.396000,waiting > in_progress > waiting,3.643518520726098e-05
+36312,36312@1573556573.474000,waiting > in_progress > waiting,1.721064801569338e-05
+36056,36056@1587568611.076000,waiting > in_progress > validation > in_progress > waiting,177.35721053240752
+31941,31941@1547627112.850000,waiting > in_progress > waiting,0.04508738425870736
+38150,38150@1584958201.297000,waiting > in_progress > waiting,3.819776481481062
+38150,38150@1591276176.405000,waiting > in_progress > waiting,2.303394710647839
+32412,32412@1549267916.628000,waiting > in_progress > waiting,0.0019132291663576054
+34843,34843@1566376573.589000,waiting > in_progress > validation > in_progress > validation > in_progress > validation > in_progress > waiting,34.91802337962996
+37860,37860@1590486971.642000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,48.156559421295924
+37860,37860@1590487022.700000,waiting > in_progress > validation > in_progress > waiting,0.00010452546455242015
+42170,42170@1606289349.395000,waiting > resolved > resolved_under_monitoring > closed > reopened > in_progress > resolved > closed > reopened > in_progress > waiting,13.731052534720964
+42398,42398@1605511225.889000,waiting > in_progress > waiting,3.797453586701993e-05
+39236,39236@1591092875.611000,waiting > in_progress > waiting,0.04445474537158454
+42704,42704@1607591959.543000,waiting > in_progress > waiting,2.9353562731488987
+42704,42704@1608503715.851000,waiting > in_progress > waiting,7.555531458333134
+31934,31934@1548050358.676000,waiting > in_progress > waiting,2.1550928552945456e-05
+33040,33040@1552390906.722000,waiting > in_progress > validation > in_progress > waiting,8.709490575172283e-05
+32681,32681@1550671858.760000,waiting > in_progress > waiting,1.098703379628283
+32681,32681@1551347479.501000,waiting > in_progress > waiting,7.819649618055533
+31834,31834@1547554127.635000,waiting > in_progress > waiting,2.069941840276674
+31837,31837@1548660229.885000,waiting > in_progress > waiting,12.6770005324069
+41097,41097@1601464265.258000,waiting > in_progress > validation > in_progress > waiting,1.1147315277766299
+41097,41097@1603691116.218000,waiting > in_progress > validation > in_progress > waiting,14.753312141202667
+32200,32200@1548859534.225000,waiting > in_progress > waiting,0.08650703703639684
+31800,31800@1546776520.273000,waiting > in_progress > waiting,4.939814684567628e-05
+31843,31843@1547651575.426000,waiting > in_progress > waiting,3.010636192129718
+33854,33854@1557736587.952000,waiting > in_progress > validation > in_progress > waiting,3.908401122683728
+33081,33081@1552572081.412000,waiting > in_progress > waiting,0.21343305555482706
+33081,33081@1553151115.541000,waiting > in_progress > waiting,2.9568978587951924
+32721,32721@1550812731.630000,waiting > in_progress > waiting,0.7113127777780648
+32721,32721@1551259469.684000,waiting > in_progress > waiting,2.1526300347237677
+32721,32721@1551695048.850000,waiting > in_progress > waiting,0.02418123842389495
+32242,32242@1550141027.677000,waiting > in_progress > waiting,1.7674081250004194
+31858,31858@1546957553.386000,waiting > in_progress > waiting,0.044569050926301215
+31858,31858@1546958904.881000,waiting > in_progress > waiting,0.006167152777866081
+31853,31853@1548660377.981000,waiting > in_progress > waiting,18.041132870368937
+33270,33270@1555345761.215000,waiting > in_progress > validation > in_progress > waiting,14.943935983796363
+38972,38972@1588839483.181000,waiting > in_progress > waiting,0.9286835879639342
+38972,38972@1589195305.136000,waiting > in_progress > waiting,0.26264283564631585
+38972,38972@1589364102.629000,waiting > in_progress > waiting,1.1385680787044543
+38972,38972@1590669259.822000,waiting > in_progress > waiting,15.022228645834106
+36177,36177@1573385854.769000,waiting > in_progress > waiting,3.989583364239445e-05
+31810,31810@1549262570.971000,waiting > in_progress > waiting,8.016473819445128
+31940,31940@1547648222.857000,waiting > in_progress > waiting,1.9764440162038361
+31940,31940@1549894192.477000,waiting > in_progress > waiting,21.947947175924977
+33701,33701@1556442658.996000,waiting > in_progress > waiting,9.983796488355707e-05
+37026,37026@1578569395.170000,waiting > in_progress > validation > in_progress > waiting,2.2325527199081803
+37026,37026@1579426333.119000,waiting > in_progress > validation > in_progress > waiting,0.038354131943649714
+32570,32570@1549967397.101000,waiting > in_progress > waiting,2.7858797046873306e-05
+32570,32570@1549967590.038000,waiting > in_progress > waiting,5.215277826344525e-05
+32570,32570@1551100787.216000,waiting > in_progress > validation > in_progress > waiting,13.095662094909283
+33251,33251@1554790922.795000,waiting > in_progress > validation > in_progress > waiting,12.620519641204565
+32679,32679@1550568921.489000,waiting > in_progress > waiting,0.18166032407570767
+32679,32679@1552906173.020000,waiting > in_progress > validation > in_progress > validation > in_progress > validation > resolved > pending_deployment > in_progress > waiting,24.924927245370217
+32669,32669@1551083692.954000,waiting > in_progress > validation > in_progress > waiting,6.913884224535691
+35004,35004@1564412390.342000,waiting > in_progress > validation > in_progress > waiting,0.03519950231468236
+32920,32920@1552581181.296000,waiting > in_progress > validation > in_progress > waiting,7.9962268402786165
+32920,32920@1552982022.601000,waiting > in_progress > waiting,2.0166333449080036
+32920,32920@1553077289.766000,waiting > in_progress > waiting,1.0492345486112216
+34771,34771@1563171143.118000,waiting > in_progress > waiting,0.7162648495369487
+32078,32078@1548181393.601000,waiting > in_progress > waiting,0.4525763657413147
+31913,31913@1547111773.917000,waiting > in_progress > waiting,1.5868056151602002e-05
+31913,31913@1548842450.237000,waiting > in_progress > waiting,6.095722743054783
+31756,31756@1551789059.011000,waiting > in_progress > validation > in_progress > waiting,62.0280434259248
+37941,37941@1583855963.340000,waiting > in_progress > waiting,0.27468398147986994
+32612,32612@1551012047.676000,waiting > in_progress > validation > in_progress > waiting,0.2918555092618421
+33090,33090@1553598698.835000,waiting > in_progress > waiting,1.0913697685190924
+35739,35739@1569476188.435000,waiting > in_progress > waiting,0.012388159720985979
+31939,31939@1547641516.424000,waiting > in_progress > waiting,7.451388846944879e-05
+32270,32270@1549527931.935000,waiting > in_progress > waiting,2.1693473495377433
+31979,31979@1548944518.273000,waiting > in_progress > waiting,11.186178645833774
+31979,31979@1549461354.759000,waiting > in_progress > waiting,0.13906285879788574
+31979,31979@1553414753.030000,waiting > in_progress > validation > in_progress > waiting,31.782684282406613
+31979,31979@1554051293.476000,waiting > in_progress > waiting,0.30432848379843763
+31979,31979@1555234180.980000,waiting > in_progress > waiting,6.092715451388999
+31820,31820@1548772263.942000,waiting > in_progress > waiting,16.309652627314684
+31820,31820@1549272438.286000,waiting > in_progress > waiting,3.743549953704631
+31814,31814@1547039431.141000,waiting > in_progress > waiting,2.0046297598768163e-05
+31814,31814@1551338208.233000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,0.016378611110978658
+32569,32569@1551610127.994000,waiting > in_progress > validation > in_progress > waiting,11.1507233564804
+32569,32569@1555310429.203000,waiting > in_progress > waiting,5.754188842594072
+32458,32458@1549487459.926000,waiting > in_progress > waiting,0.2153899537054477
+32458,32458@1549530912.066000,waiting > in_progress > waiting,0.05447853009181994
+32458,32458@1551263897.354000,waiting > in_progress > validation > in_progress > resolved > pending_deployment > in_progress > waiting,15.183435694445615
+32458,32458@1551740933.521000,waiting > resolved > pending_deployment > in_progress > waiting,0.5489660648146162
+32045,32045@1556049744.387000,waiting > resolved > resolved_under_monitoring > in_progress > validation > in_progress > validation > in_progress > resolved > pending_deployment > in_progress > validation > in_progress > waiting,83.49001922453719
+32534,32534@1549890305.459000,waiting > in_progress > waiting,0.15590140046344864
+32534,32534@1550696630.109000,waiting > in_progress > validation > in_progress > waiting,6.248504664351543
+32268,32268@1550560414.170000,waiting > in_progress > validation > in_progress > waiting,20.673472962964464
+32268,32268@1550747998.320000,waiting > in_progress > waiting,1.8979190972226638
+32268,32268@1553172598.726000,waiting > in_progress > resolved > pending_deployment > in_progress > validation > in_progress > waiting,27.2941902199084
+32268,32268@1553686757.852000,waiting > in_progress > waiting,0.05852449074111603
+32532,32532@1549889079.065000,waiting > in_progress > validation > in_progress > waiting,0.10464609953816291
+32532,32532@1550649988.478000,waiting > in_progress > waiting,0.14366519675762565
+32331,32331@1549385098.680000,waiting > in_progress > waiting,5.178112708332914
+32189,32189@1554808443.557000,waiting > resolved > closed > reopened > in_progress > waiting,27.153601944443803
+33223,33223@1554290400.264000,waiting > resolved > pending_deployment > in_progress > waiting,0.00032399305590876824
+33223,33223@1554819247.909000,waiting > resolved > pending_deployment > in_progress > waiting,1.327859548609014
+40797,40797@1601821334.254000,waiting > in_progress > validation > in_progress > waiting,32.113687604166294
+35360,35360@1567418862.459000,waiting > in_progress > waiting,0.05668387731744184
+35360,35360@1567512362.053000,waiting > in_progress > waiting,0.08980364583432675
+32630,32630@1554199695.840000,waiting > in_progress > validation > in_progress > validation > in_progress > validation > in_progress > waiting,43.984525972221185
+32023,32023@1549876628.694000,waiting > in_progress > validation > in_progress > waiting,20.038903252314086
+32023,32023@1552204282.477000,waiting > in_progress > validation > in_progress > resolved > pending_deployment > resolved_under_monitoring > in_progress > resolved > closed > reopened > in_progress > waiting,14.570213912038339
+37777,37777@1587895628.463000,waiting > in_progress > resolved > pending_deployment > in_progress > waiting,55.8632161342601
+33534,33534@1555489100.133000,waiting > in_progress > validation > in_progress > waiting,0.7950174999982118
+33534,33534@1556526322.590000,waiting > in_progress > validation > in_progress > waiting,11.968007164351919
+32368,32368@1549801040.116000,waiting > in_progress > validation > in_progress > waiting,4.700156805553922
+33011,33011@1553498233.444000,waiting > in_progress > waiting,6.566196608797267
+31760,31760@1549872055.346000,waiting > in_progress > validation > in_progress > waiting,5.914360150463051
+31760,31760@1550104952.868000,waiting > in_progress > waiting,0.03419759259179787
+31760,31760@1551252394.304000,waiting > in_progress > waiting,4.228120243055401
+32685,32685@1551373232.639000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,1.146382673609036
+33018,33018@1552468852.308000,waiting > in_progress > waiting,1.961805754237705e-05
+32619,32619@1551343052.284000,waiting > in_progress > waiting,1.0991919212953911
+32635,32635@1550409125.324000,waiting > in_progress > validation > in_progress > waiting,1.252168402776674
+32009,32009@1551191052.426000,waiting > in_progress > validation > in_progress > waiting,35.16027410879731
+32009,32009@1553071876.225000,waiting > in_progress > waiting,1.9209912384246235
+32009,32009@1553694341.993000,waiting > in_progress > waiting,2.147430115742264
+32009,32009@1554097758.521000,waiting > in_progress > waiting,0.8533713657408952
+32009,32009@1557318116.329000,waiting > in_progress > validation > in_progress > waiting,21.178381817128372
+32047,32047@1550097246.459000,waiting > resolved > closed > reopened > in_progress > waiting,3.6697096180557103
+32705,32705@1550671714.584000,waiting > in_progress > waiting,0.19313569444473144
+32705,32705@1550683650.073000,waiting > in_progress > waiting,2.656249812355748e-05
+33341,33341@1554812471.279000,waiting > in_progress > validation > in_progress > waiting,7.931983298612414
+32782,32782@1551766649.963000,waiting > resolved > resolved_under_monitoring > in_progress > validation > in_progress > waiting,6.904818831019932
+32782,32782@1552406580.179000,waiting > in_progress > waiting,2.1965959027768287
+31829,31829@1548939783.304000,waiting > in_progress > validation > in_progress > waiting,22.129549398146295
+31829,31829@1549253589.678000,waiting > in_progress > waiting,3.620612337961793
+31829,31829@1549292065.627000,waiting > in_progress > waiting,0.1816868287048958
+31829,31829@1551684996.156000,waiting > in_progress > waiting,2.411504687498565
+33076,33076@1553761647.735000,waiting > in_progress > validation > in_progress > waiting,10.95285482638688
+32727,32727@1551012897.714000,waiting > in_progress > waiting,0.009144710647287193
+32727,32727@1551186470.041000,waiting > in_progress > resolved > pending_deployment > in_progress > waiting,0.1905599305530389
+32727,32727@1551341887.256000,waiting > in_progress > waiting,0.08270234953750062
+32727,32727@1551617498.908000,waiting > in_progress > waiting,0.2667275578694211
+32727,32727@1552914238.687000,waiting > in_progress > waiting,1.0348387384276698
+32727,32727@1553515353.170000,waiting > in_progress > waiting,0.9234009606501571
+32801,32801@1551276943.373000,waiting > in_progress > waiting,2.744212746620178e-05
+36031,36031@1571647488.167000,waiting > in_progress > waiting,0.09743380787195982
+32775,32775@1559028634.520000,waiting > in_progress > validation > resolved > closed > reopened > in_progress > waiting,68.99315974537146
+32966,32966@1552546787.115000,waiting > in_progress > waiting,3.87646239583415
+32607,32607@1552581101.837000,waiting > in_progress > validation > in_progress > waiting,10.037914131943275
+32607,32607@1552982002.708000,waiting > in_progress > waiting,2.0172839351853837
+32654,32654@1550485114.568000,waiting > in_progress > waiting,0.359765312500574
+32652,32652@1550752012.945000,waiting > in_progress > validation > in_progress > waiting,1.0033920601838164
+32652,32652@1552207448.069000,waiting > in_progress > resolved > pending_deployment > resolved_under_monitoring > in_progress > resolved > closed > reopened > in_progress > waiting,13.801388530093762
+33585,33585@1556006000.699000,waiting > resolved > closed > reopened > in_progress > waiting,5.731314108793934
+33083,33083@1553762067.163000,waiting > in_progress > validation > in_progress > waiting,10.942091354167571
+33588,33588@1563693364.416000,waiting > in_progress > waiting,25.76986637731393
+33813,33813@1558340790.882000,waiting > in_progress > waiting,1.0768140624987859
+33312,33312@1554290511.521000,waiting > in_progress > waiting,0.25109321759254843
+33022,33022@1553085087.872000,waiting > in_progress > waiting,0.5874133449075398
+33698,33698@1556537114.507000,waiting > in_progress > waiting,0.9809857638897719
+33698,33698@1556625690.217000,waiting > in_progress > waiting,0.9669738310189159
+33671,33671@1556169686.429000,waiting > in_progress > waiting,2.800925738281674e-05
+33319,33319@1554890379.512000,waiting > in_progress > waiting,0.0001822453709664168
+33319,33319@1555937283.489000,waiting > in_progress > validation > in_progress > waiting,5.883834918983005
+33319,33319@1556104953.476000,waiting > in_progress > waiting,0.0011506365736325581
+33319,33319@1556174618.042000,waiting > in_progress > validation > in_progress > waiting,0.8062703009253299
+33657,33657@1556091676.313000,waiting > in_progress > waiting,0.028608078702732367
+33436,33436@1554704893.003000,waiting > in_progress > waiting,0.04677591435335301
+33436,33436@1555580139.039000,waiting > in_progress > validation > in_progress > waiting,6.860161168980929
+33436,33436@1555590734.095000,waiting > in_progress > validation > in_progress > waiting,0.11536283564788324
+33327,33327@1554098605.186000,waiting > in_progress > waiting,5.1030094424883525e-05
+33632,33632@1556109670.767000,waiting > in_progress > waiting,0.9922234953691562
+33246,33246@1556174411.916000,waiting > in_progress > validation > in_progress > validation > in_progress > waiting,10.029641319444334
+32529,32529@1549954440.615000,waiting > in_progress > waiting,0.9557444097212068
+33459,33459@1560765297.890000,waiting > in_progress > waiting,0.9533644444467845
+33872,33872@1557404155.968000,waiting > in_progress > waiting,1.614583311257539e-05
+32814,32814@1551740884.184000,waiting > resolved > pending_deployment > in_progress > waiting,0.5476796643518739
+32814,32814@1553792737.374000,waiting > in_progress > validation > in_progress > waiting,21.15427864583554
+32814,32814@1554125659.975000,waiting > in_progress > waiting,0.8323423611096762
+32814,32814@1554992338.565000,waiting > in_progress > waiting,0.9934670717600319
+35253,35253@1569500339.811000,waiting > in_progress > waiting,2.6863427073867234e-05
+33500,33500@1556619375.843000,waiting > in_progress > validation > in_progress > waiting,13.889003055553745
+33969,33969@1558856088.107000,waiting > resolved > closed > reopened > in_progress > waiting,5.842903923613054
+33711,33711@1556628820.829000,waiting > resolved > closed > reopened > in_progress > waiting,1.1316885648143513
+35738,35738@1569350970.647000,waiting > in_progress > waiting,0.00022313657458181735
+33383,33383@1556738163.189000,waiting > in_progress > waiting,1.0132155787034167
+34008,34008@1558935444.148000,waiting > in_progress > waiting,3.726106030093851
+33781,33781@1556785148.826000,waiting > in_progress > waiting,0.026400914352249217
+32012,32012@1551769986.319000,waiting > resolved > closed > reopened > in_progress > waiting,18.842627870371498
+32012,32012@1554034858.902000,waiting > in_progress > validation > in_progress > waiting,3.1543971990738755
+33908,33908@1557823771.207000,waiting > in_progress > waiting,0.03558797453840574
+34789,34789@1563349317.815000,waiting > in_progress > waiting,5.86342590826529e-05
+33921,33921@1558253176.986000,waiting > in_progress > waiting,0.062111412038405735
+34714,34714@1563283891.630000,waiting > in_progress > validation > in_progress > waiting,5.3305664351858475
+34528,34528@1569832886.690000,waiting > in_progress > waiting,0.08796737268567086
+34528,34528@1578380303.830000,waiting > resolved > pending_deployment > in_progress > validation > in_progress > waiting,89.07508798611109
+35170,35170@1566200881.567000,waiting > in_progress > waiting,0.028618124999381878
+35170,35170@1566714077.715000,waiting > in_progress > resolved > pending_deployment > in_progress > waiting,5.763714097222245
+33848,33848@1562491165.822000,waiting > in_progress > validation > in_progress > waiting,13.902649548611155
+34093,34093@1559116469.810000,waiting > in_progress > waiting,0.04751431712949718
+34093,34093@1559199388.123000,waiting > in_progress > waiting,0.9474895949054647
+34093,34093@1560345304.453000,waiting > in_progress > waiting,1.049332546296495
+34093,34093@1561966721.920000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,12.041348263888999
+33882,33882@1558603969.980000,waiting > in_progress > resolved > pending_deployment > resolved_under_monitoring > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,11.139286111110339
+33882,33882@1559024876.103000,waiting > in_progress > resolved > pending_deployment > resolved_under_monitoring > in_progress > waiting,4.871576874998433
+33882,33882@1560144764.843000,waiting > resolved > closed > reopened > in_progress > waiting,6.843087025461373
+34202,34202@1566219348.949000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,20.147920196757273
+34719,34719@1562740057.603000,waiting > in_progress > waiting,0.8404243518522492
+34029,34029@1558940841.101000,waiting > in_progress > waiting,0.01647142361159678
+34029,34029@1559215473.855000,waiting > in_progress > waiting,0.02243300926078249
+32708,32708@1551252342.527000,waiting > in_progress > waiting,0.03240079860996317
+33866,33866@1558334221.107000,waiting > in_progress > waiting,5.848092256944488
+33866,33866@1560320661.042000,waiting > in_progress > validation > in_progress > waiting,15.352573877316383
+33883,33883@1558266027.246000,waiting > in_progress > waiting,3.036396377315676
+33883,33883@1559457112.602000,waiting > in_progress > resolved > closed > reopened > in_progress > waiting,9.781129375000795
+33576,33576@1556093780.720000,waiting > in_progress > waiting,0.00010711805688010322
+34226,34226@1559644442.018000,waiting > in_progress > waiting,0.004703460647552102
+32194,32194@1553410707.661000,waiting > in_progress > validation > in_progress > waiting,48.37725502314943
+32713,32713@1553718725.892000,waiting > in_progress > validation > in_progress > waiting,29.45170665509171
+32713,32713@1558259544.260000,waiting > in_progress > waiting,0.16078202546194748
+33803,33803@1559543164.079000,waiting > in_progress > waiting,6.985859768517591
+34633,34633@1563693404.156000,waiting > resolved > closed > reopened > in_progress > waiting,0.016384918979472585
+34082,34082@1559541895.852000,waiting > in_progress > waiting,4.902496064815808
+33454,33454@1556630472.047000,waiting > in_progress > waiting,0.0002481712952808098
+34220,34220@1559552727.551000,waiting > in_progress > waiting,6.512731589652874e-05
+32126,32126@1549460862.109000,waiting > in_progress > validation > resolved > closed > reopened > in_progress > waiting,10.226140717590848
+32126,32126@1558004027.214000,waiting > in_progress > validation > in_progress > resolved > resolved_under_monitoring > in_progress > resolved > closed > reopened > in_progress > validation > in_progress > waiting,97.8948424421306
+34090,34090@1562478406.132000,waiting > in_progress > waiting,6.929451481481945
+34643,34643@1562402614.856000,waiting > in_progress > waiting,5.399305511403967e-05
+34266,34266@1560166779.448000,waiting > in_progress > waiting,0.0010449768520063823
+34266,34266@1561447956.006000,waiting > in_progress > waiting,0.8653271527781531
+34269,34269@1560350973.442000,waiting > in_progress > waiting,1.1835086574074294
+34276,34276@1563174960.497000,waiting > resolved > closed > reopened > in_progress > waiting,32.784161192129055
+34640,34640@1563266490.251000,waiting > in_progress > waiting,0.0006481828706132041
+34352,34352@1563690826.072000,waiting > in_progress > waiting,3.7689235185197107
+34894,34894@1564047052.319000,waiting > in_progress > waiting,0.9053714004628084
+34894,34894@1566302742.437000,waiting > in_progress > waiting,0.11991244212896736
+34319,34319@1561163492.413000,waiting > in_progress > waiting,1.8750001434926632e-05
+34896,34896@1563707854.120000,waiting > in_progress > waiting,1.556712720129225e-05
+34297,34297@1560409962.465000,waiting > in_progress > waiting,0.03832989583136859
+33499,33499@1557906393.248000,waiting > in_progress > validation > in_progress > waiting,28.785098773147222
+34264,34264@1560230111.639000,waiting > in_progress > waiting,0.011510879629188113
+34264,34264@1560838318.679000,waiting > in_progress > validation > in_progress > waiting,6.670467615740167
+34264,34264@1561304552.642000,waiting > in_progress > waiting,0.1884997569438484
+34264,34264@1561360252.370000,waiting > in_progress > waiting,2.0115739769405787e-05
+34264,34264@1562766456.056000,waiting > in_progress > waiting,3.603009162125764e-05
+34459,34459@1561627419.248000,waiting > in_progress > validation > in_progress > waiting,1.041182604164437
+34983,34983@1566796174.541000,waiting > resolved > closed > reopened > in_progress > waiting,5.827093206017658
+40803,40803@1599106995.161000,waiting > in_progress > waiting,5.3854168013290126e-05
+33569,33569@1562737153.862000,waiting > in_progress > validation > in_progress > waiting,82.78594635416788
+32659,32659@1552200985.652000,waiting > in_progress > resolved > pending_deployment > resolved_under_monitoring > in_progress > resolved > pending_deployment > in_progress > waiting,9.992864039352646
+32659,32659@1558506095.889000,waiting > in_progress > resolved > pending_deployment > in_progress > waiting,57.87324575231307
+34782,34782@1563086270.690000,waiting > in_progress > waiting,1.8576389109646833e-05
+34474,34474@1562492512.973000,waiting > in_progress > waiting,0.0034936805566151935
+34370,34370@1560942478.125000,waiting > in_progress > waiting,3.5763887895478146e-05
+34598,34598@1562661750.573000,waiting > in_progress > waiting,0.0431618171295634
+34467,34467@1561617982.449000,waiting > in_progress > waiting,0.05834960648031146
+34447,34447@1561472396.609000,waiting > in_progress > validation > in_progress > waiting,0.11059390046254353
+35437,35437@1568814994.197000,waiting > in_progress > waiting,10.35089319444365
+34988,34988@1567916068.251000,waiting > in_progress > validation > in_progress > waiting,38.70431798610974
+34600,34600@1562598214.746000,waiting > in_progress > waiting,3.785879799613246e-05
+34600,34600@1562598264.163000,waiting > in_progress > waiting,0.0002172685193794745
+33895,33895@1558851526.270000,waiting > in_progress > waiting,4.829881585648766
+33895,33895@1559122267.031000,waiting > in_progress > waiting,2.0997724189802454
+33895,33895@1564905582.793000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,38.94569614583419
+33249,33249@1558853279.828000,waiting > in_progress > waiting,2.9175857638898823
+33249,33249@1559198433.398000,waiting > in_progress > waiting,0.9021526041654525
+35215,35215@1566380660.327000,waiting > in_progress > waiting,0.07914351851851852
+35215,35215@1566397529.273000,waiting > in_progress > waiting,0.004173935185428019
+35215,35215@1566466439.238000,waiting > in_progress > waiting,0.01085719907173404
+34931,34931@1563956782.062000,waiting > in_progress > waiting,0.10091939814940647
+34931,34931@1563979524.479000,waiting > in_progress > waiting,0.12467197916849895
+34931,34931@1564297092.836000,waiting > in_progress > waiting,3.129629625214471e-05
+34931,34931@1564401146.824000,waiting > in_progress > waiting,0.08382498842422609
+34931,34931@1564401879.798000,waiting > in_progress > waiting,2.6620372577949808e-05
+34931,34931@1564468796.791000,waiting > in_progress > waiting,0.06306980324012262
+35159,35159@1566371114.416000,waiting > in_progress > waiting,0.06187513888710075
+34425,34425@1562592676.329000,waiting > in_progress > validation > in_progress > waiting,5.030663043980797
+34425,34425@1570686391.567000,waiting > resolved > pending_deployment > in_progress > waiting,6.709473935183552
+35035,35035@1565079590.542000,waiting > in_progress > waiting,0.004707164353242627
+34795,34795@1565077943.522000,waiting > in_progress > validation > in_progress > waiting,14.113285439814682
+33607,33607@1560402233.687000,waiting > in_progress > waiting,0.000115150464353738
+34662,34662@1563427620.206000,waiting > in_progress > validation > in_progress > waiting,1.8371129166666005
+36519,36519@1574671008.069000,waiting > resolved > pending_deployment > in_progress > validation > in_progress > waiting,3.8522026620363747
+35095,35095@1570547307.830000,waiting > resolved > pending_deployment > in_progress > waiting,41.827226874999425
+35251,35251@1566984741.273000,waiting > in_progress > waiting,2.1235171180549597
+35704,35704@1569317484.271000,waiting > in_progress > waiting,0.09060443286818487
+35704,35704@1569500498.015000,waiting > in_progress > waiting,1.039655891204322
+33557,33557@1556019246.184000,waiting > in_progress > validation > in_progress > waiting,5.216064432870459
+33557,33557@1557226875.516000,waiting > in_progress > validation > in_progress > waiting,13.885589166667174
+33075,33075@1554710582.354000,waiting > in_progress > validation > in_progress > waiting,21.800019074074097
+33075,33075@1557224205.128000,waiting > in_progress > validation > in_progress > waiting,20.88932775462943
+33075,33075@1557902995.817000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,7.85634502314583
+33075,33075@1558007848.937000,waiting > in_progress > waiting,2.2164351410335963e-05
+33075,33075@1558528487.130000,waiting > in_progress > validation > in_progress > waiting,2.0056137731505763
+33075,33075@1560322357.862000,waiting > in_progress > waiting,0.016616412036948733
+33075,33075@1562766475.420000,waiting > in_progress > waiting,1.9224537191567597e-05
+33075,33075@1564897476.796000,waiting > in_progress > validation > in_progress > validation > in_progress > waiting,24.66433412036962
+32695,32695@1553598804.912000,waiting > in_progress > validation > in_progress > waiting,31.309085011573302
+32695,32695@1554075561.629000,waiting > in_progress > resolved > pending_deployment > resolved_under_monitoring > in_progress > waiting,4.6657434027779985
+36324,36324@1575190602.496000,waiting > in_progress > validation > in_progress > waiting,6.816677777778219
+35440,35440@1567931592.116000,waiting > in_progress > waiting,0.00706416666507721
+39836,39836@1594203091.124000,waiting > in_progress > waiting,4.275462969585701e-05
+35288,35288@1567607216.202000,waiting > in_progress > waiting,0.17044721064744173
+36215,36215@1572764312.176000,waiting > in_progress > waiting,2.4375002141352054e-05
+36215,36215@1573048952.898000,waiting > in_progress > waiting,1.0051716203711651
+36215,36215@1573977314.684000,waiting > in_progress > waiting,0.0023757175935639275
+34566,34566@1562049563.877000,waiting > in_progress > waiting,1.928240888648563e-05
+34809,34809@1566376545.991000,waiting > in_progress > validation > in_progress > waiting,34.12922665509085
+36217,36217@1575876136.911000,waiting > in_progress > validation > in_progress > validation > in_progress > waiting,27.93312756944586
+35861,35861@1570363091.261000,waiting > in_progress > waiting,1.877314790531441e-05
+32051,32051@1548153280.350000,waiting > in_progress > waiting,2.8541664834375734e-05
+32051,32051@1549370995.279000,waiting > in_progress > waiting,2.2668650115750455
+32051,32051@1549547175.413000,waiting > in_progress > waiting,5.0254629717932804e-05
+32051,32051@1551970610.389000,waiting > in_progress > waiting,2.1377313468191358e-05
+32051,32051@1560771278.929000,waiting > resolved > pending_deployment > in_progress > waiting,94.88005103009166
+32051,32051@1560942551.466000,waiting > in_progress > waiting,0.8994274421312191
+32051,32051@1561288789.155000,waiting > in_progress > waiting,1.5057868979595326e-05
+32051,32051@1561614374.533000,waiting > in_progress > waiting,1.7058990393523816
+32051,32051@1564477667.098000,waiting > in_progress > waiting,0.9704423379622124
+32051,32051@1564895929.404000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,2.9250952199073854
+35523,35523@1569230278.727000,waiting > in_progress > waiting,0.7780604166675497
+33501,33501@1557029982.986000,waiting > in_progress > validation > in_progress > waiting,16.614401157407297
+35231,35231@1566916021.550000,waiting > in_progress > validation > in_progress > waiting,1.2444933217598333
+34557,34557@1563113815.560000,waiting > in_progress > validation > in_progress > waiting,6.996939351851189
+35151,35151@1566719955.267000,waiting > in_progress > validation > in_progress > waiting,13.05523395833318
+35151,35151@1567606008.868000,waiting > in_progress > validation > in_progress > validation > in_progress > waiting,8.356240451388336
+35023,35023@1567949172.066000,waiting > in_progress > waiting,1.7789351167502228e-05
+35074,35074@1564920578.089000,waiting > in_progress > waiting,0.007434027777225883
+35300,35300@1567339755.308000,waiting > in_progress > waiting,0.036431388890853636
+35300,35300@1568267437.001000,waiting > in_progress > waiting,2.5196759789078323e-05
+35149,35149@1567070119.095000,waiting > in_progress > waiting,2.1921296914418537e-05
+36016,36016@1571640552.210000,waiting > in_progress > waiting,2.550925921510767e-05
+35728,35728@1570039466.914000,waiting > in_progress > waiting,1.646990853327292e-05
+34858,34858@1565015024.051000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,0.00012017361267849251
+32439,32439@1550063252.836000,waiting > in_progress > validation > in_progress > waiting,5.821044571758421
+32439,32439@1551408151.295000,waiting > in_progress > resolved > closed > reopened > in_progress > waiting,3.608091851853662
+35856,35856@1570450382.597000,waiting > in_progress > validation > in_progress > waiting,1.283052499997947
+35169,35169@1566829274.136000,waiting > in_progress > validation > in_progress > waiting,6.2066412037031515
+35169,35169@1566900108.150000,waiting > in_progress > waiting,0.005590393518408139
+35169,35169@1568181914.093000,waiting > in_progress > validation > in_progress > waiting,11.78313127314603
+33179,33179@1554365482.843000,waiting > in_progress > waiting,8.428649675926124
+33179,33179@1560694327.450000,waiting > in_progress > waiting,21.174203287037436
+33179,33179@1561283941.104000,waiting > in_progress > waiting,2.810654606482497
+33179,33179@1583411995.316000,waiting > in_progress > waiting,141.9402134259266
+33179,33179@1587475404.184000,waiting > in_progress > waiting,33.15026714120474
+32255,32255@1550067742.758000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > validation > in_progress > waiting,10.065879803239195
+32255,32255@1554798690.131000,waiting > in_progress > validation > in_progress > validation > in_progress > waiting,47.77114052083481
+32255,32255@1561293993.162000,waiting > in_progress > waiting,24.20648017360932
+32255,32255@1562049547.003000,waiting > in_progress > waiting,9.401620262198979e-05
+32255,32255@1562049616.649000,waiting > in_progress > validation > in_progress > waiting,0.00011377314726511637
+35512,35512@1569150523.779000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,3.84597488425948
+35347,35347@1567337225.934000,waiting > in_progress > waiting,0.2216434490735884
+34930,34930@1565074390.524000,waiting > in_progress > waiting,2.3414351873927646e-05
+34930,34930@1566372758.822000,waiting > in_progress > waiting,0.016295775462079932
+34930,34930@1566397164.326000,waiting > in_progress > waiting,0.0004531481475741775
+35306,35306@1566911020.649000,waiting > in_progress > waiting,2.6354166092696012e-05
+35306,35306@1567081431.819000,waiting > in_progress > waiting,0.9727686921286363
+35306,35306@1567600830.981000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,5.966092766203262
+35306,35306@1567922833.284000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,3.6704478472222886
+35306,35306@1567930210.427000,waiting > in_progress > waiting,2.2384259435865614e-05
+35306,35306@1568029361.484000,waiting > in_progress > waiting,0.11606305555612953
+35384,35384@1567488971.574000,waiting > in_progress > waiting,0.011154976851410337
+35384,35384@1567585891.478000,waiting > in_progress > validation > in_progress > validation > in_progress > waiting,0.8087850347216482
+35384,35384@1568190150.857000,waiting > in_progress > validation > in_progress > waiting,3.1250836574093057
+35384,35384@1569936993.878000,waiting > in_progress > validation > in_progress > waiting,12.335445636574317
+35572,35572@1568561373.506000,waiting > resolved > closed > reopened > in_progress > resolved > closed > reopened > in_progress > waiting,0.25475245370357125
+35572,35572@1569138082.720000,waiting > in_progress > waiting,0.059348298612016216
+34457,34457@1563789031.982000,waiting > in_progress > waiting,4.5851920370371255
+35642,35642@1569229503.872000,waiting > in_progress > waiting,1.0872406018525362
+35642,35642@1569232642.633000,waiting > in_progress > waiting,1.6712963029190347e-05
+1000566,1000566@1620299175.000000,waiting > in_progress > waiting,0.04252314814814815
+32879,32879@1566802429.581000,waiting > resolved > closed > reopened > in_progress > waiting,0.00036907407420652883
+34562,34562@1570436865.758000,waiting > in_progress > validation > in_progress > waiting,84.04307821759195
+35825,35825@1571300114.058000,waiting > in_progress > waiting,5.3518519357398706e-05
+35825,35825@1571300137.217000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,0.00024868055626198096
+36290,36290@1573994426.396000,waiting > in_progress > waiting,2.359953467492704e-05
+35821,35821@1570344682.675000,waiting > in_progress > waiting,4.72017142360961
+35822,35822@1570427708.224000,waiting > in_progress > validation > in_progress > waiting,4.883612199072485
+35841,35841@1570005222.963000,waiting > in_progress > waiting,1.6817130424358225e-05
+38100,38100@1585462975.038000,waiting > in_progress > validation > in_progress > waiting,13.951076701391074
+38100,38100@1589971648.472000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,8.095008009258244
+35853,35853@1573987044.724000,waiting > in_progress > validation > in_progress > validation > in_progress > waiting,5.823602083333665
+36328,36328@1573377810.309000,waiting > in_progress > waiting,3.133101871720067e-05
+39638,39638@1593517154.842000,waiting > in_progress > waiting,0.22076785879554572
+36361,36361@1573708770.038000,waiting > in_progress > waiting,4.19675945131867e-05
+42720,42720@1607335907.738000,waiting > in_progress > waiting,0.008933298609874867
+41925,41925@1606032963.446000,waiting > resolved > pending_deployment > in_progress > waiting,28.50688991898188
+33601,33601@1557986264.130000,waiting > in_progress > validation > in_progress > waiting,9.805704722222355
+33601,33601@1569857465.845000,waiting > in_progress > resolved > pending_deployment > in_progress > waiting,137.39814195601753
+35789,35789@1571200110.572000,waiting > in_progress > validation > in_progress > waiting,15.012341296297533
+35723,35723@1569931513.725000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,6.190231979166468
+35862,35862@1570713063.605000,waiting > in_progress > validation > in_progress > waiting,0.07453621527662983
+35862,35862@1572871158.721000,waiting > in_progress > validation > in_progress > validation > in_progress > waiting,7.923108287036971
+39007,39007@1589112050.957000,waiting > in_progress > waiting,1.0752313666873508e-05
+36332,36332@1575900684.783000,waiting > in_progress > waiting,1.3437500154530561e-05
+36450,36450@1574600864.594000,waiting > in_progress > validation > in_progress > waiting,0.022193680557387848
+36450,36450@1574670787.570000,waiting > in_progress > waiting,0.0718389351831542
+36450,36450@1576485944.128000,waiting > in_progress > waiting,2.9259260605882715e-05
+31949,31949@1569417815.615000,waiting > in_progress > resolved > pending_deployment > in_progress > waiting,77.23570892361028
+36472,36472@1581921621.856000,waiting > resolved > closed > reopened > in_progress > waiting,46.017253796295435
+35388,35388@1569845321.928000,waiting > in_progress > validation > in_progress > waiting,21.941956770833997
+35388,35388@1570613934.084000,waiting > in_progress > validation > in_progress > waiting,3.1850238657411603
+33746,33746@1556633339.537000,waiting > in_progress > waiting,6.246527587925947e-05
+33746,33746@1563780183.288000,waiting > in_progress > validation > resolved > closed > reopened > in_progress > waiting,64.04259510416675
+33746,33746@1575455441.982000,waiting > in_progress > waiting,47.53911365740829
+35283,35283@1566939070.756000,waiting > in_progress > validation > in_progress > waiting,1.2788182175932108
+35529,35529@1573995837.289000,waiting > in_progress > waiting,8.215277835174843e-05
+35529,35529@1575468854.820000,waiting > in_progress > validation > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,6.24369585648179
+36013,36013@1571549166.036000,waiting > in_progress > waiting,3.582175959039617e-05
+35125,35125@1565270167.819000,waiting > in_progress > waiting,0.9518512731487
+35125,35125@1570960957.102000,waiting > in_progress > validation > in_progress > waiting,41.92742907407383
+35125,35125@1575899477.446000,waiting > in_progress > waiting,19.09638144676056
+35125,35125@1576435417.009000,waiting > in_progress > validation > in_progress > waiting,4.335634976851719
+35352,35352@1571061696.735000,waiting > in_progress > validation > in_progress > waiting,26.050968564812234
+36555,36555@1575755220.367000,waiting > resolved > pending_deployment > in_progress > waiting,3.268700393518364
+36555,36555@1575813083.903000,waiting > in_progress > waiting,1.5682870591128315e-05
+37590,37590@1582094927.422000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,0.7174954745366617
+35147,35147@1567517850.856000,waiting > in_progress > waiting,0.07004997684999749
+35147,35147@1568533238.367000,waiting > in_progress > waiting,2.905544270834437
+35147,35147@1568795885.248000,waiting > in_progress > validation > in_progress > waiting,2.8109367129620577
+35147,35147@1571744559.021000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,33.0094438541653
+35561,35561@1574260565.903000,waiting > in_progress > waiting,38.34636534722315
+35902,35902@1579429082.894000,waiting > in_progress > waiting,69.10013696759387
+36504,36504@1575458687.642000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,1.059222476852161
+36504,36504@1581316257.030000,waiting > in_progress > validation > in_progress > waiting,41.00456679397987
+36503,36503@1575363014.034000,waiting > in_progress > validation > in_progress > waiting,12.966938946757603
+34954,34954@1575467031.195000,waiting > in_progress > waiting,63.035012476849886
+38812,38812@1587884477.262000,waiting > in_progress > waiting,2.730622291667042
+36507,36507@1585188393.638000,waiting > in_progress > waiting,1.0301765625013246
+36659,36659@1575907585.303000,waiting > in_progress > waiting,0.793239444444577
+36659,36659@1575965342.711000,waiting > in_progress > waiting,0.013124444443318579
+36659,36659@1575975249.674000,waiting > in_progress > validation > in_progress > waiting,0.04612288194398085
+34922,34922@1571819493.998000,waiting > in_progress > waiting,41.062212488425
+34922,34922@1571819549.247000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,0.0005998958343708956
+34922,34922@1575548775.305000,waiting > in_progress > validation > in_progress > waiting,23.188130162038185
+38823,38823@1587884920.623000,waiting > in_progress > waiting,2.5462960755383526e-05
+36668,36668@1579600790.132000,waiting > in_progress > waiting,15.223887430556394
+36904,36904@1577617566.356000,waiting > in_progress > waiting,0.07042557870348294
+36904,36904@1577698872.303000,waiting > in_progress > waiting,0.0007060185185185185
+36904,36904@1577792423.693000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,1.0824230902779985
+37000,37000@1578207560.428000,waiting > in_progress > validation > in_progress > waiting,4.807924803241535
+37000,37000@1578297709.353000,waiting > in_progress > waiting,0.8416248032395487
+37237,37237@1583046246.001000,waiting > in_progress > waiting,3.0291848032397253
+36645,36645@1575455101.516000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,2.1462996874998015
+36690,36690@1576066504.522000,waiting > in_progress > waiting,0.06221840277866081
+36690,36690@1576138354.748000,waiting > in_progress > waiting,0.06168403935101297
+36690,36690@1576487799.294000,waiting > in_progress > waiting,0.06745591435167525
+36690,36690@1576732154.775000,waiting > in_progress > waiting,2.7466358333356955
+36922,36922@1577181584.628000,waiting > in_progress > waiting,8.884259396129184e-05
+36922,36922@1577610804.200000,waiting > in_progress > waiting,0.12351831018648765
+36922,36922@1578211598.166000,waiting > in_progress > waiting,0.022413958333156726
+36707,36707@1575784667.560000,waiting > in_progress > waiting,2.7090092592576034
+36692,36692@1576434479.619000,waiting > in_progress > waiting,5.06823190972209
+36026,36026@1584266598.492000,waiting > in_progress > validation > in_progress > waiting,132.1789843287043
+37718,37718@1582450070.857000,waiting > in_progress > waiting,4.059162222224253
+37603,37603@1581863731.288000,waiting > in_progress > validation > in_progress > waiting,0.06517158564870004
+39643,39643@1593077629.988000,waiting > in_progress > waiting,2.4780092967881098e-05
+39643,39643@1593331578.863000,waiting > in_progress > waiting,0.0004520254609761415
+38632,38632@1589194436.558000,waiting > in_progress > waiting,0.1573427430567918
+37512,37512@1587885219.705000,waiting > resolved > pending_deployment > in_progress > waiting,55.95333290509052
+37512,37512@1589971635.018000,waiting > resolved > pending_deployment > in_progress > waiting,13.993819652776475
+34851,34851@1570018493.940000,waiting > in_progress > validation > in_progress > waiting,70.02479869213093
+36764,36764@1576406430.845000,waiting > in_progress > waiting,2.9108797510464985e-05
+36913,36913@1578490301.680000,waiting > in_progress > waiting,6.067518124999824
+36913,36913@1580826721.582000,waiting > in_progress > waiting,9.085956909722752
+37212,37212@1580116203.385000,waiting > in_progress > waiting,1.1217026736118176
+37667,37667@1581836539.573000,waiting > in_progress > waiting,1.0226332638881825
+36803,36803@1577680718.281000,waiting > in_progress > waiting,13.83540572916468
+36824,36824@1576147713.758000,waiting > in_progress > waiting,2.082175678677029e-05
+36831,36831@1576416400.292000,waiting > in_progress > waiting,2.8101851542790732e-05
+37198,37198@1579428885.286000,waiting > in_progress > waiting,1.9837962808432404e-05
+36826,36826@1576415510.778000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,2.9695672800943806
+36865,36865@1578561509.363000,waiting > in_progress > waiting,0.0009741666664679845
+36865,36865@1579171717.607000,waiting > in_progress > waiting,0.0005041435195340051
+36865,36865@1582033573.787000,waiting > resolved > pending_deployment > in_progress > validation > in_progress > waiting,21.193239872684632
+37525,37525@1581079725.119000,waiting > in_progress > waiting,2.179274675926125
+36279,36279@1583743766.471000,waiting > resolved > pending_deployment > resolved_under_monitoring > in_progress > waiting,26.013151296297156
+36878,36878@1578298287.912000,waiting > in_progress > waiting,11.025437453703749
+36843,36843@1576419328.680000,waiting > in_progress > validation > in_progress > waiting,0.05100112268494235
+36882,36882@1579158457.617000,waiting > in_progress > waiting,9.61156912037068
+37047,37047@1584987891.031000,waiting > in_progress > resolved > pending_deployment > in_progress > waiting,46.24466199074079
+37047,37047@1585097799.061000,waiting > in_progress > waiting,1.1921298724633676e-05
+38018,38018@1583938725.797000,waiting > in_progress > waiting,0.005765347221383342
+38018,38018@1584002152.814000,waiting > in_progress > waiting,0.040979606478854465
+38543,38543@1586174261.153000,waiting > in_progress > waiting,2.0925926941412465e-05
+37431,37431@1580281013.326000,waiting > in_progress > waiting,4.1412037831765636e-05
+38835,38835@1590078114.579000,waiting > in_progress > waiting,8.343799039351719
+38019,38019@1584364087.720000,waiting > in_progress > waiting,0.01926629629675989
+36900,36900@1577000982.937000,waiting > in_progress > waiting,0.05710990740745156
+36900,36900@1577712480.452000,waiting > in_progress > waiting,4.8379627642808134e-05
+37236,37236@1579617579.739000,waiting > in_progress > waiting,0.15039731481560956
+37236,37236@1580632883.696000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,6.62931053240818
+32457,32457@1549789206.387000,waiting > in_progress > waiting,1.627064305557697
+37996,37996@1584942866.712000,waiting > in_progress > waiting,0.009209224534807383
+34839,34839@1568189584.718000,waiting > in_progress > waiting,0.02126293981516803
+37997,37997@1589355538.323000,waiting > in_progress > validation > in_progress > waiting,0.7637032986101177
+36573,36573@1576158923.880000,waiting > in_progress > validation > in_progress > waiting,4.113710289351918
+36700,36700@1576416839.107000,waiting > in_progress > validation > in_progress > waiting,5.295774085648634
+35191,35191@1566372577.921000,waiting > in_progress > waiting,0.013312164351896003
+35191,35191@1566376661.011000,waiting > in_progress > waiting,0.04077208333269314
+37291,37291@1580110084.585000,waiting > in_progress > waiting,5.181712960755384e-05
+38640,38640@1586432412.477000,waiting > in_progress > waiting,0.00011618055679180005
+38640,38640@1586765902.753000,waiting > in_progress > waiting,0.00022020833359824286
+36945,36945@1577276195.355000,waiting > in_progress > waiting,0.08458582175826584
+37186,37186@1580631133.014000,waiting > in_progress > waiting,0.00459226851662
+41498,41498@1602488027.260000,waiting > in_progress > waiting,5.073396585647155
+37247,37247@1580802491.064000,waiting > in_progress > waiting,1.0367650462962963
+37311,37311@1581861744.308000,waiting > in_progress > waiting,0.3030366087980844
+33504,33504@1577690933.213000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > resolved > closed > reopened > in_progress > waiting,172.01142574074092
+33504,33504@1579084388.404000,waiting > in_progress > validation > in_progress > waiting,10.085716006946232
+33504,33504@1580733031.410000,waiting > in_progress > waiting,2.0972222641662314e-05
+36984,36984@1578206404.141000,waiting > in_progress > waiting,2.1608797488389193e-05
+37921,37921@1588981454.831000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,29.554850844909197
+32449,32449@1550143598.118000,waiting > in_progress > validation > in_progress > waiting,4.224978530092372
+32449,32449@1550596605.340000,waiting > in_progress > waiting,3.0079869560179886
+32449,32449@1550733876.611000,waiting > in_progress > waiting,0.008388310185185184
+32449,32449@1551161554.905000,waiting > in_progress > waiting,0.032054699074338985
+37147,37147@1579610724.542000,waiting > in_progress > validation > in_progress > waiting,1.91614807870377
+37147,37147@1582120786.633000,waiting > resolved > pending_deployment > in_progress > waiting,6.178028958332208
+38339,38339@1585654400.217000,waiting > in_progress > waiting,0.07921362268428007
+35255,35255@1568390726.894000,waiting > in_progress > waiting,1.2016662962955458
+35255,35255@1570433304.694000,waiting > in_progress > validation > in_progress > waiting,6.626008877315455
+38024,38024@1584001749.267000,waiting > in_progress > waiting,0.7150275694440912
+38244,38244@1585642710.850000,waiting > in_progress > waiting,0.05513785879645083
+42105,42105@1605437873.352000,waiting > in_progress > waiting,2.9789185185178564
+37310,37310@1580384568.356000,waiting > in_progress > waiting,3.5694442965366225e-05
+38533,38533@1586411666.837000,waiting > in_progress > waiting,1.922556018517525
+37901,37901@1583907890.117000,waiting > in_progress > waiting,4.290509279127474e-05
+37600,37600@1584339471.761000,waiting > in_progress > validation > in_progress > waiting,33.97877459490741
+37287,37287@1583051842.572000,waiting > in_progress > validation > in_progress > resolved > pending_deployment > resolved > closed > reopened > in_progress > validation > in_progress > waiting,12.975502546297179
+34797,34797@1571061829.325000,waiting > in_progress > validation > in_progress > waiting,75.19545708333453
+37759,37759@1582620705.240000,waiting > in_progress > waiting,0.9518350231481923
+37637,37637@1581597765.999000,waiting > in_progress > waiting,0.0010717939833799997
+37750,37750@1583060000.642000,waiting > in_progress > waiting,3.0753399999991613
+37750,37750@1583412129.586000,waiting > in_progress > waiting,3.9732509143512558
+36917,36917@1578212821.823000,waiting > in_progress > waiting,2.4722221272963065e-05
+36917,36917@1578833612.424000,waiting > in_progress > validation > in_progress > waiting,3.953191921297047
+36917,36917@1580885713.357000,waiting > in_progress > validation > in_progress > waiting,3.0351443402800293
+36917,36917@1580892687.200000,waiting > in_progress > waiting,1.7916667792532178e-05
+36917,36917@1581322071.165000,waiting > in_progress > waiting,1.0620619791663355
+36917,36917@1581416071.509000,waiting > in_progress > waiting,0.13582857638873436
+36917,36917@1582550962.838000,waiting > in_progress > waiting,0.023586898148059844
+36917,36917@1582553002.051000,waiting > in_progress > waiting,0.0009318750020530489
+36917,36917@1583157847.742000,waiting > in_progress > waiting,4.000948252316427
+36917,36917@1583306263.404000,waiting > in_progress > waiting,0.9119702662030856
+36917,36917@1584369461.939000,waiting > resolved > pending_deployment > in_progress > waiting,10.9480942361112
+37048,37048@1581322234.198000,waiting > in_progress > resolved > closed > reopened > in_progress > validation > in_progress > waiting,32.971611516202486
+37048,37048@1581348684.136000,waiting > in_progress > waiting,0.18340909722226637
+37048,37048@1583157308.847000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,20.92221306712815
+37048,37048@1590922859.838000,waiting > resolved > pending_deployment > resolved > resolved_under_monitoring > in_progress > waiting,26.13940737268715
+38245,38245@1585654237.705000,waiting > in_progress > waiting,0.13475776620209218
+37786,37786@1583824461.893000,waiting > in_progress > validation > in_progress > waiting,4.7528278819444
+38771,38771@1587373499.234000,waiting > in_progress > waiting,0.009036307870237915
+39229,39229@1591095989.673000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,0.22481986111236943
+37731,37731@1583232877.996000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,6.893070358796804
+37731,37731@1583399773.177000,waiting > in_progress > waiting,2.6284723922058388e-05
+37731,37731@1583399783.489000,waiting > in_progress > waiting,6.114583324503016e-05
+37731,37731@1584023609.962000,waiting > in_progress > validation > in_progress > waiting,7.220117881943782
+37731,37731@1584528914.129000,waiting > resolved > resolved_under_monitoring > in_progress > resolved > closed > reopened > in_progress > waiting,3.1435377546289454
+39514,39514@1594890616.285000,waiting > in_progress > waiting,29.030352789353994
+38865,38865@1588102172.270000,waiting > in_progress > waiting,2.6539351653169702e-05
+33990,33990@1559548494.120000,waiting > in_progress > waiting,1.862268480989668e-05
+33990,33990@1568208541.382000,waiting > in_progress > validation > in_progress > waiting,100.23200658564767
+38647,38647@1591189688.348000,waiting > in_progress > validation > in_progress > waiting,0.016512951390058907
+37847,37847@1586068726.098000,waiting > in_progress > validation > in_progress > waiting,24.811201655092063
+37847,37847@1586343593.466000,waiting > in_progress > waiting,4.906250094925916e-05
+37847,37847@1586681011.361000,waiting > in_progress > waiting,0.00023598379834934518
+37847,37847@1587038826.193000,waiting > in_progress > waiting,0.09947483796488356
+37847,37847@1591872907.797000,waiting > in_progress > validation > in_progress > waiting,55.8809044560183
+37847,37847@1592475744.444000,waiting > in_progress > waiting,0.10057067129623007
+38777,38777@1587460024.103000,waiting > in_progress > waiting,0.12178219907261707
+1000631,1000631@1621760608.000000,waiting > resolved > waiting,7.018993055555556
+39012,39012@1589255021.000000,waiting > in_progress > waiting,5.0775463934297914e-05
+43890,43890@1611662071.210000,waiting > in_progress > waiting,0.0007462962965170542
+38656,38656@1590503500.669000,waiting > in_progress > waiting,2.813657400784669e-05
+37828,37828@1583316130.003000,waiting > in_progress > waiting,0.10805624999933773
+37828,37828@1583411561.581000,waiting > in_progress > waiting,2.5104168388578626e-05
+40576,40576@1597318728.426000,waiting > in_progress > waiting,1.8680556504814715e-05
+37744,37744@1584875918.083000,waiting > in_progress > waiting,25.282550428239283
+37744,37744@1586698888.005000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,5.98975357639017
+39089,39089@1589800086.076000,waiting > in_progress > waiting,5.89004628084324e-05
+38357,38357@1585727343.427000,waiting > in_progress > waiting,0.01328893518558255
+34342,34342@1561886993.928000,waiting > in_progress > validation > in_progress > waiting,5.9304169675928575
+37852,37852@1585536856.815000,waiting > in_progress > waiting,0.00019158564783908704
+38144,38144@1584444354.182000,waiting > in_progress > waiting,0.06641210647920767
+40297,40297@1601447777.859000,waiting > in_progress > waiting,1.9699839351850528
+38111,38111@1585040285.428000,waiting > in_progress > waiting,2.1030628472207873
+38111,38111@1585213724.869000,waiting > in_progress > waiting,0.06772627314759626
+38111,38111@1586412239.684000,waiting > in_progress > validation > in_progress > waiting,11.500207175927029
+38708,38708@1586873635.459000,waiting > in_progress > waiting,2.6944445239173043e-05
+38708,38708@1586873751.364000,waiting > in_progress > waiting,0.0009822685188717313
+35873,35873@1585097712.588000,waiting > in_progress > validation > in_progress > resolved > pending_deployment > in_progress > waiting,153.44627587963035
+38322,38322@1587367536.051000,waiting > in_progress > waiting,14.795550451389065
+40579,40579@1598255857.367000,waiting > in_progress > waiting,10.826988171297643
+37761,37761@1583304606.226000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,0.0005824884275595347
+38714,38714@1587639516.944000,waiting > in_progress > waiting,0.28999905092572725
+37124,37124@1582033505.035000,waiting > in_progress > validation > in_progress > resolved > pending_deployment > in_progress > waiting,23.20470488426034
+37124,37124@1584986522.692000,waiting > in_progress > resolved > pending_deployment > in_progress > waiting,28.379275069443715
+39088,39088@1591105691.974000,waiting > in_progress > waiting,7.002642361110559
+39093,39093@1589971461.615000,waiting > in_progress > waiting,0.8157490972236351
+38290,38290@1585653569.593000,waiting > in_progress > waiting,2.4780092967881098e-05
+38213,38213@1585065929.083000,waiting > resolved > closed > reopened > in_progress > waiting,1.127912060185163
+39095,39095@1589801704.188000,waiting > in_progress > waiting,0.07231969907327934
+39095,39095@1590052410.008000,waiting > in_progress > waiting,2.092474780090981
+39095,39095@1590914588.899000,waiting > in_progress > validation > in_progress > waiting,9.978871400461152
+39095,39095@1591089943.105000,waiting > in_progress > waiting,0.14850684027704927
+37164,37164@1584890240.926000,waiting > in_progress > resolved > pending_deployment > in_progress > waiting,11.303224062500176
+39448,39448@1593066813.159000,waiting > in_progress > waiting,3.952546252144708e-05
+39375,39375@1591700262.367000,waiting > in_progress > waiting,0.004171736113451146
+39375,39375@1591860733.193000,waiting > resolved > closed > reopened > in_progress > resolved > closed > reopened > in_progress > waiting,0.8416232407424185
+39424,39424@1592133553.831000,waiting > in_progress > waiting,0.0322337037048958
+39424,39424@1592223350.420000,waiting > in_progress > waiting,0.030725798612391508
+39424,39424@1592310494.820000,waiting > in_progress > waiting,0.003963900462344841
+39424,39424@1593929729.605000,waiting > in_progress > waiting,10.722210798611243
+39424,39424@1595411281.154000,waiting > in_progress > waiting,13.948066099537192
+39098,39098@1590672000.495000,waiting > in_progress > waiting,0.002708900460490474
+39795,39795@1594211727.622000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > validation > in_progress > waiting,2.0140710648149254
+39795,39795@1595164922.965000,waiting > in_progress > validation > in_progress > waiting,6.036017708331347
+39795,39795@1595335971.373000,waiting > in_progress > waiting,1.9792781712942653
+36730,36730@1579079190.955000,waiting > in_progress > validation > in_progress > waiting,36.055950486110866
+38892,38892@1589234363.185000,waiting > in_progress > waiting,2.4872684368380795e-05
+38228,38228@1585574478.587000,waiting > in_progress > waiting,0.137671736109036
+39099,39099@1592952263.635000,waiting > in_progress > waiting,1.717592555063742e-05
+38609,38609@1586781153.571000,waiting > in_progress > validation > in_progress > waiting,5.060879479166534
+38532,38532@1586781137.637000,waiting > in_progress > validation > in_progress > waiting,6.2468361458347905
+38532,38532@1587229547.844000,waiting > in_progress > validation > in_progress > waiting,4.401642789352271
+35269,35269@1567432529.322000,waiting > in_progress > waiting,4.217925381944688
+35269,35269@1571061690.796000,waiting > in_progress > validation > in_progress > waiting,39.287274699073144
+35269,35269@1574322470.018000,waiting > in_progress > validation > in_progress > waiting,9.815464699072418
+35269,35269@1575876167.466000,waiting > in_progress > validation > in_progress > waiting,10.898408472223414
+35269,35269@1576495681.442000,waiting > in_progress > validation > in_progress > waiting,6.1643872337953916
+39106,39106@1592132901.294000,waiting > resolved > pending_deployment > in_progress > waiting,7.098544143518364
+39106,39106@1593669610.860000,waiting > resolved > pending_deployment > in_progress > waiting,1.0148933680548713
+39106,39106@1593696512.826000,waiting > in_progress > waiting,0.23494620370368163
+39321,39321@1592197902.546000,waiting > in_progress > validation > in_progress > waiting,0.0007298611104488373
+39112,39112@1591874349.045000,waiting > in_progress > validation > in_progress > waiting,9.01792136574233
+43164,43164@1609056050.146000,waiting > in_progress > waiting,3.8308344907396368
+39310,39310@1591267781.092000,waiting > in_progress > waiting,0.21016934027826345
+38888,38888@1592312205.884000,waiting > in_progress > waiting,5.988662476851433
+38256,38256@1586842787.883000,waiting > in_progress > validation > in_progress > waiting,4.751629085645631
+36755,36755@1581404758.942000,waiting > in_progress > validation > in_progress > waiting,6.815283993054871
+36755,36755@1584949756.393000,waiting > in_progress > waiting,14.982955405091246
+36755,36755@1590010338.253000,waiting > in_progress > waiting,9.85763884252972e-05
+1011036,1011036@1673351990.000000,waiting > validation > waiting,1.9410300925925925
+38500,38500@1588718828.180000,waiting > in_progress > waiting,14.640180196759326
+38500,38500@1590350316.495000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,3.915738310184744
+39470,39470@1592718121.129000,waiting > in_progress > waiting,1.866898051014653e-05
+37619,37619@1582443815.966000,waiting > in_progress > waiting,13.05987623842778
+38404,38404@1586171902.333000,waiting > in_progress > waiting,4.2187499779242054e-05
+40346,40346@1597139276.693000,waiting > resolved > closed > reopened > in_progress > waiting,0.1645953125009934
+41947,41947@1603633355.847000,waiting > in_progress > waiting,5.158728726851168
+36605,36605@1577617564.613000,waiting > in_progress > validation > in_progress > waiting,12.04613125000011
+38705,38705@1586937282.329000,waiting > in_progress > waiting,0.0009167708346137294
+38705,38705@1586945794.237000,waiting > in_progress > waiting,2.143518516310939e-05
+38705,38705@1586951012.763000,waiting > in_progress > waiting,0.0021081365755310764
+38705,38705@1587016248.617000,waiting > in_progress > waiting,0.0007876851851189578
+37814,37814@1585760130.136000,waiting > in_progress > resolved > pending_deployment > in_progress > waiting,23.051675335646227
+38916,38916@1588702795.385000,waiting > resolved > resolved_under_monitoring > in_progress > resolved > closed > reopened > in_progress > waiting,2.351639641203262
+38316,38316@1587560775.221000,waiting > in_progress > validation > in_progress > waiting,14.245402905091092
+39526,39526@1592742924.600000,waiting > in_progress > waiting,0.0568247337942874
+39650,39650@1593497848.582000,waiting > in_progress > waiting,0.907089282406701
+35425,35425@1571920674.724000,waiting > in_progress > validation > in_progress > waiting,35.985046620368955
+35425,35425@1572867847.670000,waiting > in_progress > validation > in_progress > waiting,6.241542731482122
+35425,35425@1588665366.456000,waiting > resolved > pending_deployment > resolved > pending_deployment > resolved_under_monitoring > in_progress > waiting,135.10378454861265
+37940,37940@1588332625.376000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,18.913261435183664
+39379,39379@1591718309.102000,waiting > in_progress > waiting,1.88657420652884e-05
+35397,35397@1584266768.559000,waiting > in_progress > waiting,1.6539350703910545e-05
+40585,40585@1598268689.278000,waiting > in_progress > waiting,2.1030094336580347e-05
+41422,41422@1603375466.008000,waiting > resolved > resolved_under_monitoring > in_progress > resolved > closed > reopened > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,18.32751101851739
+39502,39502@1592383371.850000,waiting > in_progress > waiting,0.788438402775813
+39268,39268@1591085146.974000,waiting > in_progress > waiting,0.028025381943141973
+39269,39269@1591102347.653000,waiting > in_progress > waiting,6.10185193794745e-05
+33283,33283@1556434219.215000,waiting > in_progress > validation > in_progress > waiting,3.9720202430558427
+39122,39122@1590557134.040000,waiting > in_progress > waiting,0.05907953703569041
+43441,43441@1610351113.952000,waiting > in_progress > waiting,4.3541664878527325e-05
+39478,39478@1592219062.306000,waiting > in_progress > waiting,1.8009259193031875e-05
+39034,39034@1590044925.555000,waiting > in_progress > waiting,0.015534861112634342
+32320,32320@1549809865.965000,waiting > in_progress > validation > in_progress > waiting,10.22157815972136
+36822,36822@1584279593.444000,waiting > in_progress > waiting,5.278248530093719
+38931,38931@1588589998.692000,waiting > in_progress > waiting,0.12685819444281082
+38136,38136@1588584681.765000,waiting > in_progress > validation > in_progress > waiting,48.974000821759304
+38136,38136@1590675459.583000,waiting > resolved > pending_deployment > in_progress > validation > in_progress > waiting,11.701956087963449
+38933,38933@1590562137.983000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,0.0013947569440912317
+39566,39566@1593318283.671000,waiting > in_progress > waiting,0.00019181712909981056
+40485,40485@1597135796.790000,waiting > in_progress > waiting,6.006944510671828e-05
+39392,39392@1592834909.038000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,11.926721655094513
+39042,39042@1590055045.279000,waiting > in_progress > waiting,1.5925925087045742e-05
+39052,39052@1589860199.165000,waiting > in_progress > waiting,4.6789904629632275
+39052,39052@1590660373.676000,waiting > in_progress > waiting,7.919462256944842
+39217,39217@1590914208.032000,waiting > in_progress > waiting,0.1270520138906108
+39217,39217@1592113011.239000,waiting > in_progress > validation > in_progress > waiting,11.989420150463229
+39281,39281@1591163130.245000,waiting > in_progress > waiting,0.007297939812695538
+38800,38800@1587629176.749000,waiting > in_progress > waiting,0.05045047453708119
+39066,39066@1590503471.762000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,8.374823043981085
+37880,37880@1583820559.667000,waiting > in_progress > waiting,0.00011113425923718346
+37880,37880@1589355767.272000,waiting > resolved > closed > reopened > in_progress > waiting,39.86984292824235
+38798,38798@1587640829.323000,waiting > in_progress > waiting,0.30528478009281335
+39409,39409@1592482632.980000,waiting > in_progress > waiting,1.6840276894746005e-05
+39361,39361@1592824418.047000,waiting > in_progress > validation > in_progress > waiting,6.1399189351830215
+40678,40678@1598258901.351000,waiting > in_progress > waiting,0.7536873379625656
+39101,39101@1591187931.062000,waiting > resolved > pending_deployment > in_progress > waiting,3.0017784259275153
+39186,39186@1590922060.886000,waiting > in_progress > waiting,0.09174854166529797
+39186,39186@1598192474.675000,waiting > resolved > resolved_under_monitoring > in_progress > resolved > pending_deployment > in_progress > waiting,0.0026431944442016106
+41727,41727@1602422972.314000,waiting > in_progress > waiting,3.583333282559006e-05
+39207,39207@1591067857.181000,waiting > in_progress > waiting,0.6997011111097203
+39165,39165@1591880040.733000,waiting > in_progress > waiting,0.0023133217598553055
+39165,39165@1592466886.486000,waiting > in_progress > waiting,2.8543213657427717
+38774,38774@1587641618.289000,waiting > in_progress > waiting,3.510416657836349e-05
+38774,38774@1587991354.294000,waiting > in_progress > waiting,0.9915709374983002
+38774,38774@1588082744.599000,waiting > in_progress > waiting,0.16565533564874418
+34247,34247@1563086364.319000,waiting > in_progress > validation > in_progress > waiting,31.94307589120335
+38618,38618@1586687489.362000,waiting > resolved > closed > reopened > in_progress > waiting,3.9730035185179227
+39169,39169@1590643773.549000,waiting > resolved > resolved_under_monitoring > in_progress > validation > in_progress > waiting,4.439686574074957
+38860,38860@1593955935.262000,waiting > in_progress > validation > in_progress > resolved > pending_deployment > in_progress > validation > in_progress > waiting,63.29174494212976
+40488,40488@1599641224.757000,waiting > in_progress > validation > resolved > resolved_under_monitoring > in_progress > waiting,29.776018078702467
+40488,40488@1604240927.885000,waiting > in_progress > validation > in_progress > waiting,45.79591574073942
+39136,39136@1592382738.121000,waiting > in_progress > validation > in_progress > validation > in_progress > waiting,16.774826030093763
+39136,39136@1592506218.621000,waiting > in_progress > waiting,1.1239644212965612
+42101,42101@1608470243.446000,waiting > in_progress > validation > in_progress > waiting,46.96910356481594
+38862,38862@1590503920.878000,waiting > in_progress > validation > in_progress > waiting,0.14766043981468235
+37557,37557@1584599329.742000,waiting > in_progress > validation > in_progress > waiting,35.9672405439836
+39001,39001@1592471440.665000,waiting > in_progress > waiting,9.114583333333334e-05
+39608,39608@1592992361.118000,waiting > in_progress > waiting,6.038194453274762e-05
+37743,37743@1587977367.414000,waiting > in_progress > validation > in_progress > waiting,12.12136380786973
+37743,37743@1588146147.551000,waiting > in_progress > waiting,1.7210650775167678e-05
+39732,39732@1593613011.166000,waiting > in_progress > waiting,3.914351816530581e-05
+39518,39518@1594044612.666000,waiting > in_progress > validation > in_progress > waiting,0.18131023148143732
+39734,39734@1593625012.919000,waiting > in_progress > waiting,4.454861084620158e-05
+42472,42472@1606631828.647000,waiting > in_progress > validation > in_progress > waiting,0.003205196760870792
+35745,35745@1569936928.727000,waiting > in_progress > validation > in_progress > validation > in_progress > waiting,5.303069942129983
+39738,39738@1595398922.688000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,0.7508854282399019
+39621,39621@1592992877.813000,waiting > in_progress > waiting,0.04995357638983815
+39621,39621@1593419579.018000,waiting > in_progress > waiting,0.05820354166406172
+41240,41240@1600757716.285000,waiting > resolved > closed > reopened > in_progress > waiting,0.7156344675934977
+39687,39687@1593429362.914000,waiting > in_progress > waiting,4.76157416899999e-05
+39497,39497@1594535634.641000,waiting > in_progress > waiting,11.97557922453792
+33415,33415@1556719472.198000,waiting > in_progress > validation > in_progress > waiting,7.29278019675778
+39844,39844@1594198335.225000,waiting > in_progress > waiting,0.030760624999249423
+40019,40019@1594908993.839000,waiting > in_progress > waiting,1.2262565740749791
+39822,39822@1594546976.231000,waiting > in_progress > waiting,3.0163217129613513
+35588,35588@1571053087.733000,waiting > in_progress > validation > in_progress > waiting,28.186087118056086
+39976,39976@1594800736.420000,waiting > in_progress > waiting,4.675925881774337e-05
+35748,35748@1571811383.625000,waiting > in_progress > resolved > pending_deployment > resolved > resolved_under_monitoring > in_progress > waiting,5.987422430556681
+40859,40859@1601883467.657000,waiting > in_progress > validation > in_progress > waiting,4.751739976853132
+39911,39911@1594300643.012000,waiting > in_progress > validation > in_progress > waiting,0.027646516205535994
+35927,35927@1584528354.266000,waiting > in_progress > waiting,14.138375057870592
+35927,35927@1586068093.413000,waiting > in_progress > waiting,4.748795185185693
+35927,35927@1588674548.155000,waiting > in_progress > waiting,0.0882103587962963
+35927,35927@1591547000.579000,waiting > in_progress > waiting,3.140046364731259e-05
+31948,31948@1563169127.075000,waiting > in_progress > validation > in_progress > waiting,77.90240937500089
+31948,31948@1576069465.699000,waiting > in_progress > waiting,56.96137263888838
+31948,31948@1578378828.697000,waiting > in_progress > waiting,15.689072141203063
+39989,39989@1599560444.322000,waiting > in_progress > validation > in_progress > waiting,42.20335873842515
+36200,36200@1574177550.288000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,1.2877966203706133
+36604,36604@1576068901.696000,waiting > in_progress > validation > in_progress > waiting,9.12521733796431
+38264,38264@1589971659.075000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,13.99703789351991
+38190,38190@1585056976.327000,waiting > in_progress > waiting,0.031350682869001674
+38190,38190@1585566806.636000,waiting > in_progress > waiting,4.652777755701983e-05
+38190,38190@1586338114.504000,waiting > in_progress > waiting,1.665394976851013
+38190,38190@1587379935.277000,waiting > in_progress > waiting,2.412036889129215e-05
+38190,38190@1588072648.938000,waiting > in_progress > validation > in_progress > waiting,1.167180590276365
+38190,38190@1588236938.505000,waiting > in_progress > waiting,2.197916860933657e-05
+38190,38190@1588764484.508000,waiting > in_progress > waiting,0.01448869212909981
+38190,38190@1588777242.221000,waiting > in_progress > waiting,2.4884257603574683e-05
+35243,35243@1569491044.622000,waiting > in_progress > validation > in_progress > waiting,21.10858425926003
+35243,35243@1593930498.537000,waiting > resolved > pending_deployment > resolved > closed > reopened > in_progress > waiting,102.8991641550925
+38779,38779@1591193441.211000,waiting > in_progress > waiting,7.11857174768492
+38779,38779@1591787983.696000,waiting > in_progress > waiting,7.855324281586541e-05
+38779,38779@1598363760.400000,waiting > in_progress > resolved > pending_deployment > resolved_under_monitoring > in_progress > waiting,7.274039884259303
+32226,32226@1549446488.332000,waiting > in_progress > waiting,0.3621692361103164
+35685,35685@1571148198.660000,waiting > in_progress > waiting,6.2869570949094165
+35685,35685@1572256384.318000,waiting > in_progress > waiting,12.826201516204963
+35685,35685@1572257494.595000,waiting > in_progress > waiting,0.012823113426566123
+35332,35332@1571218590.386000,waiting > resolved > pending_deployment > in_progress > waiting,45.17581629629488
+35805,35805@1570713070.321000,waiting > in_progress > validation > in_progress > waiting,0.07477319444495219
+35834,35834@1582709094.215000,waiting > in_progress > waiting,110.817830208333
+36137,36137@1572190008.770000,waiting > in_progress > waiting,4.03819453937036e-05
+36137,36137@1573456387.083000,waiting > in_progress > waiting,10.391707974537104
+36137,36137@1575557512.570000,waiting > in_progress > validation > in_progress > waiting,10.17945464120419
+42711,42711@1608455816.647000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,12.98966512731656
+40604,40604@1598164269.718000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,5.0115667708328475
+41092,41092@1600840867.587000,waiting > in_progress > validation > in_progress > waiting,6.0055651157404535
+40621,40621@1599661483.413000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,10.190490740741845
+40381,40381@1596723519.596000,waiting > in_progress > validation > in_progress > waiting,2.2462237384253076
+40384,40384@1597054107.146000,waiting > in_progress > waiting,4.028164166664635
+39063,39063@1590578881.837000,waiting > in_progress > waiting,6.323815393516862
+39063,39063@1590980839.757000,waiting > in_progress > waiting,0.9808529513881162
+39063,39063@1593691136.516000,waiting > in_progress > waiting,30.361621550925904
+39063,39063@1594297965.904000,waiting > in_progress > waiting,3.857638824869085e-05
+40690,40690@1598267548.281000,waiting > in_progress > waiting,1.0556402662037698
+37713,37713@1593691122.055000,waiting > in_progress > waiting,1.994880451388933
+37713,37713@1594716354.018000,waiting > in_progress > waiting,8.8166630902776
+40392,40392@1596952806.398000,waiting > in_progress > waiting,5.785658541666689
+40356,40356@1596522061.848000,waiting > in_progress > waiting,5.732505023148325
+40435,40435@1597562293.591000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,2.6621647106497375
+41608,41608@1603034935.275000,waiting > resolved > closed > reopened > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,0.0034602662037920067
+44419,44419@1614157324.910000,waiting > in_progress > validation > in_progress > waiting,2.7822875810193795
+40780,40780@1599981831.387000,waiting > in_progress > waiting,14.021371423613141
+43331,43331@1609841001.716000,waiting > in_progress > waiting,5.093750026490953e-05
+40478,40478@1597118028.281000,waiting > in_progress > waiting,0.8410256018517194
+41096,41096@1600259972.711000,waiting > in_progress > waiting,0.291735451389794
+40504,40504@1599631798.465000,waiting > in_progress > validation > in_progress > waiting,22.79193096064583
+40889,40889@1601883792.726000,waiting > in_progress > validation > in_progress > waiting,4.817916458334635
+41263,41263@1602058387.374000,waiting > in_progress > waiting,2.9328705535994636e-05
+40628,40628@1598164674.597000,waiting > in_progress > waiting,3.8840555324074293
+44420,44420@1613916932.493000,waiting > in_progress > validation > in_progress > waiting,9.677083403975875e-05
+40016,40016@1595255209.621000,waiting > in_progress > waiting,5.357423969907341
+40421,40421@1596625618.595000,waiting > in_progress > waiting,0.007097060186443505
+40923,40923@1599740431.974000,waiting > in_progress > waiting,3.198522083334349
+41962,41962@1609157309.668000,waiting > in_progress > waiting,28.269242511573765
+40865,40865@1600594686.802000,waiting > in_progress > waiting,2.7743056416511537e-05
+40865,40865@1603002857.676000,waiting > in_progress > waiting,0.0022189814818126185
+41343,41343@1601544339.898000,waiting > in_progress > waiting,0.9671907291671744
+41343,41343@1603089193.573000,waiting > in_progress > waiting,11.946630879629542
+40941,40941@1600070929.421000,waiting > in_progress > waiting,2.9259260605882715e-05
+40996,40996@1600000550.587000,waiting > in_progress > waiting,2.3437498344315422e-05
+40974,40974@1599637529.867000,waiting > in_progress > waiting,0.0204445486129434
+40974,40974@1599712003.434000,waiting > in_progress > waiting,0.6286153356482586
+42536,42536@1606381930.339000,waiting > in_progress > waiting,2.2650463161645113e-05
+41234,41234@1601300166.736000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,1.2264226620368384
+41234,41234@1602750550.025000,waiting > in_progress > validation > in_progress > waiting,7.97179349537249
+40426,40426@1597320122.033000,waiting > in_progress > waiting,3.8796078356493404
+40426,40426@1598193026.627000,waiting > in_progress > waiting,0.13055771990782686
+41220,41220@1600586493.371000,waiting > in_progress > waiting,2.944091458334415
+40494,40494@1597140973.492000,waiting > in_progress > validation > in_progress > waiting,0.8380392708353422
+40494,40494@1598257237.646000,waiting > in_progress > validation > resolved > resolved_under_monitoring > in_progress > waiting,10.842958784721516
+40494,40494@1599120579.054000,waiting > in_progress > waiting,0.019736608793890036
+41370,41370@1603693885.734000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,25.876970682869906
+41724,41724@1602766409.617000,waiting > in_progress > validation > in_progress > waiting,6.421296408882848e-05
+41724,41724@1605533158.496000,waiting > in_progress > validation > in_progress > waiting,29.11693604166861
+40314,40314@1600335851.865000,waiting > in_progress > validation > in_progress > waiting,17.082930219907453
+41515,41515@1602071161.916000,waiting > in_progress > validation > in_progress > waiting,0.9483938194425018
+41514,41514@1601819287.053000,waiting > in_progress > waiting,2.525462872452206e-05
+38866,38866@1593947371.752000,waiting > in_progress > validation > in_progress > waiting,62.19594744213202
+41641,41641@1602750414.219000,waiting > in_progress > waiting,7.872676041667108
+41641,41641@1603101799.916000,waiting > in_progress > waiting,0.00011038194376009483
+39015,39015@1594037094.548000,waiting > in_progress > validation > in_progress > resolved > closed > reopened > in_progress > waiting,52.979584791668586
+41762,41762@1602485094.580000,waiting > in_progress > waiting,0.00014317129497174865
+41762,41762@1602497982.823000,waiting > in_progress > waiting,0.04190664351814323
+41516,41516@1602495071.837000,waiting > in_progress > waiting,10.98917276620313
+41516,41516@1602501421.098000,waiting > in_progress > waiting,0.06755880787140793
+41516,41516@1603636002.994000,waiting > in_progress > waiting,11.074517928240477
+41516,41516@1604826588.677000,waiting > in_progress > waiting,10.829820173611795
+41517,41517@1607942371.340000,waiting > resolved > closed > reopened > in_progress > resolved > closed > reopened > in_progress > waiting,73.90478052083265
+41005,41005@1600585548.717000,waiting > in_progress > validation > in_progress > waiting,5.613222222223326
+41889,41889@1603010928.610000,waiting > in_progress > waiting,1.937499752751103e-05
+41929,41929@1603713695.682000,waiting > in_progress > waiting,1.2180642939800466
+42296,42296@1605008516.839000,waiting > in_progress > waiting,6.285879623006891e-05
+41449,41449@1604902648.766000,waiting > in_progress > validation > in_progress > waiting,14.7130077199086
+41523,41523@1601894209.169000,waiting > in_progress > waiting,0.00023810185216091296
+41287,41287@1603604262.341000,waiting > in_progress > waiting,11.885795868055688
+41287,41287@1606667519.216000,waiting > in_progress > waiting,5.203729837964531
+41306,41306@1600757294.145000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,0.0034135416674393195
+41690,41690@1607845091.293000,waiting > in_progress > validation > in_progress > waiting,9.745763437499603
+41690,41690@1609150431.407000,waiting > in_progress > waiting,6.087013912038119
+41478,41478@1602059568.931000,waiting > in_progress > waiting,0.7428541087966274
+41303,41303@1602074004.893000,waiting > in_progress > waiting,7.031318032404891
+44438,44438@1614077297.337000,waiting > in_progress > waiting,1.015621990740851
+41100,41100@1600947426.773000,waiting > in_progress > validation > in_progress > waiting,0.8739635185179887
+42001,42001@1603785697.345000,waiting > in_progress > validation > in_progress > waiting,1.9743254166675939
+35271,35271@1566813736.681000,waiting > in_progress > waiting,0.004286469908224212
+35271,35271@1566826305.206000,waiting > in_progress > waiting,0.002232546298592179
+35271,35271@1569160996.288000,waiting > in_progress > waiting,2.5081019158716554e-05
+35271,35271@1569763615.134000,waiting > in_progress > waiting,2.9236111376020642e-05
+35271,35271@1579610649.603000,waiting > in_progress > resolved > closed > reopened > in_progress > waiting,75.95286297453498
+35271,35271@1581923276.321000,waiting > in_progress > waiting,0.0011407175936080792
+35271,35271@1591249685.660000,waiting > in_progress > waiting,3.737391643518651
+35331,35331@1567063630.748000,waiting > in_progress > waiting,0.03598961805579839
+35331,35331@1567077949.569000,waiting > in_progress > waiting,1.7916667792532178e-05
+35331,35331@1567316533.497000,waiting > in_progress > waiting,0.015133530091908242
+35331,35331@1568010900.599000,waiting > in_progress > validation > in_progress > waiting,7.786049016203593
+35331,35331@1569159431.051000,waiting > in_progress > validation > in_progress > waiting,10.324667581019026
+35331,35331@1569764641.331000,waiting > in_progress > waiting,0.0021946064824307407
+41477,41477@1602060751.113000,waiting > in_progress > validation > in_progress > waiting,0.7571621064814152
+42159,42159@1606143730.754000,waiting > in_progress > validation > in_progress > waiting,21.18767802083382
+40775,40775@1605704357.949000,waiting > in_progress > waiting,2.98153856481391
+42008,42008@1603614923.498000,waiting > in_progress > waiting,0.04607101851867305
+1005233,1005233@1646543146.000000,waiting > in_progress > waiting,11.954444444444444
+35200,35200@1569217986.442000,waiting > in_progress > waiting,6.915835833331501
+35200,35200@1574861298.922000,waiting > resolved > resolved_under_monitoring > in_progress > validation > in_progress > waiting,2.209503969906105
+42271,42271@1605786951.499000,waiting > in_progress > waiting,1.351187175926235
+42271,42271@1606213114.867000,waiting > in_progress > waiting,1.1819667708349448
+34946,34946@1568719270.012000,waiting > in_progress > validation > in_progress > waiting,26.13442410879665
+42104,42104@1604490374.560000,waiting > in_progress > waiting,0.004804791664635694
+40668,40668@1598257525.906000,waiting > in_progress > waiting,0.002864710647198889
+39542,39542@1599729992.219000,waiting > in_progress > waiting,45.25182232639028
+39542,39542@1601872376.551000,waiting > in_progress > waiting,13.83209210648305
+39542,39542@1601898987.177000,waiting > in_progress > waiting,0.1201594907404096
+39542,39542@1603166489.577000,waiting > in_progress > waiting,12.836386481479362
+41967,41967@1603261625.439000,waiting > in_progress > waiting,0.021729201387476037
+41971,41971@1603782861.850000,waiting > in_progress > waiting,0.01850700231337989
+42051,42051@1610887929.245000,waiting > resolved > pending_deployment > resolved > closed > reopened > in_progress > waiting,77.2235618634246
+42663,42663@1609360133.804000,waiting > resolved > closed > reopened > in_progress > waiting,28.588290081018652
+39842,39842@1594817025.467000,waiting > in_progress > waiting,2.0095083680555774
+39842,39842@1596027817.188000,waiting > in_progress > waiting,7.031475740740144
+39842,39842@1597663979.526000,waiting > in_progress > validation > in_progress > waiting,6.061848194444621
+39842,39842@1603002834.166000,waiting > in_progress > waiting,0.00036730323952657206
+42481,42481@1606206918.471000,waiting > in_progress > waiting,0.03318179398223206
+42405,42405@1605698908.621000,waiting > in_progress > waiting,1.9626401388893524
+42153,42153@1604301120.292000,waiting > in_progress > waiting,0.012539479166821197
+42006,42006@1608470529.788000,waiting > in_progress > waiting,1.7291668940473487e-05
+41931,41931@1603620660.744000,waiting > in_progress > validation > in_progress > waiting,0.18956886574074075
+43148,43148@1609749111.763000,waiting > in_progress > waiting,0.0001034259271842462
+42399,42399@1606206020.389000,waiting > in_progress > waiting,7.9994715393500195
+43356,43356@1609830024.573000,waiting > in_progress > waiting,0.0006030555538557193
+38929,38929@1593373940.685000,waiting > in_progress > waiting,0.2812795254615722
+38929,38929@1594831689.098000,waiting > in_progress > waiting,0.3317268750016336
+1005218,1005218@1646255525.000000,waiting > closed > reopened > waiting,0.3546990740740741
+42666,42666@1608116793.736000,waiting > in_progress > resolved > pending_deployment > in_progress > resolved > closed > reopened > in_progress > waiting,3.4801312615750013
+43274,43274@1611732785.825000,waiting > resolved > closed > reopened > in_progress > waiting,20.730318356481966
+42488,42488@1606635477.560000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,5.69591013888794
+42488,42488@1610550877.757000,waiting > in_progress > waiting,2.2109641319430535
+42503,42503@1606638515.895000,waiting > in_progress > waiting,5.523148234243746e-05
+42509,42509@1607496108.228000,waiting > in_progress > validation > in_progress > waiting,9.859633599536286
+43960,43960@1612163895.985000,waiting > in_progress > waiting,0.00012420138827076664
+41796,41796@1605454029.454000,waiting > in_progress > validation > in_progress > waiting,19.062355358796538
+38105,38105@1584605162.752000,waiting > in_progress > waiting,0.04058296296331618
+38105,38105@1606207688.811000,waiting > resolved > closed > reopened > in_progress > validation > in_progress > validation > in_progress > waiting,182.10210201388983
+42920,42920@1608454925.471000,waiting > in_progress > validation > in_progress > waiting,4.483136550924844
+42920,42920@1610445190.657000,waiting > in_progress > validation > in_progress > waiting,21.071250960650268
+42733,42733@1607931932.662000,waiting > in_progress > waiting,2.31018524478983e-05
+42907,42907@1607866016.092000,waiting > in_progress > waiting,2.035879702479751e-05
+41406,41406@1605082251.935000,waiting > in_progress > validation > in_progress > waiting,27.771635671296604
+34304,34304@1582626416.652000,waiting > in_progress > waiting,0.8472439699068114
+34304,34304@1586064442.286000,waiting > resolved > pending_deployment > in_progress > waiting,30.636145127316315
+34304,34304@1604912800.747000,waiting > in_progress > waiting,5.971143854166622
+42515,42515@1606644087.849000,waiting > in_progress > validation > in_progress > waiting,4.963935555556306
+43957,43957@1613285147.918000,waiting > in_progress > waiting,6.993885254628128
+43036,43036@1608727801.404000,waiting > in_progress > validation > in_progress > waiting,8.146937025462588
+42760,42760@1609713750.866000,waiting > in_progress > waiting,3.8608674421299387
+36761,36761@1593932837.129000,waiting > in_progress > waiting,130.7475371759247
+42535,42535@1606818353.524000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,1.9066556944449742
+42419,42419@1609666291.530000,waiting > resolved > resolved_under_monitoring > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,10.088063854166755
+42419,42419@1609766052.544000,waiting > in_progress > waiting,1.1000704745368826
+43226,43226@1609359316.576000,waiting > in_progress > validation > in_progress > waiting,3.4934025231472874
+43626,43626@1610975241.587000,waiting > in_progress > waiting,0.08340760416454739
+43714,43714@1611571036.099000,waiting > in_progress > validation > in_progress > waiting,0.05987002314792739
+43197,43197@1608812605.268000,waiting > in_progress > waiting,0.08357828703467493
+43758,43758@1611501931.878000,waiting > in_progress > validation > in_progress > waiting,3.1765532407412924
+39419,39419@1598188843.902000,waiting > in_progress > validation > in_progress > waiting,6.0219604282412265
+1009880,1009880@1669957666.000000,waiting > validation > waiting,13.973831018518519
+43482,43482@1610883408.267000,waiting > in_progress > waiting,1.8287036154005262e-05
+43476,43476@1610350373.289000,waiting > in_progress > waiting,2.9293983070938675e-05
+41402,41402@1602766212.308000,waiting > in_progress > waiting,0.17157973379724556
+40401,40401@1598874231.788000,waiting > resolved > closed > reopened > in_progress > validation > in_progress > waiting,26.950204479167308
+1006198,1006198@1651140531.000000,waiting > in_progress > waiting,4.026724537037037
+43063,43063@1610879926.666000,waiting > resolved > closed > reopened > in_progress > waiting,18.95066042823924
+43900,43900@1612856759.066000,waiting > in_progress > waiting,13.051262974537632
+43367,43367@1609918198.854000,waiting > in_progress > waiting,0.813251770834128
+43367,43367@1610266159.563000,waiting > in_progress > waiting,3.8212746990748028
+1009581,1009581@1669271334.000000,waiting > in_progress > validation > waiting,22.74452546296296
+1009581,1009581@1672151631.000000,waiting > validation > pending_deployment > waiting,30.333460648148147
+43743,43743@1611670174.999000,waiting > in_progress > waiting,0.004337129631528148
+43743,43743@1611732629.519000,waiting > in_progress > waiting,1.785879609761415e-05
+43743,43743@1612713511.614000,waiting > in_progress > waiting,10.342588564817
+1006127,1006127@1651184834.000000,waiting > closed > reopened > waiting,0.46952546296296294
+1006379,1006379@1654590942.000000,waiting > validation > waiting,27.079791666666665
+42647,42647@1607522056.507000,waiting > in_progress > validation > in_progress > waiting,0.025772187500088303
+42647,42647@1608454941.944000,waiting > in_progress > validation > in_progress > waiting,6.0995701736101395
+42647,42647@1609069588.019000,waiting > in_progress > waiting,2.047453765515928e-05
+42647,42647@1609236076.989000,waiting > in_progress > waiting,1.4143519931369358e-05
+44163,44163@1612878954.263000,waiting > in_progress > validation > in_progress > waiting,0.00025797453743440135
+1009300,1009300@1666611710.000000,waiting > resolved > waiting,0.005706018518518518
+43191,43191@1609159457.194000,waiting > in_progress > validation > in_progress > waiting,0.04516482638816039
+43191,43191@1611753804.919000,waiting > in_progress > validation > in_progress > waiting,4.015937893517592
+43191,43191@1612856068.795000,waiting > in_progress > validation > in_progress > waiting,2.0148297453699286
+43191,43191@1613458028.351000,waiting > in_progress > validation > in_progress > waiting,0.9991201620383395
+1004008,1004008@1644419452.000000,waiting > in_progress > waiting,0.3566666666666667
+44106,44106@1613890966.088000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,13.7047809606487
+44085,44085@1612725447.973000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,0.5167192824074516
+44418,44418@1613916567.333000,waiting > in_progress > waiting,1.9363424292317142e-05
+44418,44418@1614156870.968000,waiting > in_progress > validation > in_progress > waiting,1.0438411689798037
+43974,43974@1612269536.480000,waiting > in_progress > waiting,2.0868055246494436e-05
+43915,43915@1612079382.152000,waiting > in_progress > waiting,2.8293378472217805
+43915,43915@1612684815.778000,waiting > in_progress > validation > in_progress > waiting,6.895547812501038
+43915,43915@1612785450.839000,waiting > in_progress > waiting,0.00043262731421876834
+43915,43915@1612858726.146000,waiting > in_progress > waiting,0.8422667129613735
+43915,43915@1612861775.366000,waiting > in_progress > waiting,0.0005198148141304651
+1007207,1007207@1656236073.000000,waiting > in_progress > waiting,2.994803240740741
+44147,44147@1612857892.679000,waiting > in_progress > waiting,0.07849747685094674
+44147,44147@1612860034.775000,waiting > in_progress > waiting,0.004117731482342437
+44147,44147@1613625414.907000,waiting > in_progress > validation > resolved > closed > reopened > in_progress > waiting,8.024722407407783
+42436,42436@1613284826.100000,waiting > in_progress > validation > in_progress > waiting,79.63020357638874
+44644,44644@1614783439.634000,waiting > in_progress > waiting,0.11546473379764292
+44689,44689@1615185829.312000,waiting > in_progress > validation > in_progress > waiting,0.5265827199071645
+43746,43746@1612357070.280000,waiting > in_progress > validation > in_progress > waiting,2.0072797800931665
+43746,43746@1612952225.407000,waiting > in_progress > waiting,1.0361656712961418
+43746,43746@1614264418.276000,waiting > in_progress > validation > in_progress > waiting,10.020230694443539
+44211,44211@1614182831.498000,waiting > in_progress > waiting,3.2666698495353814
+41206,41206@1600754897.875000,waiting > in_progress > waiting,2.0925926941412465e-05
+41206,41206@1603272302.337000,waiting > resolved > closed > reopened > in_progress > waiting,15.78909611110886
+41206,41206@1607243961.111000,waiting > in_progress > waiting,5.2048610868277376e-05
+41206,41206@1612770112.369000,waiting > resolved > closed > reopened > in_progress > waiting,31.965211689814375
+43916,43916@1612079449.396000,waiting > in_progress > waiting,2.830170162035911
+43916,43916@1612350979.364000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,3.0317519328715625
+43916,43916@1612363955.463000,waiting > in_progress > waiting,0.15010211805502574
+1005276,1005276@1649146006.000000,waiting > in_progress > waiting,1.9529398148148147
+1005265,1005265@1666810893.000000,waiting > closed > reopened > waiting,168.38015046296297
+1005273,1005273@1647238669.000000,waiting > pending_deployment > waiting,13.695046296296296
+1005273,1005273@1647788475.000000,waiting > in_progress > waiting,3.8504050925925926
+41644,41644@1613284800.273000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,93.95537290509377
+1005282,1005282@1654749709.000000,waiting > resolved > waiting,65.83431712962962
+1005282,1005282@1659348649.000000,waiting > validation > waiting,14.897199074074074
+1005647,1005647@1649140593.000000,waiting > validation > waiting,15.84625
+1005650,1005650@1648489827.000000,waiting > validation > waiting,6.366030092592593
+44655,44655@1614848429.741000,waiting > in_progress > waiting,0.038747893516664154
+44655,44655@1614854132.580000,waiting > in_progress > waiting,0.02431103009040709
+44777,44777@1615723622.520000,waiting > in_progress > waiting,0.022481597223215632
+1007076,1007076@1657207121.000000,waiting > validation > waiting,3.4227546296296296
+1010120,1010120@1670769093.000000,waiting > validation > waiting,13.018171296296297
+43842,43842@1612082356.207000,waiting > in_progress > waiting,2.808433796297069
+1006067,1006067@1653430834.000000,waiting > resolved > closed > reopened > waiting,17.29912037037037
+1005800,1005800@1648979231.000000,waiting > in_progress > waiting,0.022881944444444444
+1008598,1008598@1664699336.000000,waiting > resolved > closed > reopened > in_progress > waiting,7.108842592592593
+1005235,1005235@1645511174.000000,waiting > in_progress > waiting,0.002650462962962963
+1004051,1004051@1640070853.000000,waiting > in_progress > waiting,0.8972569444444445
+1004067,1004067@1640684816.000000,waiting > in_progress > waiting,6.929444444444444
+1004073,1004073@1647840003.000000,waiting > open > in_progress > waiting,82.89524305555555
+1003626,1003626@1639467974.000000,waiting > in_progress > waiting,4.799212962962963
+1003626,1003626@1640157279.000000,waiting > in_progress > waiting,2.0042708333333334
+1003626,1003626@1641220882.000000,waiting > pending_deployment > validation > waiting,11.051516203703704
+1003626,1003626@1644738180.000000,waiting > pending_deployment > waiting,40.70940972222222
+1000469,1000469@1621860373.000000,waiting > validation > waiting,21.267847222222223
+1005397,1005397@1664107126.000000,waiting > closed > reopened > in_progress > waiting,26.906863425925927
+1005333,1005333@1646576935.000000,waiting > resolved_under_monitoring > closed > reopened > closed > reopened > waiting,5.108645833333333
+1005906,1005906@1651557863.000000,waiting > closed > reopened > waiting,20.02684027777778
+1004497,1004497@1643097531.000000,waiting > validation > waiting,0.7315162037037037
+1005022,1005022@1644504672.000000,waiting > open > waiting,4.6296296296296294e-05
+1005338,1005338@1646725887.000000,waiting > resolved_under_monitoring > resolved > closed > reopened > closed > reopened > waiting,6.832858796296296
+1005113,1005113@1645092630.000000,waiting > resolved > closed > reopened > waiting,0.12018518518518519
+1009853,1009853@1668604027.000000,waiting > resolved > waiting,5.787037037037037e-05
+1006285,1006285@1652294021.000000,waiting > closed > reopened > resolved > waiting,0.16407407407407407
+1005873,1005873@1649148994.000000,waiting > in_progress > waiting,1.9876157407407407
+1005873,1005873@1651055604.000000,waiting > validation > waiting,14.494849537037037
+1005873,1005873@1652773257.000000,waiting > validation > pending_deployment > waiting,19.874895833333333
+1005873,1005873@1654064801.000000,waiting > pending_deployment > waiting,12.998935185185186
+1005873,1005873@1658135390.000000,waiting > pending_deployment > waiting,35.001157407407405
+1004120,1004120@1640845968.000000,waiting > pending_deployment > waiting,8.661261574074073
+1006807,1006807@1656506384.000000,waiting > validation > waiting,24.235208333333333
+1006807,1006807@1663245336.000000,waiting > validation > waiting,23.234699074074076
+1006790,1006790@1654145471.000000,waiting > closed > reopened > in_progress > waiting,0.6882754629629629
+1000769,1000769@1621767313.000000,waiting > in_progress > waiting,0.04802083333333333
+1004205,1004205@1660117804.000000,waiting > resolved > closed > reopened > waiting,0.057881944444444444
+1006677,1006677@1654417991.000000,waiting > validation > waiting,6.1139120370370375
+1006677,1006677@1655616748.000000,waiting > resolved > pending_deployment > waiting,12.994733796296297
+1005404,1005404@1649592163.000000,waiting > validation > waiting,38.16631944444445
+1005404,1005404@1649933492.000000,waiting > validation > waiting,2.957974537037037
+1004162,1004162@1644416160.000000,waiting > validation > waiting,15.034814814814816
+1007257,1007257@1656404320.000000,waiting > in_progress > waiting,0.79875
+1005137,1005137@1648374032.000000,waiting > validation > waiting,9.987013888888889
+1005816,1005816@1649804119.000000,waiting > in_progress > waiting,9.57013888888889
+1005816,1005816@1652773325.000000,waiting > validation > pending_deployment > waiting,8.980034722222221
+1005816,1005816@1654064834.000000,waiting > pending_deployment > waiting,13.003078703703704
+1005816,1005816@1658135428.000000,waiting > pending_deployment > waiting,35.00094907407407
+1004719,1004719@1645530170.000000,waiting > in_progress > waiting,0.26472222222222225
+1005148,1005148@1645521891.000000,waiting > in_progress > waiting,0.045300925925925925
+1007005,1007005@1659360768.000000,waiting > validation > waiting,47.938796296296296
+1004250,1004250@1644416170.000000,waiting > validation > waiting,3.004421296296296
+1005320,1005320@1646255695.000000,waiting > closed > reopened > waiting,0.3581712962962963
+1008611,1008611@1663783469.000000,waiting > resolved_under_monitoring > waiting,8.383576388888889
+1001334,1001334@1647854718.000000,waiting > in_progress > validation > resolved > waiting,263.96118055555553
+1001334,1001334@1652948633.000000,waiting > in_progress > waiting,0.014837962962962963
+1007260,1007260@1656514017.000000,waiting > validation > waiting,2.043576388888889
+1006126,1006126@1655703736.000000,waiting > validation > pending_deployment > validation > waiting,42.938414351851854
+1005715,1005715@1649237539.000000,waiting > resolved > validation > waiting,2.1324305555555556
+1006608,1006608@1654437698.000000,waiting > in_progress > waiting,5.504895833333333
+1006608,1006608@1654596517.000000,waiting > in_progress > waiting,0.042916666666666665
+1006608,1006608@1655687159.000000,waiting > in_progress > waiting,4.001319444444444
+1006608,1006608@1656332890.000000,waiting > in_progress > waiting,4.6296296296296294e-05
+1006608,1006608@1660181585.000000,waiting > resolved_under_monitoring > in_progress > waiting,17.574895833333333
+1006608,1006608@1671408855.000000,waiting > in_progress > waiting,5.982210648148148
+1005252,1005252@1646314621.000000,waiting > validation > waiting,8.146909722222222
+1006153,1006153@1651997026.000000,waiting > resolved_under_monitoring > validation > waiting,11.46349537037037
+1006082,1006082@1652776037.000000,waiting > in_progress > waiting,33.91344907407407
+1005838,1005838@1649151495.000000,waiting > in_progress > waiting,2.016724537037037
+1006081,1006081@1649851153.000000,waiting > validation > waiting,0.0002662037037037037
+1001378,1001378@1625659200.000000,waiting > validation > waiting,1.9110185185185184
+1007172,1007172@1655977826.000000,waiting > in_progress > waiting,1.1372222222222221
+1005327,1005327@1646565481.000000,waiting > open > waiting,4.6296296296296294e-05
+1005327,1005327@1646725293.000000,waiting > resolved_under_monitoring > waiting,1.7719328703703703
+1004768,1004768@1646255742.000000,waiting > closed > reopened > waiting,0.35586805555555556
+1004769,1004769@1643537191.000000,waiting > in_progress > waiting,0.019270833333333334
+1003873,1003873@1640158156.000000,waiting > validation > waiting,6.999803240740741
+1003873,1003873@1647929893.000000,waiting > validation > in_progress > resolved > pending_deployment > validation > waiting,84.89732638888889
+1003873,1003873@1649573201.000000,waiting > pending_deployment > waiting,17.79625
+1005721,1005721@1649670983.000000,waiting > validation > waiting,14.032361111111111
+1007444,1007444@1661942318.000000,waiting > validation > pending_deployment > waiting,43.89262731481482
+1007739,1007739@1662533906.000000,waiting > in_progress > waiting,12.918321759259259
+1007739,1007739@1664888034.000000,waiting > in_progress > waiting,6.210451388888889
+1007739,1007739@1667396084.000000,waiting > in_progress > waiting,8.948715277777778
+1005960,1005960@1654507054.000000,waiting > in_progress > validation > waiting,60.07013888888889
+1008607,1008607@1663055724.000000,waiting > resolved > waiting,0.0052199074074074075
+1008607,1008607@1664193113.000000,waiting > validation > waiting,0.0003125
+1008607,1008607@1666086487.000000,waiting > validation > resolved > waiting,15.922164351851851
+1010429,1010429@1671523079.000000,waiting > resolved > closed > reopened > waiting,0.003425925925925926
+1005725,1005725@1648022468.000000,waiting > in_progress > waiting,0.005717592592592593
+36753,36753@1648463875.000000,waiting > in_progress > resolved > pending_deployment > waiting,676.5279689236123
+1007174,1007174@1657120338.000000,waiting > in_progress > waiting,0.14678240740740742
+1004307,1004307@1641357554.000000,waiting > in_progress > waiting,1.943136574074074
+1004330,1004330@1645457252.000000,waiting > validation > waiting,49.063715277777774
+1002017,1002017@1632806329.000000,waiting > in_progress > waiting,15.737824074074075
+1005638,1005638@1649818076.000000,waiting > in_progress > waiting,15.670798611111111
+1005638,1005638@1655633167.000000,waiting > in_progress > waiting,54.408171296296295
+1008619,1008619@1664368179.000000,waiting > validation > waiting,0.27447916666666666
+1002193,1002193@1648034760.000000,waiting > resolved_under_monitoring > waiting,154.02351851851853
+1003409,1003409@1637233766.000000,waiting > in_progress > resolved > closed > reopened > waiting,2.995324074074074
+1008385,1008385@1666255668.000000,waiting > resolved_under_monitoring > waiting,1.7801967592592594
+1004820,1004820@1644399946.000000,waiting > resolved_under_monitoring > validation > waiting,6.960439814814815
+1006822,1006822@1661417958.000000,waiting > validation > waiting,30.18369212962963
+1005974,1005974@1649822710.000000,waiting > in_progress > waiting,0.9958564814814815
+1004808,1004808@1644390020.000000,waiting > validation > waiting,7.7951041666666665
+1004808,1004808@1646133181.000000,waiting > validation > waiting,8.038831018518518
+1004368,1004368@1647509472.000000,waiting > validation > waiting,70.0244212962963
+1004368,1004368@1653893227.000000,waiting > validation > waiting,7.9558333333333335
+1005845,1005845@1648974522.000000,waiting > in_progress > waiting,3.1188541666666665
+38893,38893@1589997137.575000,waiting > in_progress > waiting,0.30309004629651703
+38893,38893@1590666580.376000,waiting > in_progress > waiting,0.938672812498278
+38893,38893@1590777474.635000,waiting > in_progress > waiting,1.283480196758001
+1005985,1005985@1649589435.000000,waiting > in_progress > waiting,3.108159722222222
+1007690,1007690@1662268461.000000,waiting > in_progress > waiting,0.029849537037037036
+1007620,1007620@1658754851.000000,waiting > in_progress > waiting,0.3419097222222222
+1007620,1007620@1660453340.000000,waiting > in_progress > validation > waiting,18.87795138888889
+1005994,1005994@1649679847.000000,waiting > resolved > waiting,0.002025462962962963
+1006288,1006288@1655984469.000000,waiting > in_progress > waiting,58.96350694444445
+35157,35157@1566300648.453000,waiting > in_progress > waiting,1.998842590385013e-05
+35157,35157@1566459129.625000,waiting > in_progress > validation > in_progress > waiting,0.9588404745360215
+41046,41046@1600056158.690000,waiting > in_progress > waiting,0.6709853009272505
+1008378,1008378@1661955570.000000,waiting > validation > waiting,0.015775462962962963
+34612,34612@1562566115.901000,waiting > in_progress > waiting,1.0229451736117954
+32540,32540@1549955849.910000,waiting > in_progress > waiting,0.6760328472240104
+33950,33950@1563715323.447000,waiting > in_progress > validation > in_progress > waiting,59.06545196759204
+35079,35079@1565181525.264000,waiting > in_progress > validation > in_progress > waiting,1.2226612962947951
+32845,32845@1551430952.808000,waiting > in_progress > waiting,0.0006223148162718173
+32845,32845@1551436450.171000,waiting > in_progress > waiting,3.0937501125865514e-05
+36250,36250@1572938699.448000,waiting > in_progress > waiting,5.4629629960766543e-05
+36250,36250@1573653771.878000,waiting > in_progress > waiting,6.201388935248057e-05
+35729,35729@1573648999.910000,waiting > in_progress > validation > in_progress > waiting,50.066819351853596
+36960,36960@1577712373.103000,waiting > in_progress > validation > in_progress > waiting,6.113425725036198e-05
+36960,36960@1577796465.734000,waiting > in_progress > waiting,2.3124998918286078e-05
+36960,36960@1578999471.711000,waiting > in_progress > validation > in_progress > waiting,12.193948356481615
+36960,36960@1579156752.860000,waiting > in_progress > waiting,0.00019054397940635682
+36960,36960@1581919716.383000,waiting > in_progress > validation > in_progress > waiting,20.717579398146935
+43696,43696@1611460349.848000,waiting > in_progress > waiting,4.686857893519379
+43696,43696@1611492002.719000,waiting > in_progress > waiting,0.07673708333461372
+1002897,1002897@1638917793.000000,waiting > validation > waiting,58.42771990740741
+1002897,1002897@1639982677.000000,waiting > validation > waiting,0.004456018518518519
+1007029,1007029@1658323901.000000,waiting > validation > pending_deployment > waiting,34.27008101851852
+1004407,1004407@1642059302.000000,waiting > in_progress > waiting,0.805625
+1004407,1004407@1643103972.000000,waiting > validation > pending_deployment > waiting,11.967789351851852
+1002976,1002976@1641970584.000000,waiting > validation > waiting,6.714884259259259
+1007266,1007266@1656418006.000000,waiting > in_progress > waiting,0.029421296296296296
+1007266,1007266@1656477773.000000,waiting > in_progress > waiting,0.022824074074074073
+1007266,1007266@1657803188.000000,waiting > resolved_under_monitoring > in_progress > resolved > waiting,13.833981481481482
+1004889,1004889@1644308734.000000,waiting > in_progress > waiting,0.024502314814814814
+1005553,1005553@1647432621.000000,waiting > resolved_under_monitoring > waiting,3.012349537037037
+1002835,1002835@1633510103.000000,waiting > resolved_under_monitoring > waiting,1.0721527777777777
+1002835,1002835@1634114416.000000,waiting > resolved_under_monitoring > waiting,6.9928587962962965
+1006609,1006609@1655012652.000000,waiting > pending_deployment > waiting,18.938113425925927
+1002977,1002977@1634542552.000000,waiting > pending_deployment > resolved_under_monitoring > waiting,0.0017592592592592592
+1004444,1004444@1642059298.000000,waiting > in_progress > waiting,0.8052314814814815
+1004444,1004444@1642593540.000000,waiting > in_progress > waiting,6.024247685185185
+1004444,1004444@1646200439.000000,waiting > resolved_under_monitoring > in_progress > waiting,28.80758101851852
+1005815,1005815@1650894186.000000,waiting > resolved_under_monitoring > validation > waiting,22.34721064814815
+1003251,1003251@1640750527.000000,waiting > in_progress > validation > in_progress > resolved_under_monitoring > in_progress > validation > waiting,50.97584490740741
+1003251,1003251@1642657043.000000,waiting > in_progress > waiting,11.052604166666667
+1003251,1003251@1643177444.000000,waiting > in_progress > waiting,3.049664351851852
+1010463,1010463@1672120896.000000,waiting > in_progress > waiting,14.903842592592593
+1006238,1006238@1656229169.000000,waiting > validation > in_progress > validation > waiting,49.01976851851852
+1004456,1004456@1657696656.000000,waiting > in_progress > waiting,5.910115740740741
+1003208,1003208@1637741015.000000,waiting > in_progress > waiting,14.761342592592593
+1003239,1003239@1645341427.000000,waiting > in_progress > waiting,90.85525462962963
+1003498,1003498@1645946998.000000,waiting > resolved > closed > in_progress > waiting,62.98796296296296
+1002299,1002299@1635773966.000000,waiting > pending_deployment > resolved_under_monitoring > in_progress > waiting,27.106956018518517
+34009,34009@1566376973.180000,waiting > in_progress > validation > in_progress > waiting,83.06569072916828
+44589,44589@1615802382.185000,waiting > in_progress > waiting,5.143350335646558
+44589,44589@1617690520.000000,waiting > pending_deployment > waiting,0.9197453703703704
+1008634,1008634@1665584216.000000,waiting > validation > waiting,20.28940972222222
+1002687,1002687@1633511868.000000,waiting > validation > in_progress > pending_deployment > waiting,6.026608796296296
+1002687,1002687@1634542560.000000,waiting > pending_deployment > waiting,11.929178240740741
+1003359,1003359@1639335148.000000,waiting > in_progress > waiting,11.366400462962963
+1002326,1002326@1638780395.000000,waiting > validation > resolved > closed > reopened > in_progress > waiting,88.00092592592593
+1002936,1002936@1636531606.000000,waiting > in_progress > waiting,17.05244212962963
+1002936,1002936@1639572378.000000,waiting > resolved > closed > reopened > waiting,2.9464930555555555
+1002985,1002985@1637650456.000000,waiting > pending_deployment > waiting,18.85962962962963
+1002985,1002985@1643635081.000000,waiting > pending_deployment > waiting,67.95533564814815
+1003364,1003364@1645952544.000000,waiting > validation > waiting,73.16601851851851
+1003364,1003364@1647423377.000000,waiting > resolved_under_monitoring > waiting,2.863912037037037
+1003364,1003364@1647800311.000000,waiting > validation > waiting,4.362615740740741
+1002300,1002300@1635228833.000000,waiting > in_progress > waiting,4.9590856481481485
+1002300,1002300@1636876622.000000,waiting > in_progress > waiting,5.030358796296296
+1003272,1003272@1643553884.000000,waiting > in_progress > waiting,0.1986574074074074
+1003105,1003105@1635165640.000000,waiting > resolved > closed > reopened > waiting,0.021006944444444446
+1003105,1003105@1635857376.000000,waiting > pending_deployment > validation > waiting,7.643831018518519
+1003105,1003105@1639319530.000000,waiting > pending_deployment > waiting,3.027013888888889
+1003521,1003521@1639333670.000000,waiting > resolved > waiting,17.281909722222224
+1002136,1002136@1636962521.000000,waiting > in_progress > waiting,39.76159722222222
+1002591,1002591@1632058567.000000,waiting > validation > waiting,0.012372685185185184
+1002591,1002591@1634542555.000000,waiting > validation > in_progress > pending_deployment > resolved_under_monitoring > waiting,17.95638888888889
+1003393,1003393@1637135003.000000,waiting > resolved > in_progress > waiting,0.062002314814814816
+1002948,1002948@1638917797.000000,waiting > validation > pending_deployment > waiting,48.576388888888886
+1008009,1008009@1667307017.000000,waiting > in_progress > validation > waiting,40.350335648148146
+1008009,1008009@1667805921.000000,waiting > in_progress > waiting,1.1080092592592592
+1003579,1003579@1646639338.000000,waiting > cancelled > waiting,0.001851851851851852
+1003271,1003271@1640069181.000000,waiting > closed > reopened > closed > reopened > in_progress > waiting,4.990798611111111
+1006076,1006076@1650502837.000000,waiting > in_progress > validation > pending_deployment > waiting,2.6248726851851854
+1002487,1002487@1631601752.000000,waiting > closed > reopened > waiting,0.004884259259259259
+1002487,1002487@1637043565.000000,waiting > resolved_under_monitoring > closed > reopened > waiting,55.8224537037037
+1003297,1003297@1636626484.000000,waiting > resolved > waiting,2.9827199074074073
+1002407,1002407@1631118214.000000,waiting > validation > waiting,0.07934027777777777
+1003576,1003576@1638873523.000000,waiting > resolved > closed > reopened > resolved > waiting,8.078344907407407
+1003357,1003357@1636548033.000000,waiting > in_progress > waiting,0.10427083333333333
+1003357,1003357@1637497287.000000,waiting > in_progress > waiting,0.164375
+1002863,1002863@1642944785.000000,waiting > resolved_under_monitoring > waiting,74.2093287037037
+1003640,1003640@1638865043.000000,waiting > resolved > closed > reopened > waiting,0.015231481481481481
+1004969,1004969@1644318564.000000,waiting > in_progress > waiting,0.04297453703703704
+1003669,1003669@1638786769.000000,waiting > validation > waiting,4.887638888888889
+1003776,1003776@1641973065.000000,waiting > validation > waiting,35.82459490740741
+1007567,1007567@1661065120.000000,waiting > validation > waiting,33.708194444444445
+1005784,1005784@1659961482.000000,waiting > in_progress > waiting,3.947210648148148
+1003695,1003695@1639439445.000000,waiting > pending_deployment > waiting,0.032337962962962964
+1006481,1006481@1652614531.000000,waiting > in_progress > waiting,2.848738425925926
+1000458,1000458@1621323920.000000,waiting > in_progress > waiting,0.7428356481481482
+45010,45010@1616937101.000000,waiting > validation > waiting,0.16006944444444443
+1003757,1003757@1639928794.000000,waiting > in_progress > waiting,6.814606481481482
+44481,44481@1614070042.700000,waiting > in_progress > waiting,0.017766701388690208
+44481,44481@1616422289.000000,waiting > in_progress > validation > waiting,27.024226203704323
+1003739,1003739@1638947344.000000,waiting > in_progress > waiting,1.676076388888889
+1003739,1003739@1638953305.000000,waiting > in_progress > waiting,0.02832175925925926
+44137,44137@1615191397.111000,waiting > in_progress > validation > resolved > resolved_under_monitoring > in_progress > waiting,26.681193101853133
+1002716,1002716@1633511868.000000,waiting > in_progress > closed > pending_deployment > waiting,5.8135763888888885
+1002538,1002538@1632990982.000000,waiting > closed > waiting,0.001238425925925926
+1000384,1000384@1626642961.000000,waiting > in_progress > waiting,34.39716435185185
+1000384,1000384@1648463934.000000,waiting > resolved > waiting,140.87719907407407
+1002305,1002305@1631448662.000000,waiting > validation > waiting,4.187141203703704
+1002305,1002305@1632056312.000000,waiting > validation > waiting,5.206666666666667
+1002305,1002305@1632058567.000000,waiting > validation > waiting,0.012372685185185184
+1002305,1002305@1632990980.000000,waiting > closed > waiting,0.001990740740740741
+1010339,1010339@1670734387.000000,waiting > in_progress > waiting,3.015347222222222
+1010339,1010339@1671434053.000000,waiting > in_progress > waiting,6.021226851851852
+1010339,1010339@1675920927.000000,waiting > in_progress > waiting,36.010173611111114
+1000470,1000470@1623223871.000000,waiting > validation > waiting,35.956238425925925
+44811,44811@1617530180.000000,waiting > in_progress > validation > waiting,18.106400416667263
+40616,40616@1597678231.935000,waiting > in_progress > waiting,0.15637291666534212
+42582,42582@1615278710.315000,waiting > in_progress > validation > in_progress > waiting,69.73574994213051
+42582,42582@1615717442.792000,waiting > in_progress > waiting,0.0004953240741182257
+42582,42582@1617785029.000000,waiting > in_progress > waiting,22.044827025463736
+42582,42582@1622011856.000000,waiting > in_progress > waiting,24.035011574074073
+1000492,1000492@1620106325.000000,waiting > in_progress > resolved > closed > reopened > in_progress > waiting,0.9548148148148148
+44575,44575@1615280535.733000,waiting > in_progress > validation > in_progress > waiting,6.876535462963361
+44575,44575@1615384212.249000,waiting > in_progress > waiting,0.036084907408113834
+1001176,1001176@1625658965.000000,waiting > validation > waiting,6.939629629629629
+1001466,1001466@1627906032.000000,waiting > validation > waiting,27.091377314814814
+1001466,1001466@1628077607.000000,waiting > resolved > waiting,1.124212962962963
+43505,43505@1612686093.618000,waiting > in_progress > validation > in_progress > waiting,25.8167564583349
+43505,43505@1621324222.000000,waiting > in_progress > waiting,69.71335383101746
+1000848,1000848@1622445818.000000,waiting > validation > waiting,1.017800925925926
+43919,43919@1614074512.005000,waiting > in_progress > validation > in_progress > waiting,1.9129013773164263
+41091,41091@1605598820.905000,waiting > open > in_progress > waiting,51.09215959490725
+43617,43617@1615902074.205000,waiting > in_progress > waiting,0.2517380555553569
+39722,39722@1597225088.124000,waiting > in_progress > waiting,20.253256828704917
+39722,39722@1597917140.833000,waiting > in_progress > waiting,1.2158929050906941
+39722,39722@1602665092.270000,waiting > in_progress > waiting,51.92503940972189
+39722,39722@1608114675.038000,waiting > in_progress > waiting,55.24731594907465
+39722,39722@1608553275.532000,waiting > in_progress > waiting,1.3669317013908315
+39722,39722@1609397935.241000,waiting > in_progress > waiting,3.1067060648153224
+39722,39722@1611030964.361000,waiting > in_progress > waiting,15.01363665509279
+39722,39722@1623578725.000000,waiting > in_progress > waiting,133.23606975694497
+39722,39722@1624956770.000000,waiting > in_progress > waiting,0.03729166666666667
+1002249,1002249@1631166375.000000,waiting > validation > in_progress > waiting,6.789097222222222
+1002249,1002249@1635344205.000000,waiting > in_review > validation > waiting,3.088449074074074
+44544,44544@1616058317.237000,waiting > in_progress > waiting,2.5069443164048373e-05
+44098,44098@1613406123.468000,waiting > in_progress > waiting,0.00010486111044883728
+44098,44098@1617277322.000000,waiting > in_progress > waiting,28.820530289350835
+42087,42087@1606140706.405000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > validation > resolved > closed > reopened > in_progress > waiting,26.31585519675855
+43852,43852@1611820048.026000,waiting > in_progress > waiting,0.00013986111239150717
+43852,43852@1611840561.390000,waiting > in_progress > waiting,2.297453858234264e-05
+43852,43852@1614668212.902000,waiting > in_progress > validation > in_progress > validation > in_progress > waiting,29.981079328703107
+43852,43852@1614675033.464000,waiting > in_progress > waiting,0.04165877314905326
+43852,43852@1617605989.000000,waiting > in_progress > waiting,5.787037037037037e-05
+43852,43852@1617627292.000000,waiting > in_progress > resolved_under_monitoring > waiting,0.24384259259259258
+43852,43852@1617785400.000000,waiting > in_progress > validation > waiting,1.1201388888888888
+43852,43852@1617787327.000000,waiting > in_progress > waiting,0.0013194444444444445
+43181,43181@1620290525.000000,waiting > in_progress > waiting,91.87908085648108
+1003432,1003432@1648033112.000000,waiting > validation > waiting,16.099733796296295
+1003432,1003432@1654774307.000000,waiting > under_review > waiting,0.0021527777777777778
+44760,44760@1616048354.447000,waiting > in_progress > validation > in_progress > waiting,0.9588436921299608
+44760,44760@1631000089.000000,waiting > resolved > pending_deployment > resolved_under_monitoring > closed > reopened > waiting,113.80193287037036
+44343,44343@1616051422.053000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,1.9800791550924381
+44343,44343@1619678006.000000,waiting > in_progress > waiting,35.87084490740741
+43884,43884@1619695903.000000,waiting > in_progress > waiting,72.86729162037096
+1000986,1000986@1622989442.000000,waiting > validation > waiting,0.008472222222222223
+45303,45303@1616919922.000000,waiting > in_progress > waiting,3.800127314814815
+44560,44560@1617690202.000000,waiting > in_progress > validation > waiting,22.010909467593386
+44560,44560@1618235994.000000,waiting > validation > waiting,0.036099537037037034
+44345,44345@1623161247.000000,waiting > in_progress > waiting,15.125844907407407
+44349,44349@1615810389.037000,waiting > in_progress > validation > in_progress > waiting,8.127348842593255
+44349,44349@1616409306.000000,waiting > in_progress > validation > waiting,4.824687291667969
+44675,44675@1616080261.608000,waiting > in_progress > waiting,0.16502062500075057
+44439,44439@1615362608.905000,waiting > in_progress > waiting,2.417824058621018e-05
+40820,40820@1620119411.000000,waiting > resolved > pending_deployment > in_progress > validation > resolved > pending_deployment > waiting,216.1128654861119
+44190,44190@1615275207.841000,waiting > in_progress > resolved > closed > reopened > in_progress > resolved > resolved_under_monitoring > in_progress > validation > in_progress > waiting,26.994296446759943
+44190,44190@1617273736.000000,waiting > in_progress > validation > in_progress > waiting,22.172492928240036
+34096,34096@1595321865.632000,waiting > in_progress > validation > in_progress > resolved > pending_deployment > resolved > resolved_under_monitoring > in_progress > waiting,177.0084169560174
+34096,34096@1599047361.572000,waiting > in_progress > waiting,9.512856956019446
+34096,34096@1608075568.967000,waiting > in_progress > resolved > pending_deployment > in_progress > waiting,91.86280218749963
+44862,44862@1616425478.000000,waiting > in_progress > waiting,5.23374836805518
+44566,44566@1615715431.981000,waiting > in_progress > waiting,0.0015903472210522052
+1000730,1000730@1623140985.000000,waiting > in_progress > validation > waiting,15.023784722222222
+1000730,1000730@1623310005.000000,waiting > pending_deployment > validation > waiting,1.9562268518518517
+43898,43898@1617515932.000000,waiting > in_progress > waiting,9.95861111111111
+44020,44020@1612961908.891000,waiting > in_progress > waiting,8.120367685186642
+44020,44020@1615719675.126000,waiting > in_progress > waiting,27.835030868053437
+44020,44020@1615877758.582000,waiting > in_progress > waiting,0.8065274884248221
+44020,44020@1619330169.000000,waiting > pending_deployment > waiting,5.767858796296296
+43145,43145@1613027650.672000,waiting > in_progress > waiting,43.77002460648064
+45312,45312@1617016551.000000,waiting > validation > waiting,1.0790856481481481
+1000765,1000765@1622704169.000000,waiting > resolved > waiting,1.9727199074074073
+1001012,1001012@1623938309.000000,waiting > validation > waiting,4.0392013888888885
+1000183,1000183@1620198856.000000,waiting > closed > reopened > waiting,0.05201388888888889
+45011,45011@1618990683.000000,waiting > in_progress > resolved > waiting,1.0366435185185185
+1000051,1000051@1617012347.000000,waiting > in_progress > waiting,0.16414351851851852
+1000333,1000333@1618820909.000000,waiting > open > waiting,1.1574074074074073e-05
+1000328,1000328@1620540052.000000,waiting > in_progress > pending_deployment > in_progress > waiting,17.981435185185184
+1000270,1000270@1618810860.000000,waiting > in_progress > waiting,0.0007523148148148148
+1000270,1000270@1618816855.000000,waiting > in_progress > waiting,0.020752314814814814
+44893,44893@1616336242.000000,waiting > in_progress > waiting,0.19083333333333333
+44893,44893@1617017890.000000,waiting > in_progress > waiting,4.6296296296296294e-05
+1000304,1000304@1631426044.000000,waiting > in_progress > waiting,76.76207175925926
+1000356,1000356@1619681613.000000,waiting > resolved_under_monitoring > resolved > resolved_under_monitoring > waiting,0.00028935185185185184
+44087,44087@1612935899.517000,waiting > in_progress > waiting,0.0439162152784842
+44087,44087@1615193670.141000,waiting > in_progress > waiting,0.870880740740233
+1000872,1000872@1623931827.000000,waiting > resolved > validation > waiting,16.08246527777778
+43742,43742@1614007218.779000,waiting > in_progress > waiting,0.21235122685355168
+43742,43742@1622012225.000000,waiting > resolved > closed > reopened > in_progress > waiting,3.0445023148148147
+43742,43742@1624256810.000000,waiting > in_progress > waiting,25.914953703703702
+43742,43742@1626071988.000000,waiting > resolved_under_monitoring > waiting,19.907858796296296
+1000213,1000213@1621263074.000000,waiting > in_progress > waiting,15.2221875
+1000909,1000909@1623112968.000000,waiting > in_progress > waiting,0.0001273148148148148
+1000511,1000511@1620115498.000000,waiting > in_progress > waiting,3.472222222222222e-05
+1000552,1000552@1621260663.000000,waiting > in_progress > waiting,0.01355324074074074
+1001085,1001085@1626350765.000000,waiting > resolved > waiting,3.1186226851851853
+1000586,1000586@1622449735.000000,waiting > validation > waiting,13.085902777777777
+1000612,1000612@1624785469.000000,waiting > validation > resolved > in_progress > waiting,41.87148148148148
+1000620,1000620@1621153385.000000,waiting > in_progress > waiting,0.023726851851851853
+1000823,1000823@1623328794.000000,waiting > validation > waiting,10.181203703703703
+1000823,1000823@1623670144.000000,waiting > validation > waiting,0.8965509259259259
+1001581,1001581@1626162180.000000,waiting > in_progress > waiting,0.0010763888888888889
+1000856,1000856@1623310249.000000,waiting > validation > waiting,10.99335648148148
+1000648,1000648@1629700266.000000,waiting > resolved_under_monitoring > in_progress > validation > waiting,20.864814814814814
+1000657,1000657@1623328571.000000,waiting > resolved > validation > waiting,2.153726851851852
+1002240,1002240@1631709849.000000,waiting > validation > waiting,7.21
+1002240,1002240@1632058567.000000,waiting > validation > waiting,0.012372685185185184
+1000084,1000084@1621857879.000000,waiting > in_progress > resolved > waiting,1.1088194444444444
+1000658,1000658@1621238256.000000,waiting > in_progress > waiting,0.07488425925925926
+1001024,1001024@1624787521.000000,waiting > validation > waiting,12.037939814814814
+1001024,1001024@1630315933.000000,waiting > pending_deployment > resolved > validation > waiting,62.114270833333336
+43769,43769@1616573725.000000,waiting > in_progress > waiting,50.9452818287026
+1000805,1000805@1621931118.000000,waiting > in_progress > waiting,0.000462962962962963
+1000805,1000805@1621933704.000000,waiting > in_progress > waiting,0.026296296296296297
+1000797,1000797@1623309780.000000,waiting > resolved > waiting,8.970740740740741
+1000208,1000208@1622096031.000000,waiting > resolved_under_monitoring > closed > reopened > validation > waiting,37.78199074074074
+1000811,1000811@1622096159.000000,waiting > in_progress > waiting,1.0138425925925927
+1000943,1000943@1623310418.000000,waiting > resolved > waiting,0.027569444444444445
+1000671,1000671@1622358537.000000,waiting > in_progress > waiting,3.7447685185185184
+1000671,1000671@1622976392.000000,waiting > resolved > waiting,6.199363425925926
+43730,43730@1612686189.131000,waiting > in_progress > validation > in_progress > waiting,5.722839317131374
+1001116,1001116@1625144506.000000,waiting > in_progress > waiting,0.26385416666666667
+1001051,1001051@1623593438.000000,waiting > in_progress > waiting,0.007268518518518519
+1001051,1001051@1624953982.000000,waiting > validation > waiting,14.739918981481482
+1001121,1001121@1629095787.000000,waiting > pending_deployment > resolved > waiting,48.71883101851852
+1001090,1001090@1624257164.000000,waiting > in_progress > waiting,4.846215277777778
+1000052,1000052@1617529753.000000,waiting > in_progress > waiting,3.8663541666666665
+1000052,1000052@1618485520.000000,waiting > validation > waiting,2.2305787037037037
+1001264,1001264@1624439044.000000,waiting > in_progress > waiting,0.045474537037037036
+1001211,1001211@1626070912.000000,waiting > closed > reopened > waiting,1.0198726851851851
+1001395,1001395@1626176505.000000,waiting > validation > waiting,12.972013888888888
+1002284,1002284@1632985706.000000,waiting > pending_deployment > waiting,3.029675925925926
+32077,32077@1548252725.562000,waiting > in_progress > waiting,1.229166708610676e-05
+32077,32077@1551977541.492000,waiting > in_progress > waiting,30.328868171296737
+32077,32077@1577693735.249000,waiting > in_progress > waiting,217.4562868402788
+32077,32077@1589919397.425000,waiting > resolved > resolved_under_monitoring > in_progress > waiting,36.59704549768457
+32077,32077@1597830976.448000,waiting > resolved > closed > reopened > in_progress > waiting,0.1271259953688692
+32077,32077@1625013598.000000,waiting > resolved > resolved_under_monitoring > waiting,310.57033457176
+44130,44130@1615899282.351000,waiting > in_progress > validation > in_progress > waiting,33.129648888889285
+1001621,1001621@1628593355.000000,waiting > validation > waiting,4.846608796296296
+1001625,1001625@1626525058.000000,waiting > in_progress > waiting,0.11918981481481482
+1001377,1001377@1625141209.000000,waiting > in_progress > waiting,1.9373032407407407
+1001260,1001260@1624851814.000000,waiting > in_progress > waiting,4.837939814814815
+1001451,1001451@1625659122.000000,waiting > validation > waiting,2.063252314814815
+1001450,1001450@1625659150.000000,waiting > validation > waiting,2.00912037037037
+1001777,1001777@1632119519.000000,waiting > in_progress > waiting,8.56773148148148
+1002404,1002404@1632205695.000000,waiting > in_progress > waiting,9.572858796296297
+43918,43918@1612255911.022000,waiting > in_progress > waiting,1.0646302777777115
+43918,43918@1612868713.875000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > waiting,7.041529479167528
+43918,43918@1615278707.839000,waiting > in_progress > validation > in_progress > waiting,22.04431097222147
+1001863,1001863@1629623780.000000,waiting > validation > waiting,4.130763888888889
+1001863,1001863@1629631730.000000,waiting > in_progress > waiting,0.06888888888888889
+1002330,1002330@1631180563.000000,waiting > validation > waiting,1.0842013888888888
+1000205,1000205@1618294573.000000,waiting > in_progress > waiting,4.734120370370371
+1000205,1000205@1619503595.000000,waiting > resolved_under_monitoring > in_progress > waiting,12.958530092592593
+1000205,1000205@1628398990.000000,waiting > closed > waiting,102.41086805555555
+39642,39642@1600002977.521000,waiting > in_progress > waiting,32.97419997685209
+1001905,1001905@1630221540.000000,waiting > resolved > waiting,20.88398148148148
+1002191,1002191@1630318898.000000,waiting > in_progress > waiting,0.1109837962962963
+1001370,1001370@1625380372.000000,waiting > validation > waiting,4.805046296296296
+1001370,1001370@1625739710.000000,waiting > validation > waiting,0.9352199074074075
+1001370,1001370@1629611293.000000,waiting > validation > waiting,20.79252314814815
+1002021,1002021@1629108477.000000,waiting > in_progress > waiting,2.3148148148148147e-05
+1002072,1002072@1631618772.000000,waiting > in_progress > waiting,22.979849537037037
+1002303,1002303@1631448659.000000,waiting > validation > waiting,4.187048611111111
+1002433,1002433@1631606271.000000,waiting > validation > waiting,0.004270833333333333
+1002433,1002433@1631709849.000000,waiting > validation > waiting,1.1967592592592593
+1002433,1002433@1632058570.000000,waiting > validation > waiting,0.012349537037037037
+40885,40885@1603613250.915000,waiting > in_progress > waiting,18.028591249999074
+40885,40885@1604832553.566000,waiting > in_progress > validation > in_progress > waiting,6.835797916667329
+40885,40885@1609661513.754000,waiting > in_progress > validation > in_progress > resolved > resolved_under_monitoring > closed > reopened > in_progress > waiting,54.75124966435134
+40885,40885@1624258717.000000,waiting > in_progress > waiting,139.8466514930543
+1002095,1002095@1629717011.000000,waiting > pending_deployment > waiting,0.004872685185185185
+1002095,1002095@1631085943.000000,waiting > pending_deployment > validation > waiting,8.76824074074074
+1002261,1002261@1631086105.000000,waiting > closed > waiting,0.0006018518518518519
+1002215,1002215@1631085945.000000,waiting > pending_deployment > validation > waiting,8.768298611111112
+1002366,1002366@1631448665.000000,waiting > validation > waiting,0.0010763888888888889
+1002366,1002366@1631606274.000000,waiting > validation > waiting,0.004247685185185185
+1002366,1002366@1631770692.000000,waiting > validation > waiting,1.9009375
+1002366,1002366@1632058567.000000,waiting > validation > waiting,0.012372685185185184
+1002379,1002379@1631448657.000000,waiting > validation > waiting,0.0010185185185185184
+1002891,1002891@1634105208.000000,waiting > in_progress > waiting,0.6586458333333334
+1002803,1002803@1633511868.000000,waiting > pending_deployment > waiting,0.0010416666666666667
+1002803,1002803@1633513392.000000,waiting > pending_deployment > waiting,0.017604166666666667
+1002455,1002455@1634196404.000000,waiting > closed > reopened > pending_deployment > resolved_under_monitoring > waiting,8.845324074074075
+1002455,1002455@1635315836.000000,waiting > closed > reopened > in_progress > waiting,7.00556712962963
+1002510,1002510@1632058722.000000,waiting > validation > waiting,3.284224537037037
+1002719,1002719@1632991636.000000,waiting > validation > waiting,0.0060185185185185185
+1002719,1002719@1633511528.000000,waiting > in_progress > waiting,5.809664351851852
+1002719,1002719@1633511868.000000,waiting > pending_deployment > waiting,0.0009837962962962962
+1002719,1002719@1633513395.000000,waiting > pending_deployment > waiting,0.01761574074074074
+1002529,1002529@1632058580.000000,waiting > validation > waiting,0.012349537037037037
+1001041,1001041@1624797736.000000,waiting > validation > waiting,6.968796296296296
+1001041,1001041@1624966851.000000,waiting > validation > waiting,0.07565972222222223
+1001041,1001041@1631599688.000000,waiting > validation > pending_deployment > resolved > resolved_under_monitoring > waiting,69.92206018518519
+1001041,1001041@1632053744.000000,waiting > validation > waiting,3.9119907407407406
+1002001,1002001@1630418160.000000,waiting > validation > waiting,16.143796296296298
+1002382,1002382@1631087782.000000,waiting > validation > waiting,0.010347222222222223
+1002382,1002382@1631180554.000000,waiting > validation > waiting,0.0007986111111111112
+1002382,1002382@1631448654.000000,waiting > validation > waiting,0.0010069444444444444
+1002382,1002382@1631770690.000000,waiting > validation > waiting,1.9072337962962962
+1002382,1002382@1632058567.000000,waiting > validation > waiting,0.012349537037037037
+1002280,1002280@1632200412.000000,waiting > closed > reopened > waiting,0.00018518518518518518
+1002692,1002692@1633335858.000000,waiting > in_progress > waiting,1.1259837962962962
+1003135,1003135@1635401259.000000,waiting > resolved > waiting,0.00015046296296296297
+1002519,1002519@1632058575.000000,waiting > validation > waiting,0.01238425925925926
+1002669,1002669@1632387296.000000,waiting > in_progress > waiting,0.02505787037037037
+1002831,1002831@1633511204.000000,waiting > closed > waiting,0.002962962962962963
+1002831,1002831@1633511858.000000,waiting > pending_deployment > waiting,0.0009490740740740741
+1002831,1002831@1633513387.000000,waiting > pending_deployment > waiting,0.017430555555555557
+1002841,1002841@1633933322.000000,waiting > in_progress > waiting,5.709965277777778
+1002733,1002733@1634026027.000000,waiting > in_progress > waiting,0.0016782407407407408
+1003024,1003024@1634717420.000000,waiting > in_progress > waiting,0.0437962962962963
+1003191,1003191@1635749565.000000,waiting > in_progress > waiting,0.7294675925925926
+1003330,1003330@1636447925.000000,waiting > in_progress > waiting,0.8051967592592593
+1003330,1003330@1636884778.000000,waiting > validation > waiting,3.974537037037037
+1003330,1003330@1638181496.000000,waiting > pending_deployment > waiting,3.8777314814814816
+1002673,1002673@1633511868.000000,waiting > validation > in_progress > waiting,6.027164351851852
+1002673,1002673@1634542557.000000,waiting > pending_deployment > resolved_under_monitoring > waiting,11.929085648148147
+1002602,1002602@1635327036.000000,waiting > resolved > validation > waiting,15.158078703703703
+1002602,1002602@1637047627.000000,waiting > validation > waiting,5.885868055555555
+1002602,1002602@1640156196.000000,waiting > validation > waiting,30.874305555555555
+1002636,1002636@1633330519.000000,waiting > in_progress > waiting,7.00519675925926
+1002636,1002636@1636962514.000000,waiting > in_progress > waiting,39.76173611111111
+1002636,1002636@1638092759.000000,waiting > resolved_under_monitoring > closed > reopened > in_progress > waiting,10.925324074074075
+1006116,1006116@1650790752.000000,waiting > resolved_under_monitoring > closed > reopened > waiting,5.062222222222222
+1004534,1004534@1642498134.000000,waiting > in_progress > waiting,0.8139120370370371
+1005143,1005143@1647238556.000000,waiting > pending_deployment > waiting,15.012986111111111
+1005143,1005143@1647788453.000000,waiting > in_progress > waiting,4.368298611111111
+1003938,1003938@1639920419.000000,waiting > validation > waiting,0.3244675925925926
+1008000,1008000@1664963374.000000,waiting > in_progress > resolved_under_monitoring > in_progress > waiting,50.87221064814815
+1008000,1008000@1665643467.000000,waiting > in_progress > waiting,1.0006365740740741
+1008000,1008000@1669038267.000000,waiting > in_progress > waiting,15.036030092592593
+1008000,1008000@1670233805.000000,waiting > in_progress > waiting,5.0834375
+1003941,1003941@1641390402.000000,waiting > validation > waiting,0.93875
+1006328,1006328@1652594898.000000,waiting > pending_deployment > waiting,6.882893518518519
+1003954,1003954@1642062766.000000,waiting > resolved_under_monitoring > resolved > closed > reopened > in_progress > waiting,24.81658564814815
+1005630,1005630@1647943447.000000,waiting > in_progress > waiting,1.305636574074074
+1006390,1006390@1653982967.000000,waiting > validation > waiting,22.005891203703705
+1007343,1007343@1658735791.000000,waiting > in_progress > waiting,4.931145833333333
+1006557,1006557@1654582961.000000,waiting > pending_deployment > waiting,13.797025462962964
+1007472,1007472@1657688738.000000,waiting > in_progress > waiting,0.01615740740740741
+1006282,1006282@1655099768.000000,waiting > closed > reopened > waiting,0.005405092592592592
+1006932,1006932@1658378369.000000,waiting > validation > pending_deployment > waiting,31.57232638888889
+1005564,1005564@1648447266.000000,waiting > in_progress > validation > waiting,13.856516203703704
+1012015,1012015@1677584164.000000,waiting > resolved > waiting,4.936354166666667
+1006440,1006440@1652184222.000000,waiting > in_progress > waiting,0.03309027777777778
+1006440,1006440@1652691069.000000,waiting > in_progress > waiting,4.880902777777778
+1011405,1011405@1676359432.000000,waiting > in_progress > validation > waiting,15.711469907407407
+1008416,1008416@1671077187.000000,waiting > in_progress > waiting,5.942268518518518
+1008416,1008416@1675840362.000000,waiting > validation > closed > waiting,48.00482638888889
+1007278,1007278@1657094988.000000,waiting > resolved_under_monitoring > in_progress > waiting,2.8316898148148146
+1008178,1008178@1664175749.000000,waiting > in_progress > validation > in_progress > validation > pending_deployment > validation > resolved > in_progress > validation > waiting,34.773032407407406
+1007043,1007043@1655822224.000000,waiting > validation > waiting,2.090023148148148
+1007366,1007366@1659849417.000000,waiting > resolved_under_monitoring > in_progress > validation > waiting,18.011944444444445
+1007366,1007366@1661777729.000000,waiting > in_progress > validation > in_progress > waiting,19.99767361111111
+1007160,1007160@1655907605.000000,waiting > closed > reopened > waiting,0.00525462962962963
+1006503,1006503@1652938559.000000,waiting > in_progress > resolved > waiting,3.963935185185185
+1006872,1006872@1655209164.000000,waiting > resolved_under_monitoring > waiting,0.6307638888888889
+1006872,1006872@1655733208.000000,waiting > validation > waiting,0.9590277777777778
+1006516,1006516@1653305286.000000,waiting > validation > waiting,5.108912037037037
+1006758,1006758@1659418359.000000,waiting > validation > waiting,60.98886574074074
+1006758,1006758@1668578086.000000,waiting > resolved > validation > waiting,100.96371527777778
+1006758,1006758@1675332606.000000,waiting > validation > resolved > waiting,56.98894675925926
+1006758,1006758@1676365932.000000,waiting > validation > waiting,5.797326388888889
+1006346,1006346@1652692977.000000,waiting > in_progress > waiting,1.0899768518518518
+1006696,1006696@1656856533.000000,waiting > validation > pending_deployment > resolved > validation > waiting,20.051666666666666
+1006696,1006696@1658102514.000000,waiting > in_progress > validation > pending_deployment > waiting,13.50173611111111
+1006848,1006848@1655209280.000000,waiting > resolved_under_monitoring > waiting,0.6320601851851851
+1006593,1006593@1655209148.000000,waiting > resolved_under_monitoring > waiting,0.6303819444444444
+1006162,1006162@1652256638.000000,waiting > validation > pending_deployment > waiting,3.0414930555555557
+1005768,1005768@1655040259.000000,waiting > validation > waiting,0.0017939814814814815
+1004974,1004974@1655040205.000000,waiting > validation > waiting,0.000625
+1007478,1007478@1659585448.000000,waiting > in_progress > waiting,17.903310185185184
+1007478,1007478@1667278789.000000,waiting > in_progress > resolved > resolved_under_monitoring > in_progress > resolved_under_monitoring > in_progress > waiting,82.02908564814815
+1006836,1006836@1657000323.000000,waiting > validation > waiting,5.635717592592592
+1006418,1006418@1653393301.000000,waiting > resolved > closed > reopened > closed > reopened > waiting,14.05599537037037
+1006418,1006418@1654774327.000000,waiting > pending_deployment > reopened > in_progress > pending_deployment > waiting,15.153194444444445
+1007611,1007611@1660485716.000000,waiting > in_progress > waiting,2.997037037037037
+1007611,1007611@1663072075.000000,waiting > in_progress > waiting,7.169444444444444
+1007790,1007790@1663842798.000000,waiting > in_progress > waiting,7.951134259259259
+1008179,1008179@1662029362.000000,waiting > in_progress > waiting,0.216875
+1008179,1008179@1664110184.000000,waiting > in_progress > waiting,6.306655092592592
+1007094,1007094@1655731486.000000,waiting > validation > waiting,0.9204629629629629
+1006140,1006140@1654007945.000000,waiting > in_progress > waiting,6.944444444444444e-05
+1006835,1006835@1656508472.000000,waiting > closed > reopened > waiting,10.337800925925926
+1006835,1006835@1657015902.000000,waiting > validation > waiting,5.820092592592593
+1006268,1006268@1652341200.000000,waiting > in_progress > waiting,1.7852546296296297
+1006268,1006268@1652856640.000000,waiting > in_progress > pending_deployment > validation > waiting,2.8860995370370373
+1007098,1007098@1655639261.000000,waiting > in_progress > waiting,2.304097222222222
+1003483,1003483@1641192696.000000,waiting > validation > waiting,20.84712962962963
+1003483,1003483@1643788574.000000,waiting > validation > waiting,24.03789351851852
+1003483,1003483@1645006910.000000,waiting > resolved > closed > reopened > waiting,0.0008101851851851852
+1003483,1003483@1646140927.000000,waiting > validation > waiting,6.940648148148148
+1008887,1008887@1667905293.000000,waiting > in_progress > validation > pending_deployment > waiting,41.21045138888889
+1008887,1008887@1668500921.000000,waiting > in_progress > waiting,2.0158449074074074
+1006142,1006142@1652000140.000000,waiting > in_progress > waiting,17.27402777777778
+1006142,1006142@1652337767.000000,waiting > in_progress > waiting,1.745162037037037
+1006142,1006142@1652767700.000000,waiting > in_progress > waiting,4.752824074074074
+1006142,1006142@1653401363.000000,waiting > resolved > closed > reopened > waiting,0.2808912037037037
+1006142,1006142@1655186152.000000,waiting > in_progress > waiting,1.9905439814814814
+1006142,1006142@1658406096.000000,waiting > in_progress > waiting,24.165810185185187
+1003847,1003847@1642498146.000000,waiting > closed > reopened > validation > waiting,35.791296296296295
+1003847,1003847@1657777390.000000,waiting > validation > in_progress > pending_deployment > validation > waiting,176.72076388888888
+1008659,1008659@1663593837.000000,waiting > in_progress > waiting,0.9548148148148148
+1008659,1008659@1664086842.000000,waiting > in_progress > waiting,5.7053009259259255
+1008660,1008660@1663594040.000000,waiting > in_progress > waiting,3.9935300925925925
+1003216,1003216@1636269691.000000,waiting > validation > waiting,4.025740740740741
+1003216,1003216@1636962786.000000,waiting > validation > waiting,7.952037037037037
+1003216,1003216@1637047737.000000,waiting > in_progress > waiting,0.7172222222222222
+1003216,1003216@1638256331.000000,waiting > validation > waiting,13.822986111111112
+1003216,1003216@1639984556.000000,waiting > validation > waiting,13.012905092592593
+1003216,1003216@1642498142.000000,waiting > validation > in_progress > waiting,28.082546296296297
+1011073,1011073@1678771802.000000,waiting > validation > waiting,28.842997685185185
+1006668,1006668@1655209314.000000,waiting > resolved_under_monitoring > waiting,0.6323611111111112
+1006668,1006668@1656229160.000000,waiting > validation > waiting,6.680532407407408
+1007391,1007391@1660459042.000000,waiting > in_progress > validation > waiting,23.799837962962965
+1007391,1007391@1660741012.000000,waiting > in_progress > validation > waiting,1.0756944444444445
+1007766,1007766@1659251252.000000,waiting > resolved > closed > reopened > waiting,0.0004050925925925926
+1008319,1008319@1662898160.000000,waiting > resolved > waiting,11.24943287037037
+1008678,1008678@1665464434.000000,waiting > in_progress > validation > waiting,20.94527777777778
+1008678,1008678@1668605925.000000,waiting > validation > waiting,8.309641203703704
+1007231,1007231@1656606939.000000,waiting > resolved_under_monitoring > in_progress > waiting,1.51875
+1006366,1006366@1653894725.000000,waiting > validation > waiting,19.93712962962963
+1007408,1007408@1658813504.000000,waiting > in_progress > waiting,6.945810185185185
+1006746,1006746@1654520714.000000,waiting > in_progress > waiting,4.290648148148148
+1006746,1006746@1655209243.000000,waiting > resolved_under_monitoring > waiting,0.6315856481481481
+1006746,1006746@1656229186.000000,waiting > closed > waiting,0.0052893518518518515
+1007600,1007600@1660228088.000000,waiting > validation > waiting,16.077175925925925
+1005614,1005614@1651055600.000000,waiting > in_progress > waiting,24.054768518518518
+1005614,1005614@1656231687.000000,waiting > validation > waiting,2.853715277777778
+1009252,1009252@1666536214.000000,waiting > pending_deployment > waiting,0.39782407407407405
+1008594,1008594@1663674087.000000,waiting > in_progress > waiting,2.274224537037037
+1008713,1008713@1665556623.000000,waiting > in_progress > pending_deployment > waiting,20.815798611111113
+1008723,1008723@1664199316.000000,waiting > validation > waiting,6.209849537037037
+1007123,1007123@1662893978.000000,waiting > in_progress > waiting,48.163460648148146
+1007703,1007703@1667712534.000000,waiting > resolved > resolved_under_monitoring > in_progress > validation > in_progress > waiting,45.01909722222222
+1003111,1003111@1663567883.000000,waiting > closed > in_progress > waiting,101.0742013888889
+1009416,1009416@1666696575.000000,waiting > resolved > waiting,0.040983796296296296
+1007643,1007643@1660656521.000000,waiting > in_progress > validation > in_progress > waiting,21.279710648148146
+1006558,1006558@1656229162.000000,waiting > resolved_under_monitoring > waiting,12.435243055555556
+1006558,1006558@1659246066.000000,waiting > resolved_under_monitoring > waiting,10.035532407407407
+1002177,1002177@1631102348.000000,waiting > in_progress > validation > waiting,6.297129629629629
+1002177,1002177@1631443918.000000,waiting > in_progress > waiting,0.12447916666666667
+1002177,1002177@1631768512.000000,waiting > in_progress > waiting,3.6324189814814813
+1007784,1007784@1663585816.000000,waiting > resolved_under_monitoring > pending_deployment > resolved_under_monitoring > waiting,35.94396990740741
+1008629,1008629@1664460849.000000,waiting > pending_deployment > waiting,11.566747685185184
+1006583,1006583@1656229182.000000,waiting > resolved_under_monitoring > waiting,12.436284722222222
+1006583,1006583@1659246016.000000,waiting > resolved_under_monitoring > waiting,26.83369212962963
+1007805,1007805@1659337988.000000,waiting > in_progress > waiting,0.06324074074074074
+1011465,1011465@1675226437.000000,waiting > in_progress > waiting,2.727048611111111
+1006883,1006883@1655732158.000000,waiting > in_progress > under_review > in_review > validation > waiting,13.193101851851852
+1008502,1008502@1662891720.000000,waiting > validation > waiting,3.1636689814814813
+1009353,1009353@1666771917.000000,waiting > resolved > waiting,0.9908217592592593
+1008020,1008020@1660546350.000000,waiting > resolved > validation > waiting,0.04057870370370371
+1008020,1008020@1660636945.000000,waiting > resolved > waiting,0.042916666666666665
+1008509,1008509@1663055737.000000,waiting > resolved > waiting,0.0031134259259259257
+1007970,1007970@1660219704.000000,waiting > in_progress > waiting,1.985439814814815
+1007970,1007970@1660542751.000000,waiting > resolved_under_monitoring > waiting,0.704837962962963
+1007261,1007261@1657511793.000000,waiting > in_progress > waiting,4.972627314814815
+1007261,1007261@1660459983.000000,waiting > pending_deployment > resolved_under_monitoring > in_progress > validation > waiting,29.867337962962964
+1007261,1007261@1661240721.000000,waiting > in_progress > validation > waiting,0.8010300925925926
+1010791,1010791@1672904469.000000,waiting > validation > waiting,4.6938657407407405
+1007903,1007903@1671432131.000000,waiting > resolved > pending_deployment > resolved_under_monitoring > in_progress > waiting,18.77625
+1009339,1009339@1668326614.000000,waiting > in_progress > waiting,6.8099537037037035
+1008059,1008059@1660639821.000000,waiting > in_progress > waiting,0.8857407407407407
+1008059,1008059@1660724176.000000,waiting > in_progress > waiting,0.7967708333333333
+1008926,1008926@1665915333.000000,waiting > validation > waiting,11.870104166666666
+1007878,1007878@1660630269.000000,waiting > validation > waiting,0.9304050925925926
+1007878,1007878@1661065970.000000,waiting > validation > waiting,0.0005324074074074074
+1007878,1007878@1661081928.000000,waiting > validation > waiting,0.1842824074074074
+1007878,1007878@1664273838.000000,waiting > pending_deployment > waiting,30.09402777777778
+1008015,1008015@1660257049.000000,waiting > pending_deployment > waiting,0.3832175925925926
+1007263,1007263@1661828347.000000,waiting > in_progress > validation > pending_deployment > waiting,57.561527777777776
+1008959,1008959@1664978002.000000,waiting > in_progress > waiting,0.9720138888888888
+1008959,1008959@1667744749.000000,waiting > in_progress > waiting,0.06598379629629629
+1007518,1007518@1664283400.000000,waiting > resolved > validation > resolved > closed > reopened > pending_deployment > waiting,62.04148148148148
+1009087,1009087@1665487350.000000,waiting > in_progress > waiting,1.908425925925926
+1008044,1008044@1662456457.000000,waiting > in_progress > waiting,7.102951388888889
+1008730,1008730@1663680387.000000,waiting > in_progress > waiting,0.3143518518518518
+1007753,1007753@1660542120.000000,waiting > resolved_under_monitoring > waiting,0.6974421296296296
+1008931,1008931@1666865469.000000,waiting > in_progress > waiting,0.09971064814814815
+1008897,1008897@1666611725.000000,waiting > resolved > waiting,0.005613425925925926
+1008010,1008010@1660546384.000000,waiting > resolved > validation > waiting,0.04107638888888889
+1008010,1008010@1660655754.000000,waiting > validation > waiting,1.2605671296296297
+1008010,1008010@1661171527.000000,waiting > validation > waiting,0.25546296296296295
+1008010,1008010@1663585820.000000,waiting > pending_deployment > waiting,21.139756944444443
+1008010,1008010@1664273026.000000,waiting > pending_deployment > waiting,5.920949074074074
+1007997,1007997@1660546389.000000,waiting > resolved > validation > waiting,0.04127314814814815
+1008852,1008852@1665290573.000000,waiting > in_progress > waiting,11.945706018518518
+1008852,1008852@1667101610.000000,waiting > resolved > in_progress > validation > in_progress > pending_deployment > resolved_under_monitoring > in_progress > waiting,19.448946759259258
+1008852,1008852@1667967997.000000,waiting > in_progress > waiting,9.916180555555556
+1008852,1008852@1668314887.000000,waiting > in_progress > waiting,3.794988425925926
+1008852,1008852@1670331535.000000,waiting > closed > reopened > in_progress > waiting,1.344861111111111
+1008852,1008852@1670849249.000000,waiting > in_progress > waiting,0.29359953703703706
+1008852,1008852@1672118555.000000,waiting > resolved_under_monitoring > closed > reopened > waiting,13.866006944444445
+1008852,1008852@1673780089.000000,waiting > in_progress > waiting,19.03758101851852
+1008852,1008852@1676175721.000000,waiting > in_progress > waiting,25.677222222222223
+1008295,1008295@1662618192.000000,waiting > in_progress > waiting,0.2763888888888889
+1007152,1007152@1673257729.000000,waiting > validation > waiting,160.05519675925925
+1009015,1009015@1665392459.000000,waiting > in_progress > waiting,0.14967592592592593
+1008403,1008403@1662895990.000000,waiting > in_progress > waiting,6.950856481481481
+1008403,1008403@1662898182.000000,waiting > closed > waiting,0.005335648148148148
+1008228,1008228@1662014991.000000,waiting > pending_deployment > open > waiting,2.958900462962963
+1008037,1008037@1660542094.000000,waiting > resolved_under_monitoring > waiting,0.6972916666666666
+1008037,1008037@1660542582.000000,waiting > in_progress > waiting,0.003715277777777778
+1008037,1008037@1660542730.000000,waiting > validation > waiting,0.0006597222222222222
+1008037,1008037@1660546316.000000,waiting > resolved > validation > waiting,0.04048611111111111
+1008037,1008037@1660546878.000000,waiting > validation > waiting,0.0006828703703703704
+1008209,1008209@1661264611.000000,waiting > validation > waiting,0.10413194444444444
+1006015,1006015@1662709144.000000,waiting > in_progress > validation > waiting,141.8249074074074
+1011746,1011746@1676560369.000000,waiting > validation > waiting,4.080324074074074
+1008154,1008154@1661068532.000000,waiting > in_progress > waiting,0.008391203703703705
+1008238,1008238@1661748542.000000,waiting > in_progress > waiting,0.9912731481481482
+1008238,1008238@1663076199.000000,waiting > in_progress > waiting,13.180844907407407
+1008063,1008063@1660654970.000000,waiting > in_progress > resolved > waiting,0.20798611111111112
+1009855,1009855@1668432423.000000,waiting > pending_deployment > resolved > waiting,0.021909722222222223
+1008360,1008360@1663744983.000000,waiting > in_progress > waiting,9.918530092592592
+1010014,1010014@1670768928.000000,waiting > validation > waiting,14.067060185185186
+1008369,1008369@1662898157.000000,waiting > in_progress > waiting,11.05681712962963
+1008366,1008366@1661938504.000000,waiting > in_progress > waiting,0.0029976851851851853
+1008432,1008432@1664950707.000000,waiting > in_progress > waiting,21.779050925925926
+1009933,1009933@1669023372.000000,waiting > resolved > waiting,0.0038425925925925928
+1009933,1009933@1669023418.000000,waiting > pending_deployment > waiting,0.00030092592592592595
+1008555,1008555@1662878604.000000,waiting > in_progress > waiting,0.014074074074074074
+1009714,1009714@1669196079.000000,waiting > in_progress > waiting,1.0754861111111111
+1009714,1009714@1669271331.000000,waiting > resolved > waiting,0.7653587962962963
+1009198,1009198@1666611711.000000,waiting > resolved > waiting,0.005717592592592593
+1008192,1008192@1661926439.000000,waiting > pending_deployment > waiting,1.9339583333333332
+1008192,1008192@1662898167.000000,waiting > validation > resolved_under_monitoring > waiting,11.067314814814814
+1008307,1008307@1662295430.000000,waiting > resolved > waiting,4.273344907407408
+1008307,1008307@1662898178.000000,waiting > in_progress > waiting,6.9761342592592595
+1008381,1008381@1669111926.000000,waiting > in_progress > waiting,28.803032407407407
+1007945,1007945@1662877214.000000,waiting > validation > waiting,24.64560185185185
+1007945,1007945@1663071945.000000,waiting > validation > under_review > waiting,0.16336805555555556
+1008902,1008902@1665317761.000000,waiting > in_progress > waiting,11.094375
+1008902,1008902@1665392010.000000,waiting > in_progress > waiting,4.6296296296296294e-05
+1008902,1008902@1667365045.000000,waiting > in_progress > validation > in_progress > waiting,21.731909722222223
+1008902,1008902@1667451851.000000,waiting > in_progress > resolved > waiting,0.7899768518518518
+1009113,1009113@1665667902.000000,waiting > in_progress > waiting,1.306898148148148
+1009113,1009113@1667206491.000000,waiting > in_progress > waiting,15.051388888888889
+1009113,1009113@1668516424.000000,waiting > in_progress > waiting,8.998229166666667
+1009113,1009113@1669124781.000000,waiting > in_progress > waiting,0.24866898148148148
+1009080,1009080@1665478124.000000,waiting > resolved > waiting,0.993287037037037
+1008675,1008675@1663492161.000000,waiting > resolved_under_monitoring > waiting,0.0016550925925925926
+1008675,1008675@1664223594.000000,waiting > pending_deployment > waiting,0.285474537037037
+1009355,1009355@1666611710.000000,waiting > resolved > waiting,0.005300925925925926
+1007010,1007010@1655731532.000000,waiting > resolved_under_monitoring > waiting,6.05005787037037
+1007010,1007010@1663585796.000000,waiting > resolved_under_monitoring > pending_deployment > waiting,84.97008101851851
+1009384,1009384@1667302061.000000,waiting > validation > waiting,7.064907407407407
+1008789,1008789@1664106132.000000,waiting > validation > waiting,0.005277777777777778
+1007520,1007520@1661234520.000000,waiting > in_progress > waiting,32.114953703703705
+1009125,1009125@1665959074.000000,waiting > pending_deployment > waiting,0.4101388888888889
+1009165,1009165@1667221661.000000,waiting > under_review > validation > waiting,18.200300925925927
+1009166,1009166@1665646268.000000,waiting > in_progress > validation > waiting,1.0355902777777777
+1009166,1009166@1667445916.000000,waiting > in_progress > validation > in_progress > validation > in_progress > pending_deployment > waiting,20.80527777777778
+1008089,1008089@1660655594.000000,waiting > resolved > waiting,0.0038657407407407408
+1008089,1008089@1661843854.000000,waiting > pending_deployment > waiting,0.9781481481481481
+1009154,1009154@1666611711.000000,waiting > resolved > waiting,0.005543981481481481
+1009182,1009182@1668468406.000000,waiting > pending_deployment > waiting,13.487847222222221
+1011239,1011239@1677662594.000000,waiting > validation > waiting,36.78201388888889
+1011471,1011471@1676450313.000000,waiting > in_progress > validation > waiting,2.085891203703704
+1009292,1009292@1667287475.000000,waiting > validation > waiting,7.037094907407408
+1009295,1009295@1666611711.000000,waiting > validation > resolved > waiting,5.959918981481482
+1009295,1009295@1667209582.000000,waiting > validation > waiting,5.019699074074074
+1009295,1009295@1670375302.000000,waiting > pending_deployment > waiting,12.522534722222222
+1009179,1009179@1666611711.000000,waiting > resolved > waiting,0.005625
+1008838,1008838@1666086378.000000,waiting > resolved > waiting,0.00625
+1009699,1009699@1667819749.000000,waiting > in_progress > waiting,0.002534722222222222
+1009392,1009392@1666611710.000000,waiting > resolved > waiting,0.005706018518518518
+1007771,1007771@1660112959.000000,waiting > in_progress > waiting,7.000439814814815
+1007771,1007771@1663770641.000000,waiting > cancelled > closed > reopened > waiting,10.222118055555555
+1009051,1009051@1665319516.000000,waiting > validation > waiting,4.129664351851852
+1009079,1009079@1665478190.000000,waiting > resolved > waiting,0.9940046296296297
+1009079,1009079@1666086340.000000,waiting > resolved > waiting,0.005856481481481482
+1009079,1009079@1666611712.000000,waiting > resolved > waiting,0.00537037037037037
+1010400,1010400@1671621653.000000,waiting > in_progress > waiting,2.9214699074074075
+1009312,1009312@1669631012.000000,waiting > resolved > validation > waiting,20.046238425925925
+1011903,1011903@1677054129.000000,waiting > validation > waiting,1.951875
+1009317,1009317@1666515056.000000,waiting > validation > waiting,3.786724537037037
+1008712,1008712@1669721438.000000,waiting > in_progress > validation > waiting,18.988854166666666
+1009634,1009634@1668419164.000000,waiting > resolved > waiting,0.024270833333333332
+1009634,1009634@1669023571.000000,waiting > resolved > waiting,0.003298611111111111
+1010518,1010518@1671006512.000000,waiting > resolved > waiting,0.0045138888888888885
+1007420,1007420@1660709663.000000,waiting > in_progress > waiting,0.8394212962962962
+1008098,1008098@1663568196.000000,waiting > validation > waiting,32.014837962962964
+1008098,1008098@1667197544.000000,waiting > validation > waiting,7.900104166666667
+1008098,1008098@1667743800.000000,waiting > validation > to_do > in_progress > waiting,3.149097222222222
+1008098,1008098@1668486491.000000,waiting > resolved_under_monitoring > in_progress > validation > in_progress > waiting,5.935625
+1008195,1008195@1663135498.000000,waiting > in_progress > waiting,2.7628587962962965
+1008195,1008195@1664437799.000000,waiting > in_progress > waiting,1.0743171296296297
+1009808,1009808@1670135488.000000,waiting > validation > waiting,10.80386574074074
+1009808,1009808@1670222536.000000,waiting > resolved > waiting,0.0001388888888888889
+1009487,1009487@1669611746.000000,waiting > validation > waiting,23.757638888888888
+1007295,1007295@1662967623.000000,waiting > pending_deployment > waiting,5.715798611111111
+1009722,1009722@1669707991.000000,waiting > validation > waiting,16.03322916666667
+1009687,1009687@1668419161.000000,waiting > resolved > waiting,0.024224537037037037
+1009687,1009687@1669023560.000000,waiting > resolved > waiting,0.0028819444444444444
+1010351,1010351@1671352433.000000,waiting > in_progress > waiting,6.100011574074074
+1010389,1010389@1671006530.000000,waiting > resolved > closed > resolved > waiting,0.004768518518518518
+1008191,1008191@1662898170.000000,waiting > pending_deployment > waiting,13.180868055555555
+1008191,1008191@1666086300.000000,waiting > resolved > waiting,0.005567129629629629
+1008191,1008191@1670450268.000000,waiting > resolved > waiting,6.314375
+1010795,1010795@1674483842.000000,waiting > validation > waiting,20.274722222222223
+1009917,1009917@1672151608.000000,waiting > validation > pending_deployment > waiting,30.33271990740741
+1009917,1009917@1672360672.000000,waiting > validation > waiting,0.0002314814814814815
+1010685,1010685@1678019135.000000,waiting > validation > waiting,52.95166666666667
+1009868,1009868@1668572164.000000,waiting > in_progress > waiting,0.6592476851851852
+1009868,1009868@1670217375.000000,waiting > in_progress > resolved_under_monitoring > waiting,18.034097222222222
+1006363,1006363@1654507682.000000,waiting > validation > waiting,19.89707175925926
+1006363,1006363@1656229178.000000,waiting > validation > waiting,6.035833333333334
+1006363,1006363@1664876698.000000,waiting > pending_deployment > waiting,36.080358796296295
+1009740,1009740@1668419160.000000,waiting > resolved > waiting,0.023958333333333335
+1010058,1010058@1669904154.000000,waiting > validation > waiting,3.2103703703703705
+1009660,1009660@1668419163.000000,waiting > resolved > waiting,0.024039351851851853
+1009455,1009455@1668419188.000000,waiting > resolved > closed > waiting,0.024479166666666666
+1004859,1004859@1648968490.000000,waiting > validation > waiting,31.0378125
+1004859,1004859@1656920158.000000,waiting > validation > waiting,33.07622685185185
+1004859,1004859@1659592690.000000,waiting > validation > waiting,6.9826041666666665
+1004859,1004859@1662539865.000000,waiting > validation > waiting,10.1140625
+1009995,1009995@1669128420.000000,waiting > validation > waiting,1.024351851851852
+1009995,1009995@1669286931.000000,waiting > in_progress > waiting,0.013888888888888888
+1010970,1010970@1673157208.000000,waiting > validation > waiting,2.8896527777777776
+1011507,1011507@1675830752.000000,waiting > in_progress > validation > waiting,1.9888541666666666
+1011507,1011507@1677048724.000000,waiting > in_progress > waiting,1.0898495370370371
+1010318,1010318@1670397294.000000,waiting > validation > waiting,0.008067129629629629
+1009589,1009589@1668419161.000000,waiting > resolved > waiting,0.023877314814814816
+1009589,1009589@1669023579.000000,waiting > resolved > waiting,0.0033796296296296296
+1011049,1011049@1673792756.000000,waiting > validation > waiting,5.441678240740741
+1008396,1008396@1666611714.000000,waiting > validation > resolved > waiting,34.07678240740741
+1007880,1007880@1671000867.000000,waiting > validation > waiting,131.91158564814816
+1010043,1010043@1673515674.000000,waiting > in_progress > waiting,38.88119212962963
+1009937,1009937@1669098250.000000,waiting > in_progress > validation > waiting,4.929756944444445
+1008544,1008544@1667388006.000000,waiting > in_progress > waiting,20.984502314814815
+1008544,1008544@1669011990.000000,waiting > resolved_under_monitoring > in_progress > waiting,6.9933101851851855
+1010396,1010396@1672919230.000000,waiting > closed > reopened > waiting,0.0010532407407407407
+1009462,1009462@1668419163.000000,waiting > resolved > waiting,0.02428240740740741
+1009560,1009560@1668418601.000000,waiting > resolved > waiting,0.017638888888888888
+1009560,1009560@1669038665.000000,waiting > resolved > waiting,0.1779050925925926
+1008774,1008774@1664281210.000000,waiting > in_progress > waiting,6.036793981481481
+1008774,1008774@1666086404.000000,waiting > resolved > waiting,0.006458333333333333
+1008774,1008774@1666611711.000000,waiting > validation > resolved > waiting,5.941458333333333
+1010327,1010327@1670495403.000000,waiting > validation > in_progress > waiting,1.8957407407407407
+1005771,1005771@1655040254.000000,waiting > validation > waiting,0.0018171296296296297
+1006065,1006065@1659849866.000000,waiting > pending_deployment > in_progress > waiting,11.92837962962963
+1006065,1006065@1663567189.000000,waiting > in_progress > validation > waiting,42.89972222222222
+1006065,1006065@1663567554.000000,waiting > validation > waiting,0.001724537037037037
+1006065,1006065@1665318261.000000,waiting > in_progress > waiting,17.303993055555555
+1006065,1006065@1665910230.000000,waiting > in_progress > waiting,0.201875
+1006065,1006065@1667304626.000000,waiting > in_progress > pending_deployment > in_progress > validation > waiting,15.317453703703704
+1006065,1006065@1668411292.000000,waiting > resolved > in_progress > resolved_under_monitoring > validation > in_progress > resolved > waiting,12.060069444444444
+1006065,1006065@1669709764.000000,waiting > pending_deployment > waiting,14.132974537037038
+1006065,1006065@1670140069.000000,waiting > in_progress > waiting,4.9275115740740745
+1010951,1010951@1676450296.000000,waiting > in_progress > waiting,2.945497685185185
+1009661,1009661@1668419163.000000,waiting > resolved > waiting,0.024212962962962964
+1009661,1009661@1669023524.000000,waiting > resolved > waiting,0.002766203703703704
+1009661,1009661@1670750722.000000,waiting > validation > waiting,9.818194444444444
+1009327,1009327@1670474117.000000,waiting > resolved > in_progress > waiting,3.7474074074074073
+1009327,1009327@1671450707.000000,waiting > in_progress > waiting,0.0044907407407407405
+1004972,1004972@1655040197.000000,waiting > validation > waiting,0.000462962962962963
+1009691,1009691@1670505956.000000,waiting > pending_deployment > waiting,11.286782407407408
+1011363,1011363@1674475622.000000,waiting > in_progress > waiting,0.006689814814814815
+1009968,1009968@1670141207.000000,waiting > in_progress > waiting,4.924212962962963
+1011961,1011961@1676903151.000000,waiting > validation > waiting,1.008912037037037
+1010039,1010039@1672668373.000000,waiting > resolved > waiting,0.21810185185185185
+1012048,1012048@1676882785.000000,waiting > in_progress > waiting,0.0009027777777777777
+1008031,1008031@1660542734.000000,waiting > resolved_under_monitoring > in_progress > validation > waiting,0.7045949074074074
+1008031,1008031@1660546346.000000,waiting > resolved > validation > waiting,0.04068287037037037
+1008031,1008031@1664200139.000000,waiting > validation > pending_deployment > waiting,42.283738425925925
+1008031,1008031@1666086214.000000,waiting > resolved > waiting,0.004571759259259259
+1008031,1008031@1669893616.000000,waiting > pending_deployment > waiting,0.0016898148148148148
+1011548,1011548@1675249802.000000,waiting > in_progress > waiting,1.0588773148148147
+1010375,1010375@1671536344.000000,waiting > resolved_under_monitoring > waiting,9.280775462962962
+1006784,1006784@1659233984.000000,waiting > in_progress > validation > waiting,41.04739583333333
+1006784,1006784@1669031573.000000,waiting > in_progress > waiting,5.991157407407408
+1006784,1006784@1670163691.000000,waiting > in_progress > validation > waiting,7.626342592592593
+1007543,1007543@1660655573.000000,waiting > resolved_under_monitoring > waiting,1.297199074074074
+1007543,1007543@1662465287.000000,waiting > pending_deployment > waiting,8.170613425925925
+1007543,1007543@1670422582.000000,waiting > validation > waiting,2.097233796296296
+1007543,1007543@1670766478.000000,waiting > validation > waiting,0.08055555555555556
+1010057,1010057@1670823116.000000,waiting > validation > waiting,18.66142361111111
+1009745,1009745@1669023388.000000,waiting > resolved > waiting,0.0038773148148148148
+1009955,1009955@1669023405.000000,waiting > pending_deployment > waiting,0.00024305555555555555
+1009955,1009955@1671006538.000000,waiting > resolved > closed > waiting,0.003449074074074074
+1010506,1010506@1672834023.000000,waiting > validation > waiting,0.04002314814814815
+1010506,1010506@1673325681.000000,waiting > in_progress > waiting,0.8117476851851851
+1006005,1006005@1659494168.000000,waiting > pending_deployment > waiting,44.05677083333333
+1010936,1010936@1676191430.000000,waiting > in_progress > waiting,33.98008101851852
+1010305,1010305@1671623781.000000,waiting > in_progress > waiting,5.787037037037037e-05
+1010956,1010956@1672926657.000000,waiting > validation > waiting,0.9367013888888889
+1009024,1009024@1666792357.000000,waiting > in_progress > waiting,2.0472569444444444
+1009024,1009024@1668332036.000000,waiting > in_progress > waiting,13.02212962962963
+1010986,1010986@1673354108.000000,waiting > in_progress > waiting,1.9215856481481481
+1010937,1010937@1673325113.000000,waiting > in_progress > waiting,0.01273148148148148
+1011909,1011909@1676530365.000000,waiting > in_progress > waiting,0.8859143518518519
+1010959,1010959@1673792857.000000,waiting > in_progress > validation > waiting,10.102523148148148
+1011910,1011910@1677391481.000000,waiting > resolved_under_monitoring > in_progress > waiting,4.793252314814815
+1011910,1011910@1677492515.000000,waiting > in_progress > waiting,0.18818287037037038
+1010406,1010406@1672045659.000000,waiting > in_progress > resolved > closed > reopened > in_progress > waiting,12.873611111111112
+1010406,1010406@1674548959.000000,waiting > closed > reopened > in_progress > waiting,8.811273148148148
+1010406,1010406@1674635989.000000,waiting > in_progress > waiting,0.060856481481481484
+1010406,1010406@1675250948.000000,waiting > in_progress > waiting,3.2846527777777776
+1010586,1010586@1671357601.000000,waiting > in_progress > pending_deployment > waiting,0.002361111111111111
+1009704,1009704@1668419160.000000,waiting > resolved > waiting,0.023912037037037037
+1009704,1009704@1669023500.000000,waiting > resolved > waiting,0.0024305555555555556
+1009704,1009704@1670750667.000000,waiting > validation > waiting,9.817708333333334
+1009535,1009535@1668419164.000000,waiting > resolved > waiting,0.02409722222222222
+1009535,1009535@1669023711.000000,waiting > resolved > waiting,0.004768518518518518
+1009535,1009535@1669906339.000000,waiting > validation > resolved > waiting,0.045543981481481484
+1009701,1009701@1668419161.000000,waiting > validation > resolved > waiting,5.819421296296296
+1009701,1009701@1669023543.000000,waiting > resolved > waiting,0.0030092592592592593
+1008379,1008379@1666611712.000000,waiting > resolved > waiting,6.086655092592593
+1010664,1010664@1674071083.000000,waiting > validation > pending_deployment > waiting,22.393981481481482
+1010664,1010664@1677114120.000000,waiting > pending_deployment > waiting,14.6153125
+1010742,1010742@1675622333.000000,waiting > under_review > waiting,10.38263888888889
+1011202,1011202@1675319679.000000,waiting > resolved > pending_deployment > waiting,7.99568287037037
+1011519,1011519@1675083751.000000,waiting > resolved > waiting,0.0015162037037037036
+1011519,1011519@1675158079.000000,waiting > in_progress > waiting,0.856712962962963
+1010330,1010330@1672837182.000000,waiting > validation > waiting,0.0009953703703703704
+1011808,1011808@1676958922.000000,waiting > validation > waiting,1.7536805555555555
+1011808,1011808@1676966415.000000,waiting > validation > waiting,0.00016203703703703703
+1011617,1011617@1676349552.000000,waiting > in_progress > waiting,6.948784722222222
+1011670,1011670@1676467861.000000,waiting > under_review > validation > pending_deployment > waiting,9.063981481481482
+1008602,1008602@1666790369.000000,waiting > in_progress > waiting,21.50197916666667
+1011287,1011287@1675833783.000000,waiting > validation > waiting,2.8813425925925924
+1011309,1011309@1674380070.000000,waiting > in_progress > waiting,0.05371527777777778
+1011301,1011301@1674735363.000000,waiting > in_progress > waiting,2.9071064814814815
+1010367,1010367@1671018652.000000,waiting > in_progress > waiting,9.259259259259259e-05
+1011113,1011113@1675320476.000000,waiting > validation > pending_deployment > waiting,20.920266203703704
+1011588,1011588@1676834726.000000,waiting > validation > waiting,3.5049421296296295
+1012281,1012281@1678695662.000000,waiting > validation > waiting,6.9859837962962965
+1012282,1012282@1677754106.000000,waiting > in_progress > waiting,0.11583333333333333
+1011545,1011545@1675238856.000000,waiting > in_progress > validation > waiting,0.8375578703703703
+1009575,1009575@1668599828.000000,waiting > validation > waiting,8.211550925925925
+1012222,1012222@1677754132.000000,waiting > in_progress > waiting,0.09960648148148148
+1011531,1011531@1675860895.000000,waiting > in_progress > resolved_under_monitoring > in_progress > waiting,2.2931828703703703
+1011531,1011531@1677125862.000000,waiting > in_progress > waiting,6.817303240740741
+1011531,1011531@1677744374.000000,waiting > in_progress > waiting,1.9059953703703705
+1011534,1011534@1675780530.000000,waiting > resolved > waiting,8.058553240740741
+1011534,1011534@1675851412.000000,waiting > pending_deployment > waiting,0.0006828703703703704
+1007217,1007217@1658144959.000000,waiting > under_review > waiting,3.9340740740740743
+1011154,1011154@1673783576.000000,waiting > validation > waiting,0.15296296296296297
+1011680,1011680@1675847687.000000,waiting > validation > waiting,0.8498958333333333
+1011812,1011812@1676560072.000000,waiting > validation > waiting,4.09136574074074
+1011769,1011769@1676560233.000000,waiting > validation > waiting,4.086053240740741
+1010449,1010449@1675083868.000000,waiting > closed > reopened > waiting,0.010416666666666666
+1010404,1010404@1675340825.000000,waiting > closed > reopened > closed > waiting,49.28987268518519
+1008671,1008671@1664785578.000000,waiting > in_progress > waiting,3.751898148148148
+1008671,1008671@1667137809.000000,waiting > validation > waiting,24.552175925925926
+1008671,1008671@1672837112.000000,waiting > pending_deployment > resolved > in_progress > resolved > closed > reopened > waiting,65.96408564814814
+1011261,1011261@1674562153.000000,waiting > validation > waiting,1.9378587962962963
+1011478,1011478@1676374419.000000,waiting > pending_deployment > waiting,0.0026041666666666665
+1011478,1011478@1676374647.000000,waiting > validation > pending_deployment > waiting,0.0025578703703703705
+1011478,1011478@1676374694.000000,waiting > validation > waiting,0.00030092592592592595
+1011478,1011478@1676377173.000000,waiting > pending_deployment > validation > pending_deployment > waiting,0.026018518518518517
+1006342,1006342@1659620171.000000,waiting > validation > waiting,98.08570601851852
+1011376,1011376@1676379874.000000,waiting > in_progress > waiting,0.3463888888888889
+1007636,1007636@1670301133.000000,waiting > in_progress > waiting,48.63579861111111
+1011453,1011453@1675780534.000000,waiting > resolved > waiting,0.013333333333333334
+1011423,1011423@1676374422.000000,waiting > closed > waiting,0.008622685185185185
+1012106,1012106@1677056524.000000,waiting > in_progress > waiting,0.0052430555555555555
+1011995,1011995@1677586055.000000,waiting > in_progress > waiting,1.120625
+1011569,1011569@1676374420.000000,waiting > pending_deployment > waiting,0.002662037037037037
+1011569,1011569@1676374690.000000,waiting > validation > waiting,0.0030671296296296297
+1012010,1012010@1678179219.000000,waiting > in_progress > waiting,3.173773148148148
+1011576,1011576@1676467629.000000,waiting > under_review > validation > pending_deployment > waiting,9.180763888888889
+1011576,1011576@1677402018.000000,waiting > resolved > waiting,2.782303240740741
+1007004,1007004@1659962752.000000,waiting > validation > waiting,54.90614583333333
+1011951,1011951@1676809774.000000,waiting > in_progress > waiting,0.0025925925925925925
+1011625,1011625@1675780520.000000,waiting > resolved > waiting,0.013321759259259259
+1010887,1010887@1676374421.000000,waiting > pending_deployment > waiting,0.002777777777777778
+1010887,1010887@1676552290.000000,waiting > validation > pending_deployment > validation > waiting,2.058611111111111
+1010887,1010887@1678698573.000000,waiting > validation > waiting,0.8205555555555556
+1012052,1012052@1677681350.000000,waiting > resolved > waiting,1.2473032407407407
+1012079,1012079@1678689319.000000,waiting > in_progress > waiting,10.987685185185185
+1012007,1012007@1678365113.000000,waiting > in_progress > waiting,0.04394675925925926
+1012083,1012083@1677068117.000000,waiting > resolved > waiting,0.992824074074074
+1012084,1012084@1678114517.000000,waiting > validation > waiting,6.144490740740741
+1012445,1012445@1678340723.000000,waiting > in_progress > waiting,1.049849537037037
+1012445,1012445@1678790523.000000,waiting > in_progress > waiting,2.2403472222222223
+1011648,1011648@1675780482.000000,waiting > resolved > waiting,0.012835648148148148
+1011648,1011648@1675851116.000000,waiting > resolved > waiting,0.0008680555555555555
+1011648,1011648@1675851421.000000,waiting > pending_deployment > waiting,0.0006828703703703704
+1012181,1012181@1677477556.000000,waiting > in_progress > waiting,0.7442245370370371
+1009393,1009393@1674556661.000000,waiting > validation > waiting,61.9243287037037
+1009393,1009393@1675593257.000000,waiting > validation > waiting,11.021446759259259
+1012234,1012234@1678091229.000000,waiting > in_progress > resolved > waiting,0.027858796296296295
+1012489,1012489@1678580550.000000,waiting > in_progress > waiting,2.434270833333333
+1012232,1012232@1678111169.000000,waiting > resolved > closed > waiting,0.0012152777777777778
+1012452,1012452@1678695426.000000,waiting > in_progress > waiting,4.139155092592593
+1007088,1007088@1658667366.000000,waiting > in_review > validation > in_progress > waiting,18.11829861111111
+1007088,1007088@1678716397.000000,waiting > in_progress > validation > waiting,230.12112268518518

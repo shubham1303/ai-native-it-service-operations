@@ -1,0 +1,526 @@
+[
+  {
+    "issueid": "1004667",
+    "return_ts": 1643018862.0,
+    "next_state": "waiting",
+    "comments": [
+      {
+        "issueid": "1004667",
+        "id": "211718366",
+        "created_ts": 1643018803.0,
+        "author_role": "reporter",
+        "text": "  ph_user  bank has changed the logo and the brand. we need it change the old logo with the new one. the art work with different logo sizes are attached.",
+        "source_rows": "2248,2249,2250",
+        "period": "before"
+      },
+      {
+        "issueid": "1004667",
+        "id": "1049986",
+        "created_ts": 1643018814.0,
+        "author_role": "others",
+        "text": ". problem: . investigation and simulation: . development agile related issue : . solution: 1- did we resolve the problem and its symptoms? 2- did we understand and resolve the root cause of the problem? 3- will this problem appear at this customer or other customer site?",
+        "source_rows": "2251,2252,2253,2254,2255,2256,2257",
+        "period": "before"
+      },
+      {
+        "issueid": "1004667",
+        "id": "1049987",
+        "created_ts": 1643018818.0,
+        "author_role": "others",
+        "text": "to provide our best support the following policy for tickets waiting customer feedback, and tickets under monitoring will be applied - ph_name team will remind the customer every two working days, after the second reminder if no response, the ph_name team will escalate the ticket and inform the customer that the ticket will be closed by end of second week if no response received.",
+        "source_rows": "2258",
+        "period": "before"
+      },
+      {
+        "issueid": "1004667",
+        "id": "1049988",
+        "created_ts": 1643018881.0,
+        "author_role": "assignee",
+        "text": "greetings kindly be informed that your ticket has been assigned. regards, ph_name team",
+        "source_rows": "2259,2260,2261,2262",
+        "period": "at_or_after"
+      },
+      {
+        "issueid": "1004667",
+        "id": "1049989",
+        "created_ts": 1643019055.0,
+        "author_role": "others",
+        "text": "greetings kindly be informed that this ticket has been assigned to you. regards,  ph_user   ph_user  ph_user ph_user",
+        "source_rows": "2263,2264,2265,2266",
+        "period": "at_or_after"
+      },
+      {
+        "issueid": "1004667",
+        "id": "1049991",
+        "created_ts": 1643019280.0,
+        "author_role": "assignee",
+        "text": "dears ph_user noted we will check with ph_name team to do the needed. regards,",
+        "source_rows": "2267,2268,2269",
+        "period": "at_or_after"
+      },
+      {
+        "issueid": "1004667",
+        "id": "1050007",
+        "created_ts": 1643022048.0,
+        "author_role": "assignee",
+        "text": "greetings ph_user please suggest a time to connect and change the log together on the 2 application servers nodes bank ph_name ph_technical ph_technical regards,",
+        "source_rows": "2270,2271,2272,2273",
+        "period": "at_or_after"
+      }
+    ]
+  },
+  {
+    "issueid": "1006065",
+    "return_ts": 1668339225.0,
+    "next_state": "resolved",
+    "comments": [
+      {
+        "issueid": "1006065",
+        "id": "1103785",
+        "created_ts": 1668307001.0,
+        "author_role": "others",
+        "text": "greetings please update if we can deliver the permanent fix for password reset issue on ph_technical by today. regards,  ph_user   ph_user ",
+        "source_rows": "10733,10734,10735,10736",
+        "period": "before"
+      },
+      {
+        "issueid": "1006065",
+        "id": "1104159",
+        "created_ts": 1668411236.0,
+        "author_role": "others",
+        "text": "greetings please find the fixes for the password resetting issue. the fix is named as the ph_technical . do test these fixes in uat first and then move to production. there are two files attached inside the ph_technical file named as : ph_technical from ph_technical , extract the file ph_technical from the location ph_technical ph_path ph_technical replace file ph_technical thus extracted inside the ph_technical file in the location ph_technical ph_path ph_technical from ph_technical , extract the file ph_technical from the location ph_technical ph_path ph_technical replace file ph_technical thus extracted inside the ph_technical file in the location ph_technical ph_path ph_technical ph_technical is located inside ph_technical ph_technical ph_path ph_technical ph_technical is located inside ph_technical ph_technical ph_path ph_technical note : rollback last changes done in ph_technical, update  ph_user  value back to 'ph_technical' where ever we updated to 'im' last time please do let us know if there is any assistance required. regards,  ph_user   ph_user ",
+        "source_rows": "10737,10738,10739,10740,10741,10742,10743,10744,10745,10746",
+        "period": "at_or_after"
+      }
+    ]
+  },
+  {
+    "issueid": "1006849",
+    "return_ts": 1670408826.0,
+    "next_state": "resolved_under_monitoring",
+    "comments": [
+      {
+        "issueid": "1006849",
+        "id": "1109279",
+        "created_ts": 1670392300.0,
+        "author_role": "assignee",
+        "text": "greetings we are waiting for your confirmation to reflect the fix in the production environment. regards,  ph_user  ph_user",
+        "source_rows": "14548,14549,14550,14551,14552",
+        "period": "before"
+      },
+      {
+        "issueid": "1006849",
+        "id": "1109299",
+        "created_ts": 1670394283.0,
+        "author_role": "reporter",
+        "text": "greetings please note that yesterday i inform you that we do the needed test for outward and inward and no invalid file appear regards",
+        "source_rows": "14553,14554,14555",
+        "period": "before"
+      },
+      {
+        "issueid": "1006849",
+        "id": "1109300",
+        "created_ts": 1670394503.0,
+        "author_role": "others",
+        "text": "greetings we need your kind confirmation in order to reflect fix on the production so if you finalize the test and issue is not appear so please confirm ! thank you for your understanding. regards,  ph_user ",
+        "source_rows": "14556,14557,14558,14559,14560",
+        "period": "before"
+      },
+      {
+        "issueid": "1006849",
+        "id": "1109303",
+        "created_ts": 1670394648.0,
+        "author_role": "reporter",
+        "text": "greetings ph_user confirm regards",
+        "source_rows": "14561,14562,14563",
+        "period": "before"
+      },
+      {
+        "issueid": "1006849",
+        "id": "1109412",
+        "created_ts": 1670408940.0,
+        "author_role": "assignee",
+        "text": "greetings please provide us with a suitable time to reflect the fix in production. regards,  ph_user ",
+        "source_rows": "14564,14565,14566,14567",
+        "period": "at_or_after"
+      },
+      {
+        "issueid": "1006849",
+        "id": "1109413",
+        "created_ts": 1670409063.0,
+        "author_role": "reporter",
+        "text": "dears ph_user ph_user do you want to stop the system regards",
+        "source_rows": "14568,14569,14570",
+        "period": "at_or_after"
+      },
+      {
+        "issueid": "1006849",
+        "id": "1109574",
+        "created_ts": 1670480364.0,
+        "author_role": "reporter",
+        "text": "greetings waiting your reply please regards",
+        "source_rows": "14571,14572,14573",
+        "period": "at_or_after"
+      },
+      {
+        "issueid": "1006849",
+        "id": "1109577",
+        "created_ts": 1670480585.0,
+        "author_role": "others",
+        "text": "greetings no downtime its only touch ph_technical services . appreciate arrange with  ph_user  then get back to us . regards",
+        "source_rows": "14574,14575,14576,14577",
+        "period": "at_or_after"
+      },
+      {
+        "issueid": "1006849",
+        "id": "1109586",
+        "created_ts": 1670481606.0,
+        "author_role": "reporter",
+        "text": "dears ph_user ph_user ph_user ok for today @ 10:00 regards",
+        "source_rows": "14578,14579,14580",
+        "period": "at_or_after"
+      },
+      {
+        "issueid": "1006849",
+        "id": "1109623",
+        "created_ts": 1670485602.0,
+        "author_role": "assignee",
+        "text": "greetings please join the below session at 10:00 am ph_country time: ph_link regards,  ph_user  ph_user",
+        "source_rows": "14581,14582,14583,14584,14585,14586",
+        "period": "at_or_after"
+      },
+      {
+        "issueid": "1006849",
+        "id": "1109645",
+        "created_ts": 1670488243.0,
+        "author_role": "assignee",
+        "text": "greetings please note that we have reflected the fix on the production environment, we will keep the ticket resolved under monitoring till next sunday. greetings please note that next sunday we will reflect the fix on the main ph_technical server if the business user has confirmed the fix. regards,  ph_user  ph_user",
+        "source_rows": "14587,14588,14589,14590,14591,14592,14593",
+        "period": "at_or_after"
+      }
+    ]
+  },
+  {
+    "issueid": "1007244",
+    "return_ts": 1657084031.0,
+    "next_state": "waiting",
+    "comments": [
+      {
+        "issueid": "1007244",
+        "id": "1078605",
+        "created_ts": 1656930244.0,
+        "author_role": "reporter",
+        "text": "greetings please check it with high priority! ! since this is creating financial as well as reputational risk please give the fix urgently.",
+        "source_rows": "16540,16541,16542,16543",
+        "period": "before"
+      },
+      {
+        "issueid": "1007244",
+        "id": "1078755",
+        "created_ts": 1656993844.0,
+        "author_role": "assignee",
+        "text": "greetings ph_user . please update if the ph_technical intact issue is fixed after using the new cab. thank you  ph_user ",
+        "source_rows": "16544,16545,16546,16547",
+        "period": "before"
+      },
+      {
+        "issueid": "1007244",
+        "id": "1078756",
+        "created_ts": 1656995488.0,
+        "author_role": "reporter",
+        "text": "greetings we are checking this and have requested some banks to use new ph_technical, we will let you know. in between please provide the fix for data mismatch at earliest basis. thanks ,  ph_user ",
+        "source_rows": "16548,16549,16550,16551,16552",
+        "period": "before"
+      },
+      {
+        "issueid": "1007244",
+        "id": "1079038",
+        "created_ts": 1657084253.0,
+        "author_role": "assignee",
+        "text": "greetings ph_user as discussed in yesterday's meeting kindly implement the following trigger to avoid the update of the ph_technical customer name and trace further on the issue at the ph_technical table: ph_sql thank you  ph_user  ph_name",
+        "source_rows": "16553,16554,16555,16556,16557",
+        "period": "at_or_after"
+      },
+      {
+        "issueid": "1007244",
+        "id": "1079366",
+        "created_ts": 1657183191.0,
+        "author_role": "assignee",
+        "text": "greetings kindly let us know if any of the banks report such error being generated in the ui: ph_logs also, help to check if such exception is there in the application ph_path logs. thank you  ph_user ",
+        "source_rows": "16558,16559,16560,16561,16562,16563",
+        "period": "at_or_after"
+      },
+      {
+        "issueid": "1007244",
+        "id": "1079472",
+        "created_ts": 1657201540.0,
+        "author_role": "assignee",
+        "text": "greetings as we checked all the logs(bank application logs ph_path logs ph_path logs ph_path services logs), no such exception was found. so, i want to suggest to increase the log level for the  ph_user  service for few hours to check if the exception appears and again lower the log level once we are done. kindly provide your feedback as well. thank you  ph_user ",
+        "source_rows": "16564,16565,16566,16567,16568,16569",
+        "period": "at_or_after"
+      }
+    ]
+  },
+  {
+    "issueid": "1007244",
+    "return_ts": 1659848940.0,
+    "next_state": "resolved",
+    "comments": [
+      {
+        "issueid": "1007244",
+        "id": "1084369",
+        "created_ts": 1659847957.0,
+        "author_role": "reporter",
+        "text": "greetings please update.",
+        "source_rows": "16627,16628",
+        "period": "before"
+      },
+      {
+        "issueid": "1007244",
+        "id": "1084372",
+        "created_ts": 1659848869.0,
+        "author_role": "assignee",
+        "text": "greetings please find the attached file : ph_file and replace in the path ph_technical ph_path , please take backup before replacing. after replacing the file kindly test the ph_technical customer name mismatch in the master query exchange report and also verify the ph_items information report. also, let us know if there is mismatch in other section. kindly check in the test site first and then we can plan for the production. thank you  ph_user ",
+        "source_rows": "16629,16630,16631,16632,16633,16634,16635,16636",
+        "period": "before"
+      },
+      {
+        "issueid": "1007244",
+        "id": "1084832",
+        "created_ts": 1660020960.0,
+        "author_role": "reporter",
+        "text": "greetings as discussed the ph_technical name and pay name is not coming in inward master query report in test and also there is one extra section related to ph_technical ph_path name in report which is coming blank in both outward and inward report as attached in screenshot. thanks,  ph_user ",
+        "source_rows": "16637,16638,16639,16640",
+        "period": "at_or_after"
+      }
+    ]
+  },
+  {
+    "issueid": "1007291",
+    "return_ts": 1667307168.0,
+    "next_state": "validation",
+    "comments": [
+      {
+        "issueid": "1007291",
+        "id": "1101441",
+        "created_ts": 1667278897.0,
+        "author_role": "assignee",
+        "text": "greetings there is still no update yet on this issue. we are discussing this with dev team, will update you as soon as there is any update. thank you  ph_user ",
+        "source_rows": "17421,17422,17423,17424,17425",
+        "period": "before"
+      }
+    ]
+  },
+  {
+    "issueid": "1007291",
+    "return_ts": 1669797416.0,
+    "next_state": "waiting",
+    "comments": [
+      {
+        "issueid": "1007291",
+        "id": "1107333",
+        "created_ts": 1669693829.0,
+        "author_role": "assignee",
+        "text": "issue still under investigation at the development side. no updates yet.",
+        "source_rows": "17456,17457",
+        "period": "before"
+      },
+      {
+        "issueid": "1007291",
+        "id": "1107384",
+        "created_ts": 1669701449.0,
+        "author_role": "reporter",
+        "text": "greetings please update we have been waiting for this issue from very begining of our migration ,and we are getting this issue daily and its coming for newly created users as well. so please expedite and provide fix for this, update the users from database manually everytime is very risky task. so please escalate this issue now with high urgency. thanks,  ph_user ",
+        "source_rows": "17458,17459,17460,17461,17462",
+        "period": "before"
+      },
+      {
+        "issueid": "1007291",
+        "id": "1107847",
+        "created_ts": 1669797348.0,
+        "author_role": "assignee",
+        "text": "greetings please implement the following trigger in the shadow schema (bank side database), first test in the uat and then we could plan for the production. create or replace trigger ph_technical before insert or update on ph_technical referencing old as old new as new for each row ph_sql please let us know if any. thank you  ph_user ",
+        "source_rows": "17463,17464,17465,17466,17467,17468",
+        "period": "before"
+      }
+    ]
+  },
+  {
+    "issueid": "1007420",
+    "return_ts": 1665978156.0,
+    "next_state": "validation",
+    "comments": []
+  },
+  {
+    "issueid": "1007420",
+    "return_ts": 1666251831.0,
+    "next_state": "resolved",
+    "comments": [
+      {
+        "issueid": "1007420",
+        "id": "1098872",
+        "created_ts": 1666152785.0,
+        "author_role": "assignee",
+        "text": "we are working along with the  ph_user  for the solution to this issue.",
+        "source_rows": "18393",
+        "period": "before"
+      },
+      {
+        "issueid": "1007420",
+        "id": "1099176",
+        "created_ts": 1666252320.0,
+        "author_role": "assignee",
+        "text": "greetings please find the attached fix for the issue: ph_technical deployment steps: extract the zip file login the ph_technical as central application user in the uat. run the sql file ph_technical run the package: ph_technical run the package body: ph_technical make sure the above packages are compiled successfully. check and compile for any other invalid objects. do the testing required testing with these changes in the uat. if the testing is successful in the uat we could plan to implement the fix in the production. thank you  ph_user ",
+        "source_rows": "18394,18395,18396,18397,18398,18399,18400,18401,18402,18403",
+        "period": "at_or_after"
+      }
+    ]
+  },
+  {
+    "issueid": "1009151",
+    "return_ts": 1665901100.0,
+    "next_state": "waiting",
+    "comments": [
+      {
+        "issueid": "1009151",
+        "id": "1098000",
+        "created_ts": 1665901083.0,
+        "author_role": "assignee",
+        "text": "greetings kindly note that i uploaded the zip file named ph_file . we need to apply it first to the test environment and then to the production site. so we need your kind support to download it and then connect with you. best regards,  ph_user   ph_user ",
+        "source_rows": "25121,25122,25123,25124,25125,25126",
+        "period": "before"
+      },
+      {
+        "issueid": "1009151",
+        "id": "1098579",
+        "created_ts": 1666071396.0,
+        "author_role": "others",
+        "text": "greetings kindly send me webex session when you can apply the change on test environment. regards.",
+        "source_rows": "25127,25128,25129",
+        "period": "at_or_after"
+      },
+      {
+        "issueid": "1009151",
+        "id": "1098589",
+        "created_ts": 1666072681.0,
+        "author_role": "assignee",
+        "text": "greetings could you please join on the below webex link to apply it : ph_link ph_path ph_technical webex o best regards,  ph_user   ph_user ",
+        "source_rows": "25130,25131,25132,25133",
+        "period": "at_or_after"
+      },
+      {
+        "issueid": "1009151",
+        "id": "1098600",
+        "created_ts": 1666073788.0,
+        "author_role": "assignee",
+        "text": "greetings a kind reminder best regards,  ph_user   ph_user ",
+        "source_rows": "25134,25135,25136",
+        "period": "at_or_after"
+      }
+    ]
+  },
+  {
+    "issueid": "1009327",
+    "return_ts": 1672596139.0,
+    "next_state": "resolved",
+    "comments": [
+      {
+        "issueid": "1009327",
+        "id": "1113854",
+        "created_ts": 1672634414.0,
+        "author_role": "others",
+        "text": "greetings please find the fix for the issue. stop the bank side tomcat replace the file ph_technical inside the location: ph_technical ph_path ph_technical ph_path ph_technical restart the tomcat test by uploading a ph_items from image capture page by using name ph_name as ph_technical name run a full cycle testing note: first test the fix in uat and then move to production. do let us know if you need any assistance. regards,  ph_user   ph_user ",
+        "source_rows": "25608,25609,25610,25611,25612,25613,25614",
+        "period": "at_or_after"
+      }
+    ]
+  },
+  {
+    "issueid": "1010327",
+    "return_ts": 1670495395.0,
+    "next_state": "waiting",
+    "comments": [
+      {
+        "issueid": "1010327",
+        "id": "211723804",
+        "created_ts": 1670325836.0,
+        "author_role": "reporter",
+        "text": "system is not working on production environment, please join to collect the logs and address the root cause",
+        "source_rows": "29123",
+        "period": "before"
+      },
+      {
+        "issueid": "1010327",
+        "id": "1109139",
+        "created_ts": 1670325849.0,
+        "author_role": "others",
+        "text": "problem: investigation and simulation: development agile related issue : solution: 1- did we resolve the problem and its symptoms? 2- did we understand and resolve the root cause of the problem? 3- will this problem appear at this customer or other customer site?",
+        "source_rows": "29124,29125,29126,29127,29128,29129",
+        "period": "before"
+      },
+      {
+        "issueid": "1010327",
+        "id": "1109140",
+        "created_ts": 1670325853.0,
+        "author_role": "others",
+        "text": "to provide our best support the following policy for tickets waiting customer feedback, and tickets under monitoring will be applied ph_name team will remind the customer every two working days, after the second reminder if no response, the ph_name team will escalate the ticket and inform the customer that the ticket will be closed by end of second week if no response received.",
+        "source_rows": "29130,29131",
+        "period": "before"
+      },
+      {
+        "issueid": "1010327",
+        "id": "1109144",
+        "created_ts": 1670326218.0,
+        "author_role": "others",
+        "text": "greetings please note that your ticket has been assigned, please share a remote session to check this issue. best regards ph_name team",
+        "source_rows": "29132,29133,29134,29135",
+        "period": "before"
+      },
+      {
+        "issueid": "1010327",
+        "id": "1109152",
+        "created_ts": 1670327331.0,
+        "author_role": "reporter",
+        "text": "issue was due to block on ph_technical and resolved by killing the blocker session as per details sent by email . we need to address the root cause and fix it",
+        "source_rows": "29136,29137",
+        "period": "before"
+      },
+      {
+        "issueid": "1010327",
+        "id": "1109161",
+        "created_ts": 1670329098.0,
+        "author_role": "reporter",
+        "text": "attached as requested",
+        "source_rows": "29138",
+        "period": "before"
+      },
+      {
+        "issueid": "1010327",
+        "id": "1109171",
+        "created_ts": 1670331386.0,
+        "author_role": "assignee",
+        "text": "greetings kindly, we will check the reported issue and revert back to you the soonest. regards, helpdesk team",
+        "source_rows": "29139,29140,29141,29142",
+        "period": "before"
+      },
+      {
+        "issueid": "1010327",
+        "id": "1109176",
+        "created_ts": 1670331599.0,
+        "author_role": "assignee",
+        "text": "the same issue had been reported to dev team related old bug ph_link \u2026. the development is working on it",
+        "source_rows": "29143,29144",
+        "period": "before"
+      },
+      {
+        "issueid": "1010327",
+        "id": "1109734",
+        "created_ts": 1670501009.0,
+        "author_role": "others",
+        "text": "greetings the cause for this issue is related to request extra copy function on some specific evaluation request. accordingly, the issue is resolved on the new release kindly download it from the below url and copy it on test server to allow us to install it on test environment to ask the business user test it before rollout to production. ph_technical ph_link regards, ph_name team.",
+        "source_rows": "29145,29146,29147,29148,29149,29150,29151",
+        "period": "at_or_after"
+      }
+    ]
+  }
+]

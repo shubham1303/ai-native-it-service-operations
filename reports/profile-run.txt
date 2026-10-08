@@ -1,0 +1,254 @@
+{
+  "files": {
+    "holidays_by_country.csv": {
+      "rows": 4479,
+      "columns": 2,
+      "exact_duplicate_rows": 0
+    },
+    "issues.csv": {
+      "rows": 66691,
+      "columns": 58,
+      "exact_duplicate_rows": 0
+    },
+    "issues_change_history.csv": {
+      "rows": 257508,
+      "columns": 6,
+      "exact_duplicate_rows": 0
+    },
+    "issues_snapshot.csv": {
+      "rows": 90963,
+      "columns": 60,
+      "exact_duplicate_rows": 0
+    },
+    "sample_utterances.csv": {
+      "rows": 30104,
+      "columns": 9,
+      "exact_duplicate_rows": 0
+    }
+  },
+  "relational_checks": {
+    "history_orphans": [
+      {
+        "orphan_rows": 0,
+        "orphan_issues": 0
+      }
+    ],
+    "snapshot_orphans": [
+      {
+        "orphan_rows": 0
+      }
+    ],
+    "text_orphans": [
+      {
+        "orphan_rows": 0
+      }
+    ],
+    "issues_without_history": [
+      {
+        "issues": 41
+      }
+    ],
+    "history_coverage": [
+      {
+        "issues": 66650
+      }
+    ],
+    "snapshot_coverage": [
+      {
+        "issues": 66691
+      }
+    ],
+    "text_coverage": [
+      {
+        "issues": 360
+      }
+    ]
+  },
+  "issues_duplicate_keys": 0,
+  "history_duplicate_keys": 0,
+  "duration_quality": {
+    "negative_resolution_durations": 0,
+    "zero_resolution_durations": 0,
+    "missing_resolution": 853,
+    "resolution_over_365_days": 22414
+  },
+  "issue_created_by_year": {
+    "2007": 457,
+    "2008": 1103,
+    "2009": 2157,
+    "2010": 3133,
+    "2011": 2966,
+    "2012": 3071,
+    "2013": 2442,
+    "2014": 2845,
+    "2015": 5543,
+    "2016": 7053,
+    "2017": 5524,
+    "2018": 5712,
+    "2019": 5084,
+    "2020": 5470,
+    "2021": 5834,
+    "2022": 6542,
+    "2023": 1755
+  },
+  "status_rows_at_tied_timestamps": 164,
+  "status_cases_with_ties": 57,
+  "transition_scope": {
+    "cases": 66536,
+    "excluded_cases": 57,
+    "rows": 194282
+  },
+  "text": {
+    "unique_issues": 360,
+    "distinct_comments": 7286,
+    "blank_utterances": 23,
+    "placeholder_utterances": 11497
+  },
+  "appraisal_workbook": {
+    "Sheet1": {
+      "rows": 747,
+      "columns": [
+        "id",
+        "no",
+        "project",
+        "reporter",
+        "type",
+        "priority",
+        "contributors",
+        "turn_no",
+        "assignee",
+        "started",
+        "ended",
+        "spent hours",
+        "steps",
+        "comments count",
+        "valid",
+        "Q1",
+        "Q2",
+        "Q3",
+        "Notes"
+      ]
+    }
+  }
+}
+{
+  "Detail_Incident.csv": {
+    "rows": 46809,
+    "columns": [
+      "CI Name (aff)",
+      "CI Type (aff)",
+      "CI Subtype (aff)",
+      "Service Component WBS (aff)",
+      "Incident ID",
+      "Status",
+      "Impact",
+      "Urgency",
+      "Priority",
+      "Category",
+      "KM number",
+      "Alert Status",
+      "# Reassignments",
+      "Open Time",
+      "Reopen Time",
+      "Resolved Time",
+      "Close Time",
+      "Handle Time (Hours)",
+      "Closure Code",
+      "# Related Interactions",
+      "Related Interaction",
+      "# Related Incidents",
+      "# Related Changes",
+      "Related Change",
+      "CI Name (CBy)",
+      "CI Type (CBy)",
+      "CI Subtype (CBy)",
+      "ServiceComp WBS (CBy)",
+      "Unnamed: 28",
+      "Unnamed: 29",
+      "Unnamed: 30",
+      "Unnamed: 31",
+      "Unnamed: 32",
+      "Unnamed: 33",
+      "Unnamed: 34",
+      "Unnamed: 35",
+      "Unnamed: 36",
+      "Unnamed: 37",
+      "Unnamed: 38",
+      "Unnamed: 39",
+      "Unnamed: 40",
+      "Unnamed: 41",
+      "Unnamed: 42",
+      "Unnamed: 43",
+      "Unnamed: 44",
+      "Unnamed: 45",
+      "Unnamed: 46",
+      "Unnamed: 47",
+      "Unnamed: 48",
+      "Unnamed: 49",
+      "Unnamed: 50",
+      "Unnamed: 51",
+      "Unnamed: 52",
+      "Unnamed: 53",
+      "Unnamed: 54",
+      "Unnamed: 55",
+      "Unnamed: 56",
+      "Unnamed: 57",
+      "Unnamed: 58",
+      "Unnamed: 59",
+      "Unnamed: 60",
+      "Unnamed: 61",
+      "Unnamed: 62",
+      "Unnamed: 63",
+      "Unnamed: 64",
+      "Unnamed: 65",
+      "Unnamed: 66",
+      "Unnamed: 67",
+      "Unnamed: 68",
+      "Unnamed: 69",
+      "Unnamed: 70",
+      "Unnamed: 71",
+      "Unnamed: 72",
+      "Unnamed: 73",
+      "Unnamed: 74",
+      "Unnamed: 75",
+      "Unnamed: 76",
+      "Unnamed: 77"
+    ],
+    "blank_incident_rows": 203,
+    "unique_incidents": 46606
+  },
+  "Detail_Incident_Activity.csv": {
+    "rows": 466737,
+    "columns": [
+      "Incident ID",
+      "DateStamp",
+      "IncidentActivity_Number",
+      "IncidentActivity_Type",
+      "Assignment Group",
+      "KM number",
+      "Interaction ID"
+    ],
+    "blank_incident_rows": 0,
+    "unique_incidents": 46616
+  },
+  "BPI_Challenge_2013_incidents.xes.gz": {
+    "cases": 7554,
+    "events": 65533,
+    "trace_fields": [
+      "concept:name"
+    ],
+    "event_fields": [
+      "concept:name",
+      "impact",
+      "lifecycle:transition",
+      "org:group",
+      "org:resource",
+      "org:role",
+      "organization country",
+      "organization involved",
+      "product",
+      "resource country",
+      "time:timestamp"
+    ]
+  }
+}

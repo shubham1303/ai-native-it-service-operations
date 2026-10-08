@@ -1,0 +1,22 @@
+data/raw/**
+data/research/**
+data/staging/**
+data/analytical/**
+data/features/**
+__pycache__/
+.venv/
+.env
+*.db
+
+# personal stuff that ended up in this folder
+output/
+tmp/
+tools/
+
+# working notes, not part of the project
+docs/project-brief.md
+docs/project-state.md
+
+# big regenerated outputs (python scripts/validate_process.py rebuilds them)
+reports/milestone2/case-quality-register.csv
+reports/milestone2/unobserved-prefixes.csv

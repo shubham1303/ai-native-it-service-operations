@@ -1,0 +1,913 @@
+[
+  {
+    "issueid": "1008598",
+    "episode_id": "1008598@1664699336.000000",
+    "stratum": "long_repeat",
+    "days": 14.895300925925927,
+    "mechanisms": "technical dependency; coordination",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Clarify application/database responsibility",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "UAT/production schema and access questions remain; no established ready-to-act time or complete meeting record.",
+    "evidence": [
+      {
+        "comment_id": "1095304",
+        "source_rows": "23196,23197,23198",
+        "period": "before"
+      },
+      {
+        "comment_id": "1096613",
+        "source_rows": "23199,23200,23201,23202,23203,23204",
+        "period": "during"
+      },
+      {
+        "comment_id": "1098062",
+        "source_rows": "23236,23237,23238",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1008678",
+    "episode_id": "1008678@1665464434.000000",
+    "stratum": "long_repeat",
+    "days": 28.050208333333334,
+    "mechanisms": "missing artifact; testing confirmation",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Artifact collection and confirmation",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Production JAR requested and later collected; reminders already occur. Collection after exit corroborates context, not a pre-entry predictor.",
+    "evidence": [
+      {
+        "comment_id": "1097203",
+        "source_rows": "23898,23899,23900,23901,23902,23903,23904,23905,23906",
+        "period": "before"
+      },
+      {
+        "comment_id": "1098553",
+        "source_rows": "23907,23908,23909",
+        "period": "during"
+      },
+      {
+        "comment_id": "1102953",
+        "source_rows": "23930,23931,23932",
+        "period": "after"
+      }
+    ]
+  },
+  {
+    "issueid": "1005715",
+    "episode_id": "1005715@1649237539.000000",
+    "stratum": "long_repeat",
+    "days": 11.8921875,
+    "mechanisms": "customer testing; production approval; administrative closure",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Testing-to-confirmation communication",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Post-exit report says UAT completed and production approval pending; completion timestamp and approval need unknown.",
+    "evidence": [
+      {
+        "comment_id": "1063624",
+        "source_rows": "8036,8037,8038,8039,8040",
+        "period": "before"
+      },
+      {
+        "comment_id": "1063924",
+        "source_rows": "8045,8046,8047,8048,8049",
+        "period": "during"
+      },
+      {
+        "comment_id": "1065379",
+        "source_rows": "8058,8059,8060,8061",
+        "period": "during"
+      },
+      {
+        "comment_id": "1065592",
+        "source_rows": "8062,8063,8064,8065",
+        "period": "after"
+      }
+    ]
+  },
+  {
+    "issueid": "1010058",
+    "episode_id": "1010058@1669904154.000000",
+    "stratum": "long_repeat",
+    "days": 65.04585648148148,
+    "mechanisms": "access dependency; coordination; customer testing; administrative closure",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Dependency readiness and test confirmation",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Expanded full episode: access becomes available and UAT report can be reached, then business testing remains pending. One Waiting interval spans changing blockers; no evidence all 65 days were unnecessary.",
+    "evidence": [
+      {
+        "comment_id": "1108190",
+        "source_rows": "28184,28185,28186",
+        "period": "before"
+      },
+      {
+        "comment_id": "1110389",
+        "source_rows": "28247,28248,28249",
+        "period": "during"
+      },
+      {
+        "comment_id": "1112403",
+        "source_rows": "28263,28264,28265",
+        "period": "during"
+      },
+      {
+        "comment_id": "1114184",
+        "source_rows": "28266,28267",
+        "period": "during"
+      },
+      {
+        "comment_id": "1121152",
+        "source_rows": "28280,28281,28282",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1004368",
+    "episode_id": "1004368@1647509472.000000",
+    "stratum": "long_repeat",
+    "days": 65.9302199074074,
+    "mechanisms": "intermittent recurrence; missing logs; technical investigation",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Diagnostic artifact availability",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Cannot reproduce and must await recurrence; later log receipt does not establish earlier ability to provide them.",
+    "evidence": [
+      {
+        "comment_id": "1060323",
+        "source_rows": "684,685,686,687",
+        "period": "before"
+      },
+      {
+        "comment_id": "1060351",
+        "source_rows": "688",
+        "period": "during"
+      },
+      {
+        "comment_id": "1063595",
+        "source_rows": "693,694,695",
+        "period": "during"
+      },
+      {
+        "comment_id": "1070520",
+        "source_rows": "724,725",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1007739",
+    "episode_id": "1007739@1664888034.000000",
+    "stratum": "long_repeat",
+    "days": 20.079641203703705,
+    "mechanisms": "incorrect diagnostic artifact; transfer constraint; coordination; internal technical work",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Diagnostic collection readiness and cross-team coordination",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Expanded full episode: wrong log directory/dates, file-size objection, narrowed request already supplied, then extraction/infrastructure problems and internal investigation. No proven feasible faster collection route or available staff.",
+    "evidence": [
+      {
+        "comment_id": "1095949",
+        "source_rows": "20783,20784",
+        "period": "before"
+      },
+      {
+        "comment_id": "1096016",
+        "source_rows": "20785,20786,20787,20788",
+        "period": "before"
+      },
+      {
+        "comment_id": "1096543",
+        "source_rows": "20789,20790",
+        "period": "during"
+      },
+      {
+        "comment_id": "1096545",
+        "source_rows": "20791,20792,20793",
+        "period": "during"
+      },
+      {
+        "comment_id": "1097399",
+        "source_rows": "20797,20798,20799,20800",
+        "period": "during"
+      },
+      {
+        "comment_id": "1099917",
+        "source_rows": "20807,20808,20809,20810",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1009661",
+    "episode_id": "1009661@1667736673.000000",
+    "stratum": "long_repeat",
+    "days": 7.8749768518518515,
+    "mechanisms": "specification clarification; internal dependency",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "API specification completeness",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Masked required specification prevents checking completeness; elapsed time alone cannot identify responsible delay.",
+    "evidence": [
+      {
+        "comment_id": "1102436",
+        "source_rows": "27131,27132,27133,27134,27135,27136",
+        "period": "before"
+      },
+      {
+        "comment_id": "1102483",
+        "source_rows": "27141,27142,27143,27144",
+        "period": "during"
+      },
+      {
+        "comment_id": "1102620",
+        "source_rows": "27148,27149,27150,27151",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1007611",
+    "episode_id": "1007611@1658303160.000000",
+    "stratum": "long_repeat",
+    "days": 22.264027777777777,
+    "mechanisms": "coordination; access credentials; technical work",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Connection and access readiness",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Some wallet work applied while still Waiting; template saying resolved is not reliable restoration evidence.",
+    "evidence": [
+      {
+        "comment_id": "1081124",
+        "source_rows": "19840,19841,19842,19843",
+        "period": "before"
+      },
+      {
+        "comment_id": "1085282",
+        "source_rows": "19859,19860,19861,19862",
+        "period": "during"
+      },
+      {
+        "comment_id": "1085557",
+        "source_rows": "19872,19873,19874",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1004446",
+    "episode_id": "1004446@1641823715.000000",
+    "stratum": "long_single",
+    "days": 41.93238425925926,
+    "mechanisms": "coordination; technical investigation; customer confirmation",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Dependency ownership",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Session and ongoing investigation appear; reporter eventually permits closure. Masking prevents specific root cause and readiness determination.",
+    "evidence": [
+      {
+        "comment_id": "1047170",
+        "source_rows": "1673,1674,1675,1676",
+        "period": "before"
+      },
+      {
+        "comment_id": "1050570",
+        "source_rows": "1690",
+        "period": "during"
+      },
+      {
+        "comment_id": "1055964",
+        "source_rows": "1723,1724",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1005454",
+    "episode_id": "1005454@1648015908.000000",
+    "stratum": "long_single",
+    "days": 77.93989583333334,
+    "mechanisms": "scheduled activity; coordination",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Scheduling visibility",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Explicit rescheduling could be legitimate. Sparse later context and unknown activity completion time preclude classifying the long tail.",
+    "evidence": [
+      {
+        "comment_id": "1061533",
+        "source_rows": "6637,6638,6639,6640",
+        "period": "during"
+      },
+      {
+        "comment_id": "1065126",
+        "source_rows": "6653,6654,6655",
+        "period": "during"
+      },
+      {
+        "comment_id": "1073872",
+        "source_rows": "6656,6657,6658",
+        "period": "after"
+      }
+    ]
+  },
+  {
+    "issueid": "1004519",
+    "episode_id": "1004519@1642593516.000000",
+    "stratum": "long_single",
+    "days": 118.97200231481482,
+    "mechanisms": "diagnostic information; coordination; administrative closure",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Diagnostic capture readiness",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Request/response capture required; nonresponse closure is not verified technical restoration or proof of avoidable delay.",
+    "evidence": [
+      {
+        "comment_id": "1049176",
+        "source_rows": "1906,1907,1908,1909",
+        "period": "before"
+      },
+      {
+        "comment_id": "1049644",
+        "source_rows": "1910,1911,1912,1913,1914",
+        "period": "during"
+      },
+      {
+        "comment_id": "1070154",
+        "source_rows": "1986,1987,1988,1989",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1007580",
+    "episode_id": "1007580@1658752949.000000",
+    "stratum": "long_single",
+    "days": 12.82917824074074,
+    "mechanisms": "customer testing; confirmation",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Confirmation timing",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "No during-episode comments; post-exit phone reference reports resolution. Unrecorded call timing and customer work unknown.",
+    "evidence": [
+      {
+        "comment_id": "1082042",
+        "source_rows": "19815,19816,19817,19818,19819,19820,19821",
+        "period": "before"
+      },
+      {
+        "comment_id": "1084454",
+        "source_rows": "19822,19823,19824,19825",
+        "period": "after"
+      }
+    ]
+  },
+  {
+    "issueid": "1009250",
+    "episode_id": "1009250@1666009376.000000",
+    "stratum": "long_single",
+    "days": 10.843229166666667,
+    "mechanisms": "workaround implementation; confirmation",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Implementation confirmation",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Reminder asks whether workaround applied; no completion evidence or verified response standard. Template is not validated policy.",
+    "evidence": [
+      {
+        "comment_id": "1098504",
+        "source_rows": "25404,25405,25406,25407",
+        "period": "before"
+      },
+      {
+        "comment_id": "1099113",
+        "source_rows": "25408,25409,25410,25411,25412,25413",
+        "period": "during"
+      },
+      {
+        "comment_id": "1099900",
+        "source_rows": "25414,25415,25416",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1006856",
+    "episode_id": "1006856@1654503181.000000",
+    "stratum": "long_single",
+    "days": 37.09127314814815,
+    "mechanisms": "network dependency; migration testing; coordination; technical work",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Environment and connectivity readiness",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Connectivity eventually works but customer-message work remains. Scope-specific resolution does not establish total service restoration.",
+    "evidence": [
+      {
+        "comment_id": "1073229",
+        "source_rows": "14653,14654,14655,14656,14657",
+        "period": "during"
+      },
+      {
+        "comment_id": "1075779",
+        "source_rows": "14699,14700,14701,14702,14703",
+        "period": "during"
+      },
+      {
+        "comment_id": "1079797",
+        "source_rows": "14722,14723,14724,14725,14726,14727",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1004298",
+    "episode_id": "1004298@1641122283.000000",
+    "stratum": "long_single",
+    "days": 141.76539351851852,
+    "mechanisms": "incomplete report; certificate dependency; technical work; administrative closure",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Diagnostic scope and prerequisite clarity",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Mixed vulnerability/configuration work and certificate dependency; 46 during-episode comments, only four sampled. No blanket idleness claim.",
+    "evidence": [
+      {
+        "comment_id": "1045412",
+        "source_rows": "13,14",
+        "period": "before"
+      },
+      {
+        "comment_id": "1052693",
+        "source_rows": "66,67",
+        "period": "during"
+      },
+      {
+        "comment_id": "1070939",
+        "source_rows": "224,225",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1010303",
+    "episode_id": "1010303@1671518095.000000",
+    "stratum": "long_single",
+    "days": 23.291238425925926,
+    "mechanisms": "DBA action; requested output; administrative closure",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Cross-team evidence delivery",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "DBA script/output requested after app work; no proof of DBA availability, approval or actual script completion.",
+    "evidence": [
+      {
+        "comment_id": "1111953",
+        "source_rows": "28776,28777,28778,28779,28780",
+        "period": "during"
+      },
+      {
+        "comment_id": "1114980",
+        "source_rows": "28785,28786,28787,28788",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1007567",
+    "episode_id": "1007567@1661065120.000000",
+    "stratum": "short_repeat",
+    "days": 4.6296296296296294e-05,
+    "mechanisms": "customer testing; state-recording ambiguity",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "State/outcome meaning requires validation",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Four-second Waiting then Resolved although feedback still requested later. Not a substantive four-second operational queue.",
+    "evidence": [
+      {
+        "comment_id": "1087009",
+        "source_rows": "19659,19660,19661,19662,19663",
+        "period": "before"
+      },
+      {
+        "comment_id": "1087457",
+        "source_rows": "19664,19665,19666,19667,19668",
+        "period": "after"
+      }
+    ]
+  },
+  {
+    "issueid": "1008671",
+    "episode_id": "1008671@1664785578.000000",
+    "stratum": "short_repeat",
+    "days": 2.6727199074074073,
+    "mechanisms": "solution acceptance; internal development",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Agreed acceptance criteria",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Reporter rejects workaround, assignee identifies fix. Could be valid product requirement; no evidence it was feasible earlier.",
+    "evidence": [
+      {
+        "comment_id": "1095610",
+        "source_rows": "23724,23725,23726",
+        "period": "before"
+      },
+      {
+        "comment_id": "1095938",
+        "source_rows": "23727,23728",
+        "period": "during"
+      },
+      {
+        "comment_id": "1096371",
+        "source_rows": "23729,23730,23731,23732",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1007010",
+    "episode_id": "1007010@1655731532.000000",
+    "stratum": "short_repeat",
+    "days": 5.935752314814815,
+    "mechanisms": "monitoring; technical investigation; developer dependency",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Investigation ownership and diagnostic sufficiency",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Explicit uncertainty about root cause and request to monitor; developer work occurs while Waiting. Planned observation may be necessary.",
+    "evidence": [
+      {
+        "comment_id": "1076285",
+        "source_rows": "15086,15087,15088,15089,15090,15091,15092",
+        "period": "during"
+      },
+      {
+        "comment_id": "1076618",
+        "source_rows": "15093,15094,15095,15096,15097,15098",
+        "period": "during"
+      },
+      {
+        "comment_id": "1076941",
+        "source_rows": "15110,15111,15112,15113,15114,15115,15116,15117",
+        "period": "during"
+      },
+      {
+        "comment_id": "1076963",
+        "source_rows": "15118",
+        "period": "after"
+      }
+    ]
+  },
+  {
+    "issueid": "1006065",
+    "episode_id": "1006065@1667304626.000000",
+    "stratum": "short_repeat",
+    "days": 0.7485648148148148,
+    "mechanisms": "fix deployment; customer testing; monitoring",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Deployment confirmation timing",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Long pre-entry deployment instructions truncated in packet; only deployment/testing context inferred, not technical adequacy. Post-exit production change reported.",
+    "evidence": [
+      {
+        "comment_id": "1101631",
+        "source_rows": "10669,10670,10671,10672,10673,10674,10675,10676,10677,10678,10679,10680,10681,10682,10683,10684,10685,10686,10687,10688,10689,10690,10691,10692,10693,10694,10695,10696,10697,10698,10699,10700",
+        "period": "before"
+      },
+      {
+        "comment_id": "1101964",
+        "source_rows": "10701,10702,10703,10704,10705",
+        "period": "after"
+      }
+    ]
+  },
+  {
+    "issueid": "1008607",
+    "episode_id": "1008607@1664193113.000000",
+    "stratum": "short_repeat",
+    "days": 5.991886574074074,
+    "mechanisms": "testing feedback; development rework; third-party dependency",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Test failure and subsequent fix investigation",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Concrete error after UAT fix with requested redevelopment, but exact defect/ownership masked. Waiting-to-Validation, not necessarily the defined Validation-to-In-progress return.",
+    "evidence": [
+      {
+        "comment_id": "1094185",
+        "source_rows": "23317,23318,23319,23320,23321,23322",
+        "period": "before"
+      },
+      {
+        "comment_id": "1095272",
+        "source_rows": "23338,23339,23340,23341,23342,23343",
+        "period": "during"
+      },
+      {
+        "comment_id": "1095291",
+        "source_rows": "23347,23348,23349",
+        "period": "during"
+      },
+      {
+        "comment_id": "1095394",
+        "source_rows": "23354,23355,23356,23357",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1009327",
+    "episode_id": "1009327@1669872317.000000",
+    "stratum": "short_repeat",
+    "days": 3.2178703703703704,
+    "mechanisms": "change authorization; release coordination",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Change scope and release confirmation",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Broad redeployment consequences require confirmation; later release request corroborates dependency, not avoidability.",
+    "evidence": [
+      {
+        "comment_id": "1107904",
+        "source_rows": "25552,25553,25554,25555,25556,25557,25558,25559",
+        "period": "before"
+      },
+      {
+        "comment_id": "1108648",
+        "source_rows": "25560,25561,25562,25563",
+        "period": "after"
+      }
+    ]
+  },
+  {
+    "issueid": "1004444",
+    "episode_id": "1004444@1642059298.000000",
+    "stratum": "short_repeat",
+    "days": 0.1591087962962963,
+    "mechanisms": "session coordination; access dependency",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Test environment access readiness",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Dump available before entry, but post-exit message reports connection failure and deferred test access. Available information alone does not make action feasible.",
+    "evidence": [
+      {
+        "comment_id": "1047952",
+        "source_rows": "1500,1501,1502",
+        "period": "before"
+      },
+      {
+        "comment_id": "1047956",
+        "source_rows": "1503,1504,1505,1506,1507,1508",
+        "period": "before"
+      },
+      {
+        "comment_id": "1048059",
+        "source_rows": "1509,1510,1511,1512,1513",
+        "period": "after"
+      }
+    ]
+  },
+  {
+    "issueid": "1005845",
+    "episode_id": "1005845@1648641490.000000",
+    "stratum": "short_repeat",
+    "days": 0.7356828703703704,
+    "mechanisms": "incomplete diagnostic evidence; clarification",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Diagnostic input completeness",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Corrupted images/scope clarified quickly, then internal checking begins. A necessary clarification loop, not demonstrated avoidable delay.",
+    "evidence": [
+      {
+        "comment_id": "1062480",
+        "source_rows": "8874,8875,8876,8877,8878,8879,8880,8881",
+        "period": "before"
+      },
+      {
+        "comment_id": "1062498",
+        "source_rows": "8882,8883,8884,8885",
+        "period": "during"
+      },
+      {
+        "comment_id": "1062566",
+        "source_rows": "8886,8887,8888,8889,8890,8891",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1004857",
+    "episode_id": "1004857@1643788687.000000",
+    "stratum": "short_single",
+    "days": 0.10459490740740741,
+    "mechanisms": "active technical investigation; planned monitoring",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "State/work distinction",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Session investigation and planned configuration work occur around Waiting; ownership time is not labor time.",
+    "evidence": [
+      {
+        "comment_id": "1052039",
+        "source_rows": "3106,3107,3108,3109,3110",
+        "period": "before"
+      },
+      {
+        "comment_id": "1052107",
+        "source_rows": "3111,3112,3113,3114,3115,3116",
+        "period": "during"
+      },
+      {
+        "comment_id": "1052201",
+        "source_rows": "3117,3118,3119,3120,3121,3122",
+        "period": "after"
+      }
+    ]
+  },
+  {
+    "issueid": "1006717",
+    "episode_id": "1006717@1653816153.000000",
+    "stratum": "short_single",
+    "days": 0.03111111111111111,
+    "mechanisms": "third-party session dependency",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Dependency readiness",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Session opened by another team and case closed within an hour; no evidence of a preventable breach.",
+    "evidence": [
+      {
+        "comment_id": "1071598",
+        "source_rows": "13239,13240",
+        "period": "before"
+      },
+      {
+        "comment_id": "1071622",
+        "source_rows": "13241,13242",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1007957",
+    "episode_id": "1007957@1659954243.000000",
+    "stratum": "short_single",
+    "days": 2.7787152777777777,
+    "mechanisms": "diagnostic information; technical investigation; expected behavior",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Problem definition and input completeness",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Support concludes behavior matches approved requirements; reporter requests closure. This is not necessarily an incident or defective service.",
+    "evidence": [
+      {
+        "comment_id": "1084725",
+        "source_rows": "21584,21585,21586,21587",
+        "period": "before"
+      },
+      {
+        "comment_id": "1085276",
+        "source_rows": "21592,21593,21594,21595,21596,21597,21598",
+        "period": "during"
+      },
+      {
+        "comment_id": "1085342",
+        "source_rows": "21599,21600,21601",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1005127",
+    "episode_id": "1005127@1644994454.000000",
+    "stratum": "short_single",
+    "days": 1.0430555555555556,
+    "mechanisms": "customer action; restoration confirmation; administrative tail",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Confirmation-to-status timing",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Reporter confirms cache clearing works during Waiting; delay to status update exists, but service already works and no handling standard or available actor established.",
+    "evidence": [
+      {
+        "comment_id": "1054796",
+        "source_rows": "4872,4873,4874",
+        "period": "before"
+      },
+      {
+        "comment_id": "1055109",
+        "source_rows": "4875,4876",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1007323",
+    "episode_id": "1007323@1656662050.000000",
+    "stratum": "short_single",
+    "days": 4.114143518518518,
+    "mechanisms": "configuration confirmation; remote support; off-platform communication",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Confirmation visibility",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "WhatsApp confirmation is referenced but exact restoration and communication times absent; apparent silence is not absence of work.",
+    "evidence": [
+      {
+        "comment_id": "1078033",
+        "source_rows": "17670,17671",
+        "period": "before"
+      },
+      {
+        "comment_id": "1078753",
+        "source_rows": "17677,17678,17679,17680",
+        "period": "during"
+      },
+      {
+        "comment_id": "1078905",
+        "source_rows": "17681,17682,17683,17684",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1009230",
+    "episode_id": "1009230@1665903090.000000",
+    "stratum": "short_single",
+    "days": 1.971400462962963,
+    "mechanisms": "session coordination; technical action",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Connection readiness",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Session nonattendance and later account reset observed. Availability and authorized response standard unknown.",
+    "evidence": [
+      {
+        "comment_id": "1098025",
+        "source_rows": "25378,25379,25380,25381",
+        "period": "before"
+      },
+      {
+        "comment_id": "1098039",
+        "source_rows": "25382,25383,25384",
+        "period": "during"
+      },
+      {
+        "comment_id": "1098599",
+        "source_rows": "25388,25389,25390,25391,25392",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1005913",
+    "episode_id": "1005913@1649062325.000000",
+    "stratum": "short_single",
+    "days": 2.1091435185185183,
+    "mechanisms": "network checks; confirmation",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Diagnostic confirmation",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Connectivity checks requested and closure contemplated; no explicit customer result in packet. Mechanism and elapsed-time necessity remain provisional.",
+    "evidence": [
+      {
+        "comment_id": "1063201",
+        "source_rows": "8972,8973,8974,8975,8976,8977",
+        "period": "before"
+      },
+      {
+        "comment_id": "1063204",
+        "source_rows": "8980,8981,8982,8983",
+        "period": "during"
+      },
+      {
+        "comment_id": "1063348",
+        "source_rows": "8984,8985,8986,8987,8988",
+        "period": "during"
+      }
+    ]
+  },
+  {
+    "issueid": "1010562",
+    "episode_id": "1010562@1671351843.000000",
+    "stratum": "short_single",
+    "days": 0.14777777777777779,
+    "mechanisms": "UAT testing; production deployment; confirmation",
+    "necessary_dependency": "plausible; full duration unclassified",
+    "investigation_lead": "Test/deployment boundary visibility",
+    "verified_avoidable": false,
+    "limits_and_counterevidence": "Successful UAT confirmation followed by production deployment during Waiting. Illustrates necessary stages rather than idle queue time.",
+    "evidence": [
+      {
+        "comment_id": "1111442",
+        "source_rows": "29983,29984,29985,29986",
+        "period": "before"
+      },
+      {
+        "comment_id": "1111478",
+        "source_rows": "29987,29988",
+        "period": "during"
+      },
+      {
+        "comment_id": "1111502",
+        "source_rows": "29989,29990,29991,29992",
+        "period": "during"
+      },
+      {
+        "comment_id": "1111582",
+        "source_rows": "29993",
+        "period": "after"
+      }
+    ]
+  }
+]

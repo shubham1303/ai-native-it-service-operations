@@ -1,0 +1,134 @@
+{
+  "source_sha256": {
+    "EXAMPLE.md": "71de05944e1f1a3240d22716b292eb0586e00423b15bdf1a7513c6f66d945696",
+    "FEATURES.md": "e9443bffac53623293274f8fc1860aec0cadde58056c9b31476d67005a60d495",
+    "holidays_by_country.csv": "f97e9df840ea5ec74f9ffeadf3956e06f315197212d0d41469c6db92b5be68b2",
+    "issues_change_history.csv": "93f6d99893bac6eb755c075dc4a3c3f655cab7c6b4e2d54a3dca0b26e4b6a3c6",
+    "issues.csv": "eab3b8857bc19bd917e0767fb9c30b7714d5468b25c5a1c1cd71a760e9602f02",
+    "issues_snapshot.csv": "89975cd7e0868408ea7b0a701758d54a439255d7814fd3aa14b198f9ea543948",
+    "issues_snapshot_sample.xlsx": "f9b4d947e231ad518d97774bc74d99f44324e472a83198ee0656c6880edb5e92",
+    "sample_utterances.csv": "6486067634164a8d9fc361887b9b700965e704c9b03c87ef4e19275cccf30196"
+  },
+  "observation_cutoff_utc": "2023-03-14 14:19:32+00:00",
+  "cohorts": {
+    "external_ticket": 42803,
+    "broad_service": 49725,
+    "primary_population": 17263,
+    "status_eligible": 17132,
+    "assignment_eligible": 16379
+  },
+  "run_metadata": {
+    "pandas_version": "3.0.1",
+    "sqlite_version": "3.53.1",
+    "sql_sha256": "f474719e5c8e6629c32320d960d4426430965e56f1fb919a52946f714a305637",
+    "pipeline_sha256": "aa9a9d752e075d1627d47a0fbe892109789f999e9bc504b5110dfa037cb181ca",
+    "primary_start": "2019-01-01T00:00:00Z",
+    "primary_definition": "external project pattern and issue_type Ticket",
+    "interval_boundary": "source ended, no assumed time before first observation"
+  },
+  "quality_all": {
+    "events_before_creation": 1,
+    "events_after_endpoint": 984,
+    "invalid_event_times": 0,
+    "status_conflict": 9,
+    "assignee_conflict": 1,
+    "final_status_mismatch": 3,
+    "invalid_bounds": 0,
+    "invalid_resolution_bounds": 0
+  },
+  "quality_primary": {
+    "events_before_creation": 0,
+    "events_after_endpoint": 103,
+    "invalid_event_times": 0,
+    "status_conflict": 5,
+    "assignee_conflict": 0,
+    "final_status_mismatch": 3,
+    "invalid_bounds": 0,
+    "invalid_resolution_bounds": 0
+  },
+  "history": {
+    "source_order_backsteps": 84,
+    "exact_semantic_duplicates": 85,
+    "unknown_fields": [],
+    "orphan_rows": 0
+  },
+  "conflict_groups": 10,
+  "change_groups": {
+    "multiple_issues": 0,
+    "multiple_timestamps": 0
+  },
+  "publisher_reconciliation": {
+    "sum_state_times_matches_total": 66613,
+    "sum_visits_matches_steps": 66691,
+    "total_matches_endpoint_elapsed": 66319,
+    "total_matches_recorded_resolution": 53945,
+    "all_state_times_blank": 78,
+    "issues_with_negative_state_time": 55,
+    "primary_with_negative_state_time": 0
+  },
+  "snapshots": {
+    "duplicate_issue_turn": 0,
+    "overlaps": 0,
+    "gaps": 0,
+    "negative_intervals": 0,
+    "zero_intervals": 326,
+    "start_matches_creation": 66691,
+    "end_matches_endpoint": 66691,
+    "exact_observed_cycle_matches": 24113,
+    "later_cycles": 24272,
+    "later_cycles_exact_matches": 24113,
+    "first_owner_backfilled_before_first_observation": 37389
+  },
+  "text": {
+    "issues": 360,
+    "appraisal_issues": 361,
+    "appraisal_rows": 747,
+    "text_without_appraisal": 0,
+    "appraisal_without_text": 1,
+    "primary_population": 340,
+    "status_eligible": 340,
+    "assignment_eligible": 322,
+    "duplicate_utterance_key": 0,
+    "issue_types": {
+      "Ticket": 340,
+      "Deployment": 10,
+      "HD Service": 10
+    },
+    "creation_years": {
+      "2022": 360
+    },
+    "utterances_before_creation": 0,
+    "utterances_after_recorded_resolution": 1,
+    "utterances_after_endpoint": 1,
+    "inconsistent_comment_metadata": 0,
+    "qualitative_review_issue_ids": [
+      "1008458",
+      "1009623",
+      "1009637",
+      "1007473",
+      "1006726",
+      "1009328",
+      "1004444",
+      "1005729"
+    ]
+  },
+  "initial_status_coverage_primary": {
+    "issues": 17233,
+    "first_update_after_creation": 17233,
+    "median_unobserved_prefix_seconds": 108.0
+  },
+  "endpoint_comparison_primary": {
+    "eligible_status_issues": 17132,
+    "has_recorded_resolution": 16788,
+    "first_resolved_and_recorded_differ_over_60_seconds": 6875
+  },
+  "integrity_check": "ok",
+  "analytical_counts": {
+    "observed_events": 257338,
+    "change_events": 251755,
+    "observed_intervals": 251533,
+    "issue_quality": 66691,
+    "cohort_membership": 66691,
+    "case_observed_measures": 66691
+  }
+}

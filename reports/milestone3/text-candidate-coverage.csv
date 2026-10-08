@@ -1,0 +1,8 @@
+candidate,text_cases,affected_cases,unaffected_cases
+any_waiting,340,237,103
+repeat_waiting,340,57,283
+long_waiting,340,146,194
+validation_return,340,9,331
+reopened,340,15,325
+multiple_handoffs,322,75,247
+resolved_holding,340,25,315

@@ -1,0 +1,11 @@
+creation_year,long_episode,cases,reopen_30d,validation_return_30d
+2019,False,1245,21,93
+2019,True,802,15,22
+2020,False,1247,26,53
+2020,True,685,8,28
+2021,False,1365,40,24
+2021,True,1007,28,5
+2022,False,1788,44,9
+2022,True,1269,31,2
+2023,False,369,14,1
+2023,True,186,2,0
