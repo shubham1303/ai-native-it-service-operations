@@ -1,0 +1,136 @@
+table 'KPI Measures'
+	lineageTag: 4807de9a-c38e-9fdd-bbc0-9156010c27ff
+
+	measure 'Tickets' = COUNTROWS(Tickets)
+		formatString: #,0
+		displayFolder: Volume
+		lineageTag: 16222e2b-010a-03cf-8f34-5c2ef29cc656
+
+	measure 'Resolved Tickets' = COUNT(Tickets[resolution_days])
+		formatString: #,0
+		displayFolder: Volume
+		lineageTag: 0425b071-30fa-6b25-dbce-d40838004f46
+
+	measure 'Unresolved at Export' = [Tickets] - [Resolved Tickets]
+		formatString: #,0
+		displayFolder: Volume
+		lineageTag: 98887fa4-9bd8-8843-14da-d0c66d5930ab
+
+	measure 'Status-Eligible Tickets' = CALCULATE([Tickets], Tickets[status_eligible] = 1)
+		formatString: #,0
+		displayFolder: Volume
+		lineageTag: 1bae7a00-47d0-12bb-66e6-2e29c20c73c2
+
+	measure 'Median Resolution (days)' = MEDIAN(Tickets[resolution_days])
+		formatString: 0.0
+		displayFolder: Resolution
+		lineageTag: 46f1337f-a24a-e738-8142-003a48fd1a83
+
+	measure 'P90 Resolution (days)' = PERCENTILE.INC(Tickets[resolution_days], 0.9)
+		formatString: 0.0
+		displayFolder: Resolution
+		lineageTag: 2ceca343-5bb2-a2da-7ebc-0dcbb838019d
+
+	measure 'Mean Resolution (days)' = AVERAGE(Tickets[resolution_days])
+		formatString: 0.0
+		displayFolder: Resolution
+		lineageTag: 233f7b7f-ee7e-3573-8884-01eab3ab8322
+
+	measure 'Observed Status Days' = SUM('Status Time'[days])
+		formatString: #,0
+		displayFolder: Status time
+		lineageTag: 24f14ddf-d6f4-4ddf-8a72-1433968eea6b
+
+	measure 'Share of Observed Time' = DIVIDE([Observed Status Days], CALCULATE([Observed Status Days], REMOVEFILTERS('Status Time'[status], 'Status Time'[status_label])))
+		formatString: 0.0%
+		displayFolder: Status time
+		lineageTag: 67b5b808-d5e4-d3e7-145e-c1dd774b5a93
+
+	measure 'Waiting Share of Time' = DIVIDE(CALCULATE([Observed Status Days], 'Status Time'[status] = "waiting"), CALCULATE([Observed Status Days], REMOVEFILTERS('Status Time'[status], 'Status Time'[status_label])))
+		formatString: 0.0%
+		displayFolder: Status time
+		lineageTag: e595f276-c717-c660-4ef4-0d3ddec2626d
+
+	measure 'In Progress Share of Time' = DIVIDE(CALCULATE([Observed Status Days], 'Status Time'[status] = "in_progress"), CALCULATE([Observed Status Days], REMOVEFILTERS('Status Time'[status], 'Status Time'[status_label])))
+		formatString: 0.0%
+		displayFolder: Status time
+		lineageTag: f0ce0de9-af95-8ce2-56c4-795669373b60
+
+	measure 'Validation Share of Time' = DIVIDE(CALCULATE([Observed Status Days], 'Status Time'[status] = "validation"), CALCULATE([Observed Status Days], REMOVEFILTERS('Status Time'[status], 'Status Time'[status_label])))
+		formatString: 0.0%
+		displayFolder: Status time
+		lineageTag: a31295c0-0f0f-0d39-9821-66ff5aad95ee
+
+	measure 'Pending Deployment Share of Time' = DIVIDE(CALCULATE([Observed Status Days], 'Status Time'[status] = "pending_deployment"), CALCULATE([Observed Status Days], REMOVEFILTERS('Status Time'[status], 'Status Time'[status_label])))
+		formatString: 0.0%
+		displayFolder: Status time
+		lineageTag: 8874b963-3b4f-a83e-4989-be59b9b2de9e
+
+	measure 'Tickets That Waited' = DIVIDE(CALCULATE([Tickets], Tickets[waiting_entries] > 0), [Status-Eligible Tickets])
+		formatString: 0.0%
+		displayFolder: Waiting
+		lineageTag: 7e3bc0c0-b7ff-c67a-e315-572856060f8c
+
+	measure 'Repeat Waiters' = CALCULATE([Tickets], Tickets[waiting_entries] >= 2)
+		formatString: #,0
+		displayFolder: Waiting
+		lineageTag: 041e63cb-581e-085d-66b7-dde00e7f2714
+
+	measure 'Repeat Waiting Rate' = DIVIDE([Repeat Waiters], [Status-Eligible Tickets])
+		formatString: 0.0%
+		displayFolder: Waiting
+		lineageTag: 25c65cb8-52cc-67d8-10e8-5f5d382e34e4
+
+	measure 'Waiting Time From Repeat Waiters' = DIVIDE(CALCULATE(SUM(Tickets[waiting_days]), Tickets[waiting_entries] >= 2), SUM(Tickets[waiting_days]))
+		formatString: 0.0%
+		displayFolder: Waiting
+		lineageTag: 875308e9-7f26-5229-017b-f92d4c4595bf
+
+	measure 'Waiting Days' = SUM(Tickets[waiting_days])
+		formatString: #,0
+		displayFolder: Waiting
+		lineageTag: 70da917a-ad27-ab27-cf9f-368902156a41
+
+	measure 'Share of All Waiting Time' = DIVIDE([Waiting Days], CALCULATE([Waiting Days], REMOVEFILTERS(Tickets[project])))
+		formatString: 0.0%
+		displayFolder: Waiting
+		lineageTag: e0c869be-80d4-9287-8bab-8c548b00004c
+
+	measure 'Waiting Episodes' = COUNTROWS('Waiting Episodes')
+		formatString: #,0
+		displayFolder: Waiting
+		lineageTag: 709636f4-4ad8-9dde-6b88-3253f2003f32
+
+	measure 'Median Wait (days)' = MEDIAN('Waiting Episodes'[days])
+		formatString: 0.0
+		displayFolder: Waiting
+		lineageTag: f7e7e070-2ef1-fea2-4600-17cac4ef64b5
+
+	measure 'Validation Returns' = SUM(Tickets[validation_returns])
+		formatString: #,0
+		displayFolder: Rework
+		lineageTag: c6ef0f8d-8ebf-8826-ea95-90663f6cf49f
+
+	measure 'Tickets With a Validation Return' = CALCULATE([Tickets], Tickets[validation_returns] > 0)
+		formatString: #,0
+		displayFolder: Rework
+		lineageTag: ba29a13b-c113-f29f-e7ce-b6115c390408
+
+	measure 'Validation Return Rate' = DIVIDE([Tickets With a Validation Return], [Status-Eligible Tickets])
+		formatString: 0.0%
+		displayFolder: Rework
+		lineageTag: 065b3a87-6594-9ce7-de60-afda591ea7c2
+
+	column Placeholder
+		isHidden
+		formatString: 0
+		lineageTag: 94ea8088-aa38-c600-3310-87283d393e4f
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Placeholder]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'KPI Measures' = calculated
+		mode: import
+		source = ROW("Placeholder", BLANK())

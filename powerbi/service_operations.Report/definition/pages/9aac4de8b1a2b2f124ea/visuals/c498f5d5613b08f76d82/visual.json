@@ -1,0 +1,137 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.5.0/schema.json",
+  "name": "c498f5d5613b08f76d82",
+  "position": {
+    "x": 832,
+    "y": 232,
+    "z": 3000,
+    "height": 432,
+    "width": 432,
+    "tabOrder": 3000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Tickets"
+                    }
+                  },
+                  "Property": "priority"
+                }
+              },
+              "queryRef": "Tickets.priority",
+              "nativeQueryRef": "priority",
+              "displayName": "Priority"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "KPI Measures"
+                    }
+                  },
+                  "Property": "Tickets"
+                }
+              },
+              "queryRef": "KPI Measures.Tickets",
+              "nativeQueryRef": "Tickets"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "KPI Measures"
+                    }
+                  },
+                  "Property": "Median Resolution (days)"
+                }
+              },
+              "queryRef": "KPI Measures.Median Resolution (days)",
+              "nativeQueryRef": "Median Resolution (days)",
+              "displayName": "Median days"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "KPI Measures"
+                    }
+                  },
+                  "Property": "P90 Resolution (days)"
+                }
+              },
+              "queryRef": "KPI Measures.P90 Resolution (days)",
+              "nativeQueryRef": "P90 Resolution (days)",
+              "displayName": "P90 days"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "KPI Measures"
+                    }
+                  },
+                  "Property": "Waiting Share of Time"
+                }
+              },
+              "queryRef": "KPI Measures.Waiting Share of Time",
+              "nativeQueryRef": "Waiting Share of Time",
+              "displayName": "Waiting share"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "Tickets"
+                  }
+                },
+                "Property": "priority"
+              }
+            },
+            "direction": "Ascending"
+          }
+        ]
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'By Recorded Priority'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+relationship 1e6d36a0-39b2-e602-ac7e-3c4036a39398
+	fromColumn: 'Status Time'.ticket_id
+	toColumn: Tickets.ticket_id
+
+relationship 9745677e-b94c-12d2-4525-b9a76e2954d6
+	fromColumn: 'Waiting Episodes'.ticket_id
+	toColumn: Tickets.ticket_id
+
+relationship 9021fd61-49ff-6c8e-d5ab-e37593942897
+	fromColumn: Tickets.created_date
+	toColumn: Date.Date

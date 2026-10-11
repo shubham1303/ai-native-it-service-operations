@@ -1,0 +1,66 @@
+table Date
+	lineageTag: 44749712-dbec-183e-983d-cd78a7736c41
+	dataCategory: Time
+
+	column Date
+		dataType: dateTime
+		isKey
+		isUnique
+		formatString: Short Date
+		lineageTag: 0da58f38-3b14-461e-f496-d79954aa73e3
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Date]
+
+		annotation SummarizationSetBy = Automatic
+
+	column Year
+		dataType: string
+		lineageTag: ab808065-13f5-5460-d3a6-ae03e6c52a88
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Year]
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Year Month'
+		dataType: string
+		lineageTag: d7dcca8d-61f2-0e2f-6bae-5b9efd39945d
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Year Month]
+		sortByColumn: 'Year Month Sort'
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Year Month Sort'
+		dataType: int64
+		formatString: 0
+		isHidden
+		lineageTag: 7bb075ff-f31d-931f-c9a3-b01af2a28163
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Year Month Sort]
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Month Start'
+		dataType: dateTime
+		formatString: mmm yyyy
+		lineageTag: a96f6368-6f8d-eecf-119e-316d564d8222
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Month Start]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Date = calculated
+		mode: import
+		source =
+				ADDCOLUMNS(
+				    CALENDAR(DATE(2019, 1, 1), DATE(2023, 3, 31)),
+				    "Year", FORMAT([Date], "YYYY"),
+				    "Year Month", FORMAT([Date], "YYYY-MM"),
+				    "Year Month Sort", YEAR([Date]) * 100 + MONTH([Date]),
+				    "Month Start", DATE(YEAR([Date]), MONTH([Date]), 1)
+				)

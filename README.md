@@ -52,6 +52,26 @@ Longer write-ups:
 - [docs/avoidability-evidence-standard.md](docs/avoidability-evidence-standard.md) - what would count as "avoidable"
 - [docs/decision-log.md](docs/decision-log.md) - why I made the calls I made
 
+## Dashboard
+
+There's a Power BI version of the baseline in `powerbi/` (open
+`service_operations.pbip` in Power BI Desktop). It's meant to show where the work
+sits today, not to argue for a fix, so it sticks to the definitions in
+[docs/metric-dictionary.md](docs/metric-dictionary.md). Each page has a note at the
+bottom saying what the numbers can and can't be used for.
+
+![Service baseline](docs/images/dashboard-baseline.png)
+
+![Where the time goes](docs/images/dashboard-status-time.webp)
+
+![Waiting](docs/images/dashboard-waiting.webp)
+
+The data comes from three small CSVs in `data/dashboard/` that
+`scripts/export_dashboard_data.py` builds from the SQLite db. They're committed, so
+the dashboard works without rerunning the whole pipeline. If your copy of the repo
+isn't at `C:\Projects\AI-Native IT Service Operations`, change the `DataFolder`
+parameter in Power BI (Transform data → Edit parameters) before refreshing.
+
 ## Running it
 
 Python 3.11+.
@@ -65,6 +85,7 @@ python scripts/discover_operations.py  # milestone 3 numbers
 python scripts/validate_mechanisms.py  # milestone 4 waiting episodes + review packets
 python scripts/record_mechanism_review.py
 python -m unittest discover -s tests -v
+python scripts/export_dashboard_data.py  # csvs for the power bi dashboard
 ```
 
 The SQLite db ends up around 200 MB, so it's not committed. Neither is the raw data.
@@ -79,7 +100,8 @@ sql/       process reconstruction and episode queries (SQLite)
 tests/     25 tests, mostly synthetic edge cases + checks against the real db
 reports/   outputs per milestone
 docs/      methods, data dictionary, decisions, findings
-data/      raw downloads + the built db (gitignored)
+data/      raw downloads + the built db (gitignored), dashboard csvs
+powerbi/   the dashboard (PBIP project)
 ```
 
 ## What's next

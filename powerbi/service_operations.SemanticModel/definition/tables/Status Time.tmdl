@@ -1,0 +1,63 @@
+table 'Status Time'
+	lineageTag: 1b7d1916-7ad9-77bc-cb0b-7b8365d8cac1
+
+	column ticket_id
+		dataType: int64
+		formatString: 0
+		isHidden
+		lineageTag: cda71fb1-d55b-16b8-9998-51a2780bac6e
+		summarizeBy: none
+		sourceColumn: ticket_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column status
+		dataType: string
+		isHidden
+		lineageTag: 2072805b-29f1-a271-ca91-8278d89c2f5a
+		summarizeBy: none
+		sourceColumn: status
+
+		annotation SummarizationSetBy = Automatic
+
+	column days
+		dataType: double
+		formatString: 0.0
+		lineageTag: b2bf1979-be23-7a67-14bd-498ce6cd5467
+		summarizeBy: none
+		sourceColumn: days
+
+		annotation SummarizationSetBy = Automatic
+
+	column intervals
+		dataType: int64
+		formatString: 0
+		lineageTag: a5631db9-9204-133a-e334-81913c4be44a
+		summarizeBy: none
+		sourceColumn: intervals
+
+		annotation SummarizationSetBy = Automatic
+
+	column status_label
+		dataType: string
+		lineageTag: e530f8d6-c0ed-929a-bd71-d019fc61a900
+		summarizeBy: none
+		sourceColumn: status_label
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Status Time' = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\status_time.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Headers, {{"ticket_id", Int64.Type}, {"status", type text}, {"days", type number}, {"intervals", Int64.Type}}, "en-US"),
+				    Labels = [waiting = "Waiting", in_progress = "In progress", validation = "Validation", pending_deployment = "Pending deployment",
+				        resolved = "Resolved", resolved_under_monitoring = "Resolved (monitoring)", closed = "Closed"],
+				    // the other nine statuses are under 1% of observed time between them, so they share one bar
+				    WithLabel = Table.AddColumn(Typed, "status_label", each Record.FieldOrDefault(Labels, [status], "Other"), type text)
+				in
+				    WithLabel
+
+	annotation PBI_ResultType = Table

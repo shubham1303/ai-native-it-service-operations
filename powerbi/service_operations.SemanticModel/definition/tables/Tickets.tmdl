@@ -1,0 +1,154 @@
+table Tickets
+	lineageTag: c1c694bd-849d-91d0-eb34-bfef8c2d8894
+
+	column ticket_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 5bfd0d93-e3af-bcad-eb39-676eceb0a210
+		summarizeBy: none
+		sourceColumn: ticket_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column created_date
+		dataType: dateTime
+		formatString: Short Date
+		lineageTag: a011773c-23f9-b495-7038-cdc4cc33fdba
+		summarizeBy: none
+		sourceColumn: created_date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column project
+		dataType: string
+		lineageTag: fa7ca93c-f72f-cd51-4642-6b54b8aa4e91
+		summarizeBy: none
+		sourceColumn: project
+
+		annotation SummarizationSetBy = Automatic
+
+	column priority
+		dataType: string
+		lineageTag: b12d94ae-ea6e-d375-d1b2-7e707ff0c791
+		summarizeBy: none
+		sourceColumn: priority
+		sortByColumn: priority_order
+
+		annotation SummarizationSetBy = Automatic
+
+	column final_status
+		dataType: string
+		lineageTag: b990f9ce-82d8-d2c3-c726-ac82aa687b3f
+		summarizeBy: none
+		sourceColumn: final_status
+
+		annotation SummarizationSetBy = Automatic
+
+	column status_eligible
+		dataType: int64
+		formatString: 0
+		isHidden
+		lineageTag: e01f07fb-3040-bcd1-8d92-0c18a285c0d6
+		summarizeBy: none
+		sourceColumn: status_eligible
+
+		annotation SummarizationSetBy = Automatic
+
+	column assignment_eligible
+		dataType: int64
+		formatString: 0
+		isHidden
+		lineageTag: 2221fe45-3338-3ce8-64c0-821ad902fc25
+		summarizeBy: none
+		sourceColumn: assignment_eligible
+
+		annotation SummarizationSetBy = Automatic
+
+	column resolution_days
+		dataType: double
+		formatString: 0.0
+		lineageTag: cd79c274-4f19-7652-e6b0-5365fe54d04a
+		summarizeBy: none
+		sourceColumn: resolution_days
+
+		annotation SummarizationSetBy = Automatic
+
+	column observed_status_days
+		dataType: double
+		formatString: 0.0
+		lineageTag: 96218a50-6562-04ee-2dca-450e7b7b6cff
+		summarizeBy: none
+		sourceColumn: observed_status_days
+
+		annotation SummarizationSetBy = Automatic
+
+	column waiting_days
+		dataType: double
+		formatString: 0.0
+		lineageTag: e313856c-5e35-983d-b413-a8d7f296fbbd
+		summarizeBy: none
+		sourceColumn: waiting_days
+
+		annotation SummarizationSetBy = Automatic
+
+	column waiting_entries
+		dataType: int64
+		formatString: 0
+		lineageTag: 506c9d33-045c-6606-1455-049087cf5301
+		summarizeBy: none
+		sourceColumn: waiting_entries
+
+		annotation SummarizationSetBy = Automatic
+
+	column validation_returns
+		dataType: int64
+		formatString: 0
+		lineageTag: d653c4f5-b22a-fceb-b0ae-2579443d0ec0
+		summarizeBy: none
+		sourceColumn: validation_returns
+
+		annotation SummarizationSetBy = Automatic
+
+	column reopen_entries
+		dataType: int64
+		formatString: 0
+		lineageTag: fc22aac4-e92c-d7d3-8eef-7adbab090512
+		summarizeBy: none
+		sourceColumn: reopen_entries
+
+		annotation SummarizationSetBy = Automatic
+
+	column named_handoffs
+		dataType: int64
+		formatString: 0
+		lineageTag: 070c59c7-7530-bcb2-5c0c-fd985f89d3d4
+		summarizeBy: none
+		sourceColumn: named_handoffs
+
+		annotation SummarizationSetBy = Automatic
+
+	column priority_order
+		dataType: int64
+		formatString: 0
+		isHidden
+		lineageTag: 9cad38c8-18ec-e686-e362-157cce2a6f94
+		summarizeBy: none
+		sourceColumn: priority_order
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Tickets = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\tickets.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Headers, {{"ticket_id", Int64.Type}, {"created_date", type date}, {"project", type text}, {"priority", type text}, {"final_status", type text}, {"status_eligible", Int64.Type}, {"assignment_eligible", Int64.Type}, {"resolution_days", type number}, {"observed_status_days", type number}, {"waiting_days", type number}, {"waiting_entries", Int64.Type}, {"validation_returns", Int64.Type}, {"reopen_entries", Int64.Type}, {"named_handoffs", Int64.Type}}, "en-US"),
+				    Priority = Table.TransformColumns(Typed, {{"priority", each if _ = "unknown" then "Unknown" else _, type text}}),
+				    WithPriorityOrder = Table.AddColumn(Priority, "priority_order", each List.PositionOf({"Blocker", "Highest", "High", "Medium", "Low", "Lowest", "Unknown"}, [priority]) + 1, Int64.Type)
+				in
+				    WithPriorityOrder
+
+	annotation PBI_ResultType = Table

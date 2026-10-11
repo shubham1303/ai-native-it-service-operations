@@ -1,0 +1,77 @@
+table 'Waiting Episodes'
+	lineageTag: 189dee5e-eb7e-d437-0f37-4f3de47fa163
+
+	column ticket_id
+		dataType: int64
+		formatString: 0
+		isHidden
+		lineageTag: f4985a7a-a839-c5c4-aadf-bc11549d2116
+		summarizeBy: none
+		sourceColumn: ticket_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column episode_number
+		dataType: int64
+		formatString: 0
+		lineageTag: bed5c671-56e7-3861-c699-308db585c38f
+		summarizeBy: none
+		sourceColumn: episode_number
+
+		annotation SummarizationSetBy = Automatic
+
+	column started_date
+		dataType: dateTime
+		formatString: Short Date
+		lineageTag: 25861185-f280-d54a-151a-d8e8f7263994
+		summarizeBy: none
+		sourceColumn: started_date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column days
+		dataType: double
+		formatString: 0.0
+		lineageTag: 7476c715-5ba2-3da5-a3ad-f8f5efa86162
+		summarizeBy: none
+		sourceColumn: days
+
+		annotation SummarizationSetBy = Automatic
+
+	column length_band
+		dataType: string
+		lineageTag: e55767c2-4c2b-2d90-9aa2-5e117602b9b7
+		summarizeBy: none
+		sourceColumn: length_band
+		sortByColumn: length_band_order
+
+		annotation SummarizationSetBy = Automatic
+
+	column length_band_order
+		dataType: int64
+		formatString: 0
+		isHidden
+		lineageTag: 60c4de71-c509-4531-8f5b-5aabc28e296f
+		summarizeBy: none
+		sourceColumn: length_band_order
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Waiting Episodes' = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "\waiting_episodes.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Headers, {{"ticket_id", Int64.Type}, {"episode_number", Int64.Type}, {"started_date", type date}, {"days", type number}}, "en-US"),
+				    // zero-length waits are status flicker, the milestone 4 counts use positive episodes only
+				    Positive = Table.SelectRows(Typed, each [days] > 0),
+				    Bands = {{1, "Under 1 day"}, {3, "1-3 days"}, {7, "3-7 days"}, {14, "1-2 weeks"}, {30, "2-4 weeks"}, {999999, "Over 4 weeks"}},
+				    WithBand = Table.AddColumn(Positive, "length_band", each List.First(List.Select(Bands, (b) => [days] < b{0})){1}, type text),
+				    WithOrder = Table.AddColumn(WithBand, "length_band_order", each List.PositionOf(List.Transform(Bands, each _{1}), [length_band]) + 1, Int64.Type)
+				in
+				    WithOrder
+
+	annotation PBI_ResultType = Table

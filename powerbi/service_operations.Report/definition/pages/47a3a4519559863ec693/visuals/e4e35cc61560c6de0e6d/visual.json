@@ -1,0 +1,137 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.5.0/schema.json",
+  "name": "e4e35cc61560c6de0e6d",
+  "position": {
+    "x": 652,
+    "y": 232,
+    "z": 3000,
+    "height": 432,
+    "width": 612,
+    "tabOrder": 3000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Tickets"
+                    }
+                  },
+                  "Property": "project"
+                }
+              },
+              "queryRef": "Tickets.project",
+              "nativeQueryRef": "project",
+              "displayName": "Project"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "KPI Measures"
+                    }
+                  },
+                  "Property": "Tickets"
+                }
+              },
+              "queryRef": "KPI Measures.Tickets",
+              "nativeQueryRef": "Tickets"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "KPI Measures"
+                    }
+                  },
+                  "Property": "Waiting Days"
+                }
+              },
+              "queryRef": "KPI Measures.Waiting Days",
+              "nativeQueryRef": "Waiting Days",
+              "displayName": "Waiting days"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "KPI Measures"
+                    }
+                  },
+                  "Property": "Share of All Waiting Time"
+                }
+              },
+              "queryRef": "KPI Measures.Share of All Waiting Time",
+              "nativeQueryRef": "Share of All Waiting Time",
+              "displayName": "Share of all waiting"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "KPI Measures"
+                    }
+                  },
+                  "Property": "Repeat Waiters"
+                }
+              },
+              "queryRef": "KPI Measures.Repeat Waiters",
+              "nativeQueryRef": "Repeat Waiters",
+              "displayName": "Repeat waiters"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "KPI Measures"
+                  }
+                },
+                "Property": "Waiting Days"
+              }
+            },
+            "direction": "Descending"
+          }
+        ]
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Projects by Waiting Time (project names are masked in the source)'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

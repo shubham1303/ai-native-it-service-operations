@@ -20,3 +20,7 @@ docs/project-state.md
 # big regenerated outputs (python scripts/validate_process.py rebuilds them)
 reports/milestone2/case-quality-register.csv
 reports/milestone2/unobserved-prefixes.csv
+
+# power bi project local files
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
