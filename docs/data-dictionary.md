@@ -4,7 +4,7 @@ Version: Milestone 2. The publisher's `FEATURES.md` remains unchanged under raw 
 
 ## Layers
 
-| Layer | Location | Contract |
+| Layer | Location | Rules |
 |---|---|---|
 | Raw | data/raw/helpdesk_v3 | Original bytes, publisher checksums, no edits |
 | Staging | SQLite tables named stg_* in data/analytical/service_operations.sqlite | Original values plus exact normalized keys, UTC timestamps and row lineage |

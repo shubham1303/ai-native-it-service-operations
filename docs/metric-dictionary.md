@@ -1,14 +1,14 @@
 # Supported metrics and observation rules
 
-Status: approved definitions for Milestone 3 discovery, not final selected-problem baselines. All measures describe historical records. No metric below measures post-intervention impact.
+These are the definitions I used for Milestone 3 discovery. They aren't baselines for a selected problem. Every measure describes historical records, and none of them measures post-intervention impact.
 
 ## Observation boundaries
 
-The latest observed export timestamp is **2023-03-14 14:19:32 UTC**. This is an observed data boundary, not a independently documented extraction contract. An issue's `ended` is the endpoint supplied in its summary. Intervals stop there; we do not assume activity persisted to the global boundary.
+The latest observed export timestamp is **2023-03-14 14:19:32 UTC**. This is an observed data boundary, not an independently documented extraction cutoff. An issue's `ended` is the endpoint supplied in its summary. Intervals stop there; I don't assume activity carried on to the global boundary.
 
 The primary population is external-project Ticket records created from 2019-01-01 to the observed export boundary. At extraction, **475** primary cases lack a recorded resolution date. Keep these in volume and missing-outcome counts. Completed-only elapsed-time summaries exclude them and must state their denominator and selection limitation. Treat them as unresolved/unknown outcome at the observed endpoint; do not silently impute a duration.
 
-The source has incomplete initial history and uncertain capture beyond some case endpoints. Thus full-population survival estimates, exact organization backlog and continuous open-state occupancy are not approved yet. If later survival analysis is proposed, establish a justified censoring time separately. Compare equivalent follow-up windows; do not interpret short 2023 durations as improvement.
+The source has incomplete initial history and uncertain capture beyond some case endpoints. So these metrics don't yet support full-population survival estimates, exact organization backlog or continuous open-state occupancy. If later survival analysis is proposed, establish a justified censoring time separately. Compare equivalent follow-up windows; do not interpret short 2023 durations as improvement.
 
 ## Definitions
 
@@ -24,7 +24,7 @@ The source has incomplete initial history and uncertain capture beyond some case
 | Observed named handoffs | Changes between two different nonblank assignee IDs | 16,379 assignment-eligible cases | First assignment excluded; group transfers unsupported |
 | Cases with a named handoff | Cases with ≥1 named handoff / assignment-eligible cases | 16,379 | Not a full organization transfer rate; missing-history cases are excluded |
 | Assignment blank transitions | Changes to/from blank owner, separately counted | Assignment-eligible cases | Cannot interpret blank as a known unassigned state without qualification |
-| Data-quality exclusion rate | Primary cases failing the relevant metric gate / primary records | Status: 131/17,263; assignment: 884/17,263 | Separate coverage rates; do not combine or hide exclusions |
+| Data-quality exclusion rate | Primary cases failing that metric's eligibility rules / primary records | Status: 131/17,263; assignment: 884/17,263 | Separate coverage rates; do not combine or hide exclusions |
 | Priority distribution | Count/share of recorded priority labels, including unknown | Explicit cohort and period | Descriptive latest metadata; initial priority not established |
 
 Percentages must use case counts, not event or utterance counts. Aggregate a case once before joining multiple child tables. Duration percentages use summed elapsed time for a stated interval population and must not be presented as staff workload shares.

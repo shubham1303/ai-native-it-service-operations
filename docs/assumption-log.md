@@ -19,11 +19,10 @@
 | A15 | Seven calendar days is an operational breach | Rejected. It is a diagnostic threshold; 3/14/30-day sensitivity is reported. No contractual SLA exists in the source. |
 | A16 | Repeated-wait duration gap is the time an intervention can save | Rejected. Severity, duration exposure, case selection and confounding remain. No counterfactual measured. |
 | A17 | Text process patterns represent all eligible 2022 tickets | Disproved for recurrence rate: 16.8% vs 6.0%. Case-reason labels/evaluation must retain sample restrictions. |
-
 | A18 | Validation → In-progress is a failed-validation/rework label | Rejected as a universal interpretation. Reviewed case 1006849 records successful testing then production deployment. Actual rework also appears outside this exact transition. |
 | A19 | Named assignee changes explain most repeated Waiting | Not supported by recorded gaps: handoffs in 88/1,941 assignment-eligible gaps; unrecorded cross-team work remains possible. |
 | A20 | A long Waiting episode predicts worse subsequent service | Not established. Pooled recorded reopening/validation-return rates are not higher after long first waits at 3/7/14-day thresholds; incomplete observation and confounding prevent causal or predictive claims. |
 | A21 | Diagnostic-information and dependency coordination is the core problem | Stronger specific lead, still unvalidated. Representative burden, ready-to-act time, feasible actor and independent harm require more evidence. |
 | A22 | Closed/Resolved always means service restored | Rejected as a universal interpretation. Reviewed text includes nonresponse closure, restoration before status exit and testing/deployment work after resolution labels. |
 
-No assumptions about hourly cost, handling-time savings, SLA targets or automation benefits have been introduced.
+I haven't introduced any assumptions about hourly cost, handling-time savings, SLA targets or automation benefits.

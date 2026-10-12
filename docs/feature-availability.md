@@ -1,6 +1,6 @@
-# Point-in-time feature register
+# When each field becomes available
 
-No feature set or AI intervention is selected. This register prevents retrospective data from becoming prospective input by accident.
+No feature set or AI intervention has been selected. This table records when each field is actually known, so that data recorded after the fact doesn't get used by accident as if it were available earlier.
 
 | Field family | Earliest defensible availability | Policy |
 |---|---|---|
